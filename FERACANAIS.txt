@@ -1,0 +1,869 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="A&E | HD" tvg-name="A&E HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/A%26E_HD.png" group-title="CANAIS: FILMES E SERIES",A&E HD
+http://familytv.net:80/live/Peterson/Peterson/40074.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="A&E | HD" tvg-name="A&E HD*" tvg-logo="https://www.cabonnet.com.br/ourinhos/uploads/canais/13082018090432.png" group-title="CANAIS: FILMES E SERIES",A&E HD*
+http://familytv.net:80/live/Peterson/Peterson/57176.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL KASS SPORTS 1 HD¹" tvg-logo="https://www.paralympic.org/sites/default/files/styles/large_original/public/images/151015132852742_Incredible%2BSupport.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",AL KASS SPORTS 1 HD¹
+http://familytv.net:80/live/Peterson/Peterson/100038.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL KASS SPORTS 2 HD¹" tvg-logo="http://familytv.net:80/images/584796d01913c0ebeb8d58eeda0075b4.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",AL KASS SPORTS 2 HD¹
+http://familytv.net:80/live/Peterson/Peterson/100039.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL KASS SPORTS 3 HD¹" tvg-logo="http://familytv.net:80/images/584796d01913c0ebeb8d58eeda0075b4.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",AL KASS SPORTS 3 HD¹
+http://familytv.net:80/live/Peterson/Peterson/100040.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL KASS SPORTS 4 HD¹" tvg-logo="http://familytv.net:80/images/584796d01913c0ebeb8d58eeda0075b4.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",AL KASS SPORTS 4 HD¹
+http://familytv.net:80/live/Peterson/Peterson/100041.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AL KASS SPORTS 5 HD¹" tvg-logo="http://familytv.net:80/images/584796d01913c0ebeb8d58eeda0075b4.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",AL KASS SPORTS 5 HD¹
+http://familytv.net:80/live/Peterson/Peterson/100042.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="AMC | HD" tvg-name="AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png" group-title="CANAIS: FILMES E SERIES",AMC HD
+http://familytv.net:80/live/Peterson/Peterson/40076.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="AMC | HD" tvg-name="AMC HD*" tvg-logo="http://abre.ai/Xt5" group-title="CANAIS: FILMES E SERIES",AMC HD*
+http://familytv.net:80/live/Peterson/Peterson/57174.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Animal Planet | HD" tvg-name="ANIMAL PLANET 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="CANAIS: 4K",ANIMAL PLANET 4K
+http://familytv.net:80/live/Peterson/Peterson/58401.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Animal Planet | FHD" tvg-name="ANIMAL PLANET FULLHD H264" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/animalplanet2019.png" group-title="CANAIS: DOCUMENTARIOS",ANIMAL PLANET FULLHD H264
+http://familytv.net:80/live/Peterson/Peterson/99064.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Animal Planet | HD" tvg-name="ANIMAL PLANET HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/animalplanet2019.png" group-title="CANAIS: DOCUMENTARIOS",ANIMAL PLANET HD
+http://familytv.net:80/live/Peterson/Peterson/40003.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Animal Planet | HD" tvg-name="ANIMAL PLANET HD*" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/animalplanet2019.png" group-title="CANAIS: DOCUMENTARIOS",ANIMAL PLANET HD*
+http://familytv.net:80/live/Peterson/Peterson/57161.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="AXN | FHD" tvg-name="AXN FULLHD H264" tvg-logo="https://logoeps.com/wp-content/uploads/2012/10/axn-vector-logo.png" group-title="CANAIS: LEGENDADOS",AXN FULLHD H264
+http://familytv.net:80/live/Peterson/Peterson/99103.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="AXN | HD" tvg-name="AXN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AXN_logo.svg/1280px-AXN_logo.svg.png" group-title="CANAIS: FILMES E SERIES",AXN HD
+http://familytv.net:80/live/Peterson/Peterson/40078.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="AXN | HD" tvg-name="AXN HD" tvg-logo="https://logoeps.com/wp-content/uploads/2012/10/axn-vector-logo.png" group-title="CANAIS: LEGENDADOS",AXN HD
+http://familytv.net:80/live/Peterson/Peterson/99104.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="AXN | HD" tvg-name="AXN HD*" tvg-logo="https://logoeps.com/wp-content/uploads/2012/10/axn-vector-logo.png" group-title="CANAIS: FILMES E SERIES",AXN HD*
+http://familytv.net:80/live/Peterson/Peterson/57177.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="BABYTV HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" group-title="CANAIS: INFANTIS",BABYTV HD*
+http://familytv.net:80/live/Peterson/Peterson/57195.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND" tvg-logo="https://i.pinimg.com/originals/5a/7d/35/5a7d3504cbc28a424a9eaf8633b8ed0e.png" group-title="CANAIS: 4K",BAND
+http://familytv.net:80/live/Peterson/Peterson/58395.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND BSB ¹" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="CANAIS: ABERTOS",BAND BSB ¹
+http://familytv.net:80/live/Peterson/Peterson/39889.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Band Campinas | HD" tvg-name="BAND CAMPINAS ¹" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="CANAIS: ABERTOS",BAND CAMPINAS ¹
+http://familytv.net:80/live/Peterson/Peterson/39890.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Band News | HD" tvg-name="BAND NEWS HD*" tvg-logo="http://abre.ai/XtS" group-title="CANAIS: NOTICIAS",BAND NEWS HD*
+http://familytv.net:80/live/Peterson/Peterson/57223.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Band RJ | HD" tvg-name="BAND RJ ¹" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="CANAIS: ABERTOS",BAND RJ ¹
+http://familytv.net:80/live/Peterson/Peterson/39891.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Band RS | HD" tvg-name="BAND RS ¹" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="CANAIS: ABERTOS",BAND RS ¹
+http://familytv.net:80/live/Peterson/Peterson/39892.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND SERGIPE ¹" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="CANAIS: ABERTOS",BAND SERGIPE ¹
+http://familytv.net:80/live/Peterson/Peterson/39893.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND SP ¹" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="CANAIS: ABERTOS",BAND SP ¹
+http://familytv.net:80/live/Peterson/Peterson/39894.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Band Sports | FHD" tvg-name="BAND SPORTS FULLHD H264" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandsports-logo.png" group-title="CANAIS: ESPORTES",BAND SPORTS FULLHD H264
+http://familytv.net:80/live/Peterson/Peterson/99027.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND TV GOIANIA ¹" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="CANAIS: ABERTOS",BAND TV GOIANIA ¹
+http://familytv.net:80/live/Peterson/Peterson/39896.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="BIS | HD" tvg-name="BIS HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/bis.png" group-title="CANAIS: VARIEDADES",BIS HD
+http://familytv.net:80/live/Peterson/Peterson/40052.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG PT *" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/bloomberg.png" group-title="CANAIS: NOTICIAS",BLOOMBERG PT *
+http://familytv.net:80/live/Peterson/Peterson/95846.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG USA *" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/bloomberg.png" group-title="CANAIS: NOTICIAS",BLOOMBERG USA *
+http://familytv.net:80/live/Peterson/Peterson/95847.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Boomerang | FHD" tvg-name="BOOMERANG HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="CANAIS: INFANTIS",BOOMERANG HD
+http://familytv.net:80/live/Peterson/Peterson/57199.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="BOOMERANG FHD***" tvg-name="BOOMERANG HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/OnAir_Logo_Boomerang_HD_2015.png" group-title="CANAIS: INFANTIS",BOOMERANG HD+
+http://familytv.net:80/live/Peterson/Peterson/88705.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Canal Sony | HD" tvg-name="CANAL SONY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Sony_logo.svg/1113px-Canal_Sony_logo.svg.png" group-title="CANAIS: FILMES E SERIES",CANAL SONY HD
+http://familytv.net:80/live/Peterson/Peterson/40082.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Canal Sony | HD" tvg-name="CANAL SONY HD*" tvg-logo="http://abre.ai/Xue" group-title="CANAIS: FILMES E SERIES",CANAL SONY HD*
+http://familytv.net:80/live/Peterson/Peterson/57180.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Cartoon Network | HD" tvg-name="CARTOON NETWORK 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/1280px-Cartoon_Network_2004_logo.svg.png" group-title="CANAIS: 4K",CARTOON NETWORK 4K
+http://familytv.net:80/live/Peterson/Peterson/58399.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Cartoon Network | HD" tvg-name="CARTOON NETWORK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/1280px-Cartoon_Network_2004_logo.svg.png" group-title="CANAIS: INFANTIS",CARTOON NETWORK HD
+http://familytv.net:80/live/Peterson/Peterson/40031.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Cartoon Network | HD" tvg-name="CARTOON NETWORK HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/1280px-Cartoon_Network_2004_logo.svg.png" group-title="CANAIS: INFANTIS",CARTOON NETWORK HD*
+http://familytv.net:80/live/Peterson/Peterson/57200.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CAÇA E PESCA" tvg-logo="http://familytv.net:80/images/04c3838e33ada66d20bdf806eb646100.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",CAÇA E PESCA
+http://familytv.net:80/live/Peterson/Peterson/100045.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CINE PIPOCA 1" tvg-logo="http://3.bp.blogspot.com/-WyO44KvwVNQ/UR0el-mXQeI/AAAAAAAACz4/Px9_rXmnlIQ/s1600/logo+pipoca.png" group-title="CANAIS: FILMES ESPECIAIS ",CINE PIPOCA 1
+http://familytv.net:80/live/Peterson/Peterson/102736.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CINE PIPOCA 2" tvg-logo="http://3.bp.blogspot.com/-WyO44KvwVNQ/UR0el-mXQeI/AAAAAAAACz4/Px9_rXmnlIQ/s1600/logo+pipoca.png" group-title="CANAIS: FILMES ESPECIAIS ",CINE PIPOCA 2
+http://familytv.net:80/live/Peterson/Peterson/102742.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CINE PIPOCA 3" tvg-logo="http://3.bp.blogspot.com/-WyO44KvwVNQ/UR0el-mXQeI/AAAAAAAACz4/Px9_rXmnlIQ/s1600/logo+pipoca.png" group-title="CANAIS: FILMES ESPECIAIS ",CINE PIPOCA 3
+http://familytv.net:80/live/Peterson/Peterson/102743.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CINE PIPOCA 4" tvg-logo="http://3.bp.blogspot.com/-WyO44KvwVNQ/UR0el-mXQeI/AAAAAAAACz4/Px9_rXmnlIQ/s1600/logo+pipoca.png" group-title="CANAIS: FILMES ESPECIAIS ",CINE PIPOCA 4
+http://familytv.net:80/live/Peterson/Peterson/102744.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CINE PIPOCA 5" tvg-logo="http://3.bp.blogspot.com/-WyO44KvwVNQ/UR0el-mXQeI/AAAAAAAACz4/Px9_rXmnlIQ/s1600/logo+pipoca.png" group-title="CANAIS: FILMES ESPECIAIS ",CINE PIPOCA 5
+http://familytv.net:80/live/Peterson/Peterson/102745.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CINE PIPOCA 11" tvg-logo="http://3.bp.blogspot.com/-WyO44KvwVNQ/UR0el-mXQeI/AAAAAAAACz4/Px9_rXmnlIQ/s1600/logo+pipoca.png" group-title="CANAIS: FILMES ESPECIAIS ",CINE PIPOCA 11
+http://familytv.net:80/live/Peterson/Peterson/102738.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CINE PIPOCA 12" tvg-logo="http://3.bp.blogspot.com/-WyO44KvwVNQ/UR0el-mXQeI/AAAAAAAACz4/Px9_rXmnlIQ/s1600/logo+pipoca.png" group-title="CANAIS: FILMES ESPECIAIS ",CINE PIPOCA 12
+http://familytv.net:80/live/Peterson/Peterson/102739.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e1/Sky_Cinema_HD_logo_2016.png/revision/latest?cb=20160709144504" group-title="CANAIS: FILMES ESPECIAIS ",CINE SKY 01 HD
+http://familytv.net:80/live/Peterson/Peterson/102750.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 02 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e1/Sky_Cinema_HD_logo_2016.png/revision/latest?cb=20160709144504" group-title="CANAIS: FILMES ESPECIAIS ",CINE SKY 02 HD
+http://familytv.net:80/live/Peterson/Peterson/102751.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 03 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e1/Sky_Cinema_HD_logo_2016.png/revision/latest?cb=20160709144504" group-title="CANAIS: FILMES ESPECIAIS ",CINE SKY 03 HD
+http://familytv.net:80/live/Peterson/Peterson/102752.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 04 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e1/Sky_Cinema_HD_logo_2016.png/revision/latest?cb=20160709144504" group-title="CANAIS: FILMES ESPECIAIS ",CINE SKY 04 HD
+http://familytv.net:80/live/Peterson/Peterson/102753.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 05 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e1/Sky_Cinema_HD_logo_2016.png/revision/latest?cb=20160709144504" group-title="CANAIS: FILMES ESPECIAIS ",CINE SKY 05 HD
+http://familytv.net:80/live/Peterson/Peterson/102754.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 06 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e1/Sky_Cinema_HD_logo_2016.png/revision/latest?cb=20160709144504" group-title="CANAIS: FILMES ESPECIAIS ",CINE SKY 06 HD
+http://familytv.net:80/live/Peterson/Peterson/102755.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 07 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e1/Sky_Cinema_HD_logo_2016.png/revision/latest?cb=20160709144504" group-title="CANAIS: FILMES ESPECIAIS ",CINE SKY 07 HD
+http://familytv.net:80/live/Peterson/Peterson/102756.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY HD 1" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS: FILMES ESPECIAIS ",CINE SKY HD 1
+http://familytv.net:80/live/Peterson/Peterson/67933.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY HD 2" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS: FILMES ESPECIAIS ",CINE SKY HD 2
+http://familytv.net:80/live/Peterson/Peterson/67934.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY HD 3" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS: FILMES ESPECIAIS ",CINE SKY HD 3
+http://familytv.net:80/live/Peterson/Peterson/67935.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY HD 4" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS: FILMES ESPECIAIS ",CINE SKY HD 4
+http://familytv.net:80/live/Peterson/Peterson/67936.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY HD 5" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS: FILMES ESPECIAIS ",CINE SKY HD 5
+http://familytv.net:80/live/Peterson/Peterson/67937.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Cinemax | HD" tvg-name="CINEMAX HD" tvg-logo="https://1.bp.blogspot.com/-OBhvAEVnuRg/WVRH1i723bI/AAAAAAAA78M/ueGL8nehJpoUz3bsozz_25jL5hc02jxQACLcBGAs/s640/cinemax.png" group-title="CANAIS: FILMES E SERIES",CINEMAX HD
+http://familytv.net:80/live/Peterson/Peterson/40080.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Cinemax | HD" tvg-name="CINEMAX HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/1200px-Cinemax.svg.png" group-title="CANAIS: FILMES E SERIES",CINEMAX HD*
+http://familytv.net:80/live/Peterson/Peterson/57175.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="CNN Brasil | HD" tvg-name="CNN BRASIL HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png" group-title="CANAIS: NOTICIAS",CNN BRASIL HD²
+http://familytv.net:80/live/Peterson/Peterson/39939.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="CNN Brasil | HD" tvg-name="CNN BRASIL HD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png" group-title="CANAIS: NOTICIAS",CNN BRASIL HD¹
+http://familytv.net:80/live/Peterson/Peterson/39937.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Combate | HD" tvg-name="COMBATE 4K" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a2/Premiere_combate.png/revision/latest?cb=20130519152220" group-title="CANAIS: 4K",COMBATE 4K
+http://familytv.net:80/live/Peterson/Peterson/58400.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Combate | FHD" tvg-name="COMBATE FULLHD H264" tvg-logo="https://s2.glbimg.com/ytSilzyUQFVzltQyYH03r53GRFg=/250x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2020/1/6/pXxNtXS4qc254tF6d9XA/imagem1.png" group-title="CANAIS: ESPORTES",COMBATE FULLHD H264
+http://familytv.net:80/live/Peterson/Peterson/99044.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Comedy Central | HD" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://i.dlpng.com/static/png/474084_preview.png" group-title="CANAIS: VARIEDADES",COMEDY CENTRAL HD
+http://familytv.net:80/live/Peterson/Peterson/40054.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Comedy Central | HD" tvg-name="COMEDY CENTRAL HD*" tvg-logo="http://abre.ai/UOS" group-title="CANAIS: VARIEDADES",COMEDY CENTRAL HD*
+http://familytv.net:80/live/Peterson/Peterson/57215.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 01 4K" tvg-logo="http://familytv.net:80/images/9af40e9ff801b85b9ff816fbf672253e.png" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL TV 01 4K
+http://familytv.net:80/live/Peterson/Peterson/108997.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 01 FHD" tvg-logo="http://familytv.net:80/images/9af40e9ff801b85b9ff816fbf672253e.png" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL TV 01 FHD
+http://familytv.net:80/live/Peterson/Peterson/108998.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 01 FHD²" tvg-logo="http://familytv.net:80/images/9af40e9ff801b85b9ff816fbf672253e.png" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL TV 01 FHD²
+http://familytv.net:80/live/Peterson/Peterson/108999.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 01 HD" tvg-logo="http://familytv.net:80/images/9af40e9ff801b85b9ff816fbf672253e.png" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL TV 01 HD
+http://familytv.net:80/live/Peterson/Peterson/109000.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV FHD (JOGO 1)" tvg-logo="http://familytv.net:80/images/9af40e9ff801b85b9ff816fbf672253e.png" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL TV FHD (JOGO 1)
+http://familytv.net:80/live/Peterson/Peterson/108987.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV HD (JOGO 1)" tvg-logo="http://familytv.net:80/images/9af40e9ff801b85b9ff816fbf672253e.png" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL TV HD (JOGO 1)
+http://familytv.net:80/live/Peterson/Peterson/108989.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV HD 1³" tvg-logo="http://familytv.net:80/images/9af40e9ff801b85b9ff816fbf672253e.png" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL TV HD 1³
+http://familytv.net:80/live/Peterson/Peterson/109012.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV SD (JOGO 1)" tvg-logo="http://familytv.net:80/images/9af40e9ff801b85b9ff816fbf672253e.png" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL TV SD (JOGO 1)
+http://familytv.net:80/live/Peterson/Peterson/108993.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 02 FHD" tvg-logo="http://familytv.net:80/images/9af40e9ff801b85b9ff816fbf672253e.png" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL TV 02 FHD
+http://familytv.net:80/live/Peterson/Peterson/109001.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 02 FHD²" tvg-logo="http://familytv.net:80/images/9af40e9ff801b85b9ff816fbf672253e.png" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL TV 02 FHD²
+http://familytv.net:80/live/Peterson/Peterson/109002.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 02 HD" tvg-logo="http://familytv.net:80/images/9af40e9ff801b85b9ff816fbf672253e.png" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL TV 02 HD
+http://familytv.net:80/live/Peterson/Peterson/109003.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV FHD (JOGO 2)" tvg-logo="http://familytv.net:80/images/9af40e9ff801b85b9ff816fbf672253e.png" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL TV FHD (JOGO 2)
+http://familytv.net:80/live/Peterson/Peterson/108988.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV HD (JOGO 2)" tvg-logo="http://familytv.net:80/images/9af40e9ff801b85b9ff816fbf672253e.png" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL TV HD (JOGO 2)
+http://familytv.net:80/live/Peterson/Peterson/108990.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV HD 2³" tvg-logo="http://familytv.net:80/images/9af40e9ff801b85b9ff816fbf672253e.png" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL TV HD 2³
+http://familytv.net:80/live/Peterson/Peterson/109013.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV SD (JOGO 2)" tvg-logo="http://familytv.net:80/images/9af40e9ff801b85b9ff816fbf672253e.png" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL TV SD (JOGO 2)
+http://familytv.net:80/live/Peterson/Peterson/108996.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 2³" tvg-logo="http://familytv.net:80/images/9af40e9ff801b85b9ff816fbf672253e.png" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL TV 2³
+http://familytv.net:80/live/Peterson/Peterson/109011.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 03 FHD" tvg-logo="http://familytv.net:80/images/9af40e9ff801b85b9ff816fbf672253e.png" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL TV 03 FHD
+http://familytv.net:80/live/Peterson/Peterson/109004.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 03 FHD²" tvg-logo="http://familytv.net:80/images/9af40e9ff801b85b9ff816fbf672253e.png" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL TV 03 FHD²
+http://familytv.net:80/live/Peterson/Peterson/109005.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 03 HD" tvg-logo="http://familytv.net:80/images/9af40e9ff801b85b9ff816fbf672253e.png" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL TV 03 HD
+http://familytv.net:80/live/Peterson/Peterson/109006.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV FHD (JOGO 3)" tvg-logo="http://familytv.net:80/images/9af40e9ff801b85b9ff816fbf672253e.png" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL TV FHD (JOGO 3)
+http://familytv.net:80/live/Peterson/Peterson/108991.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV HD (JOGO 3)" tvg-logo="http://familytv.net:80/images/9af40e9ff801b85b9ff816fbf672253e.png" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL TV HD (JOGO 3)
+http://familytv.net:80/live/Peterson/Peterson/108992.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV SD (JOGO 3)" tvg-logo="http://familytv.net:80/images/9af40e9ff801b85b9ff816fbf672253e.png" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL TV SD (JOGO 3)
+http://familytv.net:80/live/Peterson/Peterson/108995.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 04 FHD" tvg-logo="http://familytv.net:80/images/9af40e9ff801b85b9ff816fbf672253e.png" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL TV 04 FHD
+http://familytv.net:80/live/Peterson/Peterson/109007.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 04 FHD²" tvg-logo="http://familytv.net:80/images/9af40e9ff801b85b9ff816fbf672253e.png" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL TV 04 FHD²
+http://familytv.net:80/live/Peterson/Peterson/109008.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 04 HD" tvg-logo="http://familytv.net:80/images/9af40e9ff801b85b9ff816fbf672253e.png" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL TV 04 HD
+http://familytv.net:80/live/Peterson/Peterson/109009.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV SD (JOGO 4)" tvg-logo="http://familytv.net:80/images/9af40e9ff801b85b9ff816fbf672253e.png" group-title="CANAIS: ESPORTES ESPECIAIS",CONMEBOL TV SD (JOGO 4)
+http://familytv.net:80/live/Peterson/Peterson/108994.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Curta !" tvg-name="CURTA! HD*" tvg-logo="http://abre.ai/XsO" group-title="CANAIS: VARIEDADES",CURTA! HD*
+http://familytv.net:80/live/Peterson/Peterson/57210.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 01 FHD²" tvg-logo="http://familytv.net:80/images/401e068911e28999267ce83c4324868c.png" group-title="CANAIS: ESPORTES ESPECIAIS",DAZN 01 FHD²
+http://familytv.net:80/live/Peterson/Peterson/108978.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="0" tvg-name="DAZN 01 HD²" tvg-logo="http://familytv.net:80/images/354eb21dd811decf16cba3a6ed5daab1.png" group-title="CANAIS: ESPORTES ESPECIAIS",DAZN 01 HD²
+http://familytv.net:80/live/Peterson/Peterson/108979.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="0" tvg-name="DAZN 01 HD²²" tvg-logo="http://familytv.net:80/images/401e068911e28999267ce83c4324868c.png" group-title="CANAIS: ESPORTES ESPECIAIS",DAZN 01 HD²²
+http://familytv.net:80/live/Peterson/Peterson/108980.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 01 HD³" tvg-logo="http://familytv.net:80/images/401e068911e28999267ce83c4324868c.png" group-title="CANAIS: ESPORTES ESPECIAIS",DAZN 01 HD³
+http://familytv.net:80/live/Peterson/Peterson/108983.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 01 HD¹" tvg-logo="http://assistaiptvplay.com:80/images/98bb2910883b8ad5ac110131fd466ce3.png" group-title="CANAIS: ESPORTES ESPECIAIS",DAZN 01 HD¹
+http://familytv.net:80/live/Peterson/Peterson/108974.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 01 SD²" tvg-logo="http://familytv.net:80/images/401e068911e28999267ce83c4324868c.png" group-title="CANAIS: ESPORTES ESPECIAIS",DAZN 01 SD²
+http://familytv.net:80/live/Peterson/Peterson/108981.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 02 HD²" tvg-logo="http://familytv.net:80/images/401e068911e28999267ce83c4324868c.png" group-title="CANAIS: ESPORTES ESPECIAIS",DAZN 02 HD²
+http://familytv.net:80/live/Peterson/Peterson/108982.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 02 HD³" tvg-logo="http://familytv.net:80/images/401e068911e28999267ce83c4324868c.png" group-title="CANAIS: ESPORTES ESPECIAIS",DAZN 02 HD³
+http://familytv.net:80/live/Peterson/Peterson/108984.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 02 HD¹" tvg-logo="http://familytv.net:80/images/401e068911e28999267ce83c4324868c.png" group-title="CANAIS: ESPORTES ESPECIAIS",DAZN 02 HD¹
+http://familytv.net:80/live/Peterson/Peterson/108975.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 03 HD³" tvg-logo="http://familytv.net:80/images/401e068911e28999267ce83c4324868c.png" group-title="CANAIS: ESPORTES ESPECIAIS",DAZN 03 HD³
+http://familytv.net:80/live/Peterson/Peterson/108985.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 03 HD¹" tvg-logo="http://familytv.net:80/images/401e068911e28999267ce83c4324868c.png" group-title="CANAIS: ESPORTES ESPECIAIS",DAZN 03 HD¹
+http://familytv.net:80/live/Peterson/Peterson/108976.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 04 HD¹" tvg-logo="http://familytv.net:80/images/401e068911e28999267ce83c4324868c.png" group-title="CANAIS: ESPORTES ESPECIAIS",DAZN 04 HD¹
+http://familytv.net:80/live/Peterson/Peterson/108977.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Discovery Channel | HD" tvg-name="DISCOVERY CHANNEL 4K" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo.png" group-title="CANAIS: 4K",DISCOVERY CHANNEL 4K
+http://familytv.net:80/live/Peterson/Peterson/58413.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Discovery Channel | FHD" tvg-name="DISCOVERY CHANNEL FULLHD H264" tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2009/08/22/DSC_rev.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY CHANNEL FULLHD H264
+http://familytv.net:80/live/Peterson/Peterson/99068.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Discovery Channel | HD" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2009/08/22/DSC_rev.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY CHANNEL HD
+http://familytv.net:80/live/Peterson/Peterson/40005.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Discovery Channel | HD" tvg-name="DISCOVERY CHANNEL HD*" tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2009/08/22/DSC_rev.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY CHANNEL HD*
+http://familytv.net:80/live/Peterson/Peterson/57165.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Discovery Civilization | HD" tvg-name="DISCOVERY CIVILIZATION HD*" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/discoverycivilizationb.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY CIVILIZATION HD*
+http://familytv.net:80/live/Peterson/Peterson/57169.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Disc. Home & Health | FHD" tvg-name="DISCOVERY HOME & HEALTH FULLHD H264" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY HOME & HEALTH FULLHD H264
+http://familytv.net:80/live/Peterson/Peterson/99067.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Disc. Home & Health | HD" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY HOME & HEALTH HD
+http://familytv.net:80/live/Peterson/Peterson/40007.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Disc. Home & Health | HD" tvg-name="DISCOVERY HOME & HEALTH HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY HOME & HEALTH HD*
+http://familytv.net:80/live/Peterson/Peterson/57168.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Discovery Kids | HD" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="CANAIS: INFANTIS",DISCOVERY KIDS HD
+http://familytv.net:80/live/Peterson/Peterson/40033.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Discovery Kids | HD" tvg-name="DISCOVERY KIDS HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="CANAIS: INFANTIS",DISCOVERY KIDS HD*
+http://familytv.net:80/live/Peterson/Peterson/57201.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Discovery Science | HD" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY SCIENCE HD
+http://familytv.net:80/live/Peterson/Peterson/40009.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Discovery Science | HD" tvg-name="DISCOVERY SCIENCE HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1280px-Discovery_Science_2017_Logo.svg.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY SCIENCE HD*
+http://familytv.net:80/live/Peterson/Peterson/57166.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Discovery Theater | HD" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY THEATER HD
+http://familytv.net:80/live/Peterson/Peterson/40011.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Discovery Theater | HD" tvg-name="DISCOVERY THEATER HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY THEATER HD*
+http://familytv.net:80/live/Peterson/Peterson/57170.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Discovery Turbo | HD" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY TURBO HD
+http://familytv.net:80/live/Peterson/Peterson/40013.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Discovery Turbo | HD" tvg-name="DISCOVERY TURBO HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY TURBO HD*
+http://familytv.net:80/live/Peterson/Peterson/57167.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Discovery World | FHD" tvg-name="DISCOVERY WORD FULLHD H264" tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2010/01/12/WORLD_RGB_rev.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY WORD FULLHD H264
+http://familytv.net:80/live/Peterson/Peterson/99062.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Discovery World | HD" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2010/01/12/WORLD_RGB_rev.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY WORLD HD
+http://familytv.net:80/live/Peterson/Peterson/40015.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Discovery World | HD" tvg-name="DISCOVERY WORLD HD*" tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2010/01/12/WORLD_RGB_rev.png" group-title="CANAIS: DOCUMENTARIOS",DISCOVERY WORLD HD*
+http://familytv.net:80/live/Peterson/Peterson/57172.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Disney channel | HD" tvg-name="DISNEY CHANNEL  HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/792px-2014_Disney_Channel_logo.svg.png" group-title="CANAIS: INFANTIS",DISNEY CHANNEL  HD*
+http://familytv.net:80/live/Peterson/Peterson/57202.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Disney channel | HD" tvg-name="DISNEY CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/792px-2014_Disney_Channel_logo.svg.png" group-title="CANAIS: INFANTIS",DISNEY CHANNEL HD
+http://familytv.net:80/live/Peterson/Peterson/40035.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Disney Junior | HD" tvg-name="DISNEY JUNIOR HD" tvg-logo="https://vignette.wikia.nocookie.net/vampirina/images/b/bb/1200px-Disney_Junior.svg.png/revision/latest?cb=20180129214747&path-prefix=pt-br" group-title="CANAIS: INFANTIS",DISNEY JUNIOR HD
+http://familytv.net:80/live/Peterson/Peterson/40037.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Disney Junior | HD" tvg-name="DISNEY JUNIOR HD*" tvg-logo="https://vignette.wikia.nocookie.net/vampirina/images/b/bb/1200px-Disney_Junior.svg.png/revision/latest?cb=20180129214747&path-prefix=pt-br" group-title="CANAIS: INFANTIS",DISNEY JUNIOR HD*
+http://familytv.net:80/live/Peterson/Peterson/57198.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="DISNEY XD HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" group-title="CANAIS: INFANTIS",DISNEY XD HD*
+http://familytv.net:80/live/Peterson/Peterson/57197.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="DOG TV HD" tvg-logo="https://2l1u9e17xv36q4vh49azw1wb-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/DOGTV-logo_COLOR-horiz.png" group-title="CANAIS: VARIEDADES",DOG TV HD
+http://familytv.net:80/live/Peterson/Peterson/99040.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="E! | HD" tvg-name="E HD" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41707495&t=1524412279568" group-title="CANAIS: VARIEDADES",E HD
+http://familytv.net:80/live/Peterson/Peterson/40056.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="0" tvg-name="EI PLUS 2 HD" tvg-logo="http://familytv.net:80/images/a7834da45ab0e4a23e0ebd3331924f7a.png" group-title="CANAIS: ESPORTES ESPECIAIS",EI PLUS 2 HD
+http://familytv.net:80/live/Peterson/Peterson/109016.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="0" tvg-name="EI PLUS 3 HD" tvg-logo="http://familytv.net:80/images/a7834da45ab0e4a23e0ebd3331924f7a.png" group-title="CANAIS: ESPORTES ESPECIAIS",EI PLUS 3 HD
+http://familytv.net:80/live/Peterson/Peterson/109017.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="Ei Plus HD" tvg-logo="" group-title="CANAIS: ESPORTES ESPECIAIS",Ei Plus HD
+http://familytv.net:80/live/Peterson/Peterson/109014.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="0" tvg-name="EI PLUS HD" tvg-logo="http://familytv.net:80/images/a7834da45ab0e4a23e0ebd3331924f7a.png" group-title="CANAIS: ESPORTES ESPECIAIS",EI PLUS HD
+http://familytv.net:80/live/Peterson/Peterson/109018.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="0" tvg-name="EI PLUS HD²" tvg-logo="http://familytv.net:80/images/a7834da45ab0e4a23e0ebd3331924f7a.png" group-title="CANAIS: ESPORTES ESPECIAIS",EI PLUS HD²
+http://familytv.net:80/live/Peterson/Peterson/109019.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORT 1 HD" tvg-logo="http://familytv.net:80/images/07d3b600209a23c343002bac3fcf3346.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",ELEVEN SPORT 1 HD
+http://familytv.net:80/live/Peterson/Peterson/100046.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="ESPN FULLHD H264" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-5.png" group-title="CANAIS: ESPORTES",ESPN FULLHD H264
+http://familytv.net:80/live/Peterson/Peterson/99030.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSsxNq1HrD-e2wKqUHJnoDcHcB0hkOIvY3nlifhi6yoSq4Hg0tZ&usqp=CAU" group-title="CANAIS: 4K",ESPN 4K
+http://familytv.net:80/live/Peterson/Peterson/58414.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="ESPN 2 | FHD" tvg-name="ESPN 2 FULLHD H264" tvg-logo="https://1.bp.blogspot.com/-uto56pmxCcQ/XXFWkBk_6OI/AAAAAAABZlU/JYiZAU-1wJgWkDqAw8U2dZVtS17LahKEwCLcBGAs/w1200-h630-p-k-no-nu/ESPN%2B2.png" group-title="CANAIS: ESPORTES",ESPN 2 FULLHD H264
+http://familytv.net:80/live/Peterson/Peterson/99031.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="ESPN Brasil | FHD" tvg-name="ESPN BRASIL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title="CANAIS: ESPORTES",ESPN BRASIL HD
+http://familytv.net:80/live/Peterson/Peterson/107228.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="ESPN Brasil | HD" tvg-name="ESPN BRASIL HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title="CANAIS: ESPORTES",ESPN BRASIL HD*
+http://familytv.net:80/live/Peterson/Peterson/107227.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="ESPN Extra | FHD" tvg-name="ESPN EXTRA FULLHD H264" tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/w1200-h630-p-k-no-nu/espnextra.png" group-title="CANAIS: ESPORTES",ESPN EXTRA FULLHD H264
+http://familytv.net:80/live/Peterson/Peterson/99029.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="0" tvg-name="ESPORTE INTERATIVO HD" tvg-logo="http://familytv.net:80/images/a7834da45ab0e4a23e0ebd3331924f7a.png" group-title="CANAIS: ESPORTES ESPECIAIS",ESPORTE INTERATIVO HD
+http://familytv.net:80/live/Peterson/Peterson/109015.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 01 HD" tvg-logo="http://familytv.net:80/images/de808d4f7725ab71bd138728a1457bf2.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",EUROSPORT 01 HD
+http://familytv.net:80/live/Peterson/Peterson/100047.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 02 HD" tvg-logo="http://familytv.net:80/images/de808d4f7725ab71bd138728a1457bf2.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",EUROSPORT 02 HD
+http://familytv.net:80/live/Peterson/Peterson/100048.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Food Network | HD" tvg-name="FOOD NETWORK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="CANAIS: VARIEDADES",FOOD NETWORK HD
+http://familytv.net:80/live/Peterson/Peterson/40058.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Fox | FHD" tvg-name="FOX FULLHD H264" tvg-logo="https://i.pinimg.com/originals/0d/d3/59/0dd359c8864991c19ecc079ee8210fdc.png" group-title="CANAIS: LEGENDADOS",FOX FULLHD H264
+http://familytv.net:80/live/Peterson/Peterson/99101.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="FOX | HD" tvg-name="FOX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/FOX_HD.svg/1200px-FOX_HD.svg.png" group-title="CANAIS: FILMES E SERIES",FOX HD
+http://familytv.net:80/live/Peterson/Peterson/40084.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="FOX | HD" tvg-name="FOX HD" tvg-logo="https://i.pinimg.com/originals/0d/d3/59/0dd359c8864991c19ecc079ee8210fdc.png" group-title="CANAIS: LEGENDADOS",FOX HD
+http://familytv.net:80/live/Peterson/Peterson/99102.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="FOX | HD" tvg-name="FOX HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/FOX_HD.svg/1200px-FOX_HD.svg.png" group-title="CANAIS: FILMES E SERIES",FOX HD*
+http://familytv.net:80/live/Peterson/Peterson/57178.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="FOX Life | HD" tvg-name="FOX LIFE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/de/a/a3/FOX_Life_Polska_2013.png" group-title="CANAIS: VARIEDADES",FOX LIFE HD
+http://familytv.net:80/live/Peterson/Peterson/57219.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Fox Premium 1 | HD" tvg-name="FOX PREMIUM 1 FULLHD H264" tvg-logo="https://3.bp.blogspot.com/-ldTDigdNPa8/WzLuYjKaW4I/AAAAAAAAA7Y/4ifFLafRMB4JivBu_TOLGPncF0qSeOKUQCLcBGAs/w1200-h630-p-k-no-nu/assistir-fox-premium-1-online.png" group-title="CANAIS: LEGENDADOS",FOX PREMIUM 1 FULLHD H264
+http://familytv.net:80/live/Peterson/Peterson/99105.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="A&E" tvg-name="FOX PREMIUM 1 HD" tvg-logo="https://cdn.iptv.black/channels/104.png" group-title="CANAIS: FILMES E SERIES",FOX PREMIUM 1 HD
+http://familytv.net:80/live/Peterson/Peterson/40086.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Fox Premium 1 | HD" tvg-name="FOX PREMIUM 1 HD" tvg-logo="http://abre.ai/Xt9" group-title="CANAIS: LEGENDADOS",FOX PREMIUM 1 HD
+http://familytv.net:80/live/Peterson/Peterson/99106.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Fox Premium 2 | HD" tvg-name="FOX PREMIUM 2 FULLHD H264" tvg-logo="http://i.imgur.com/XQ4U8aw.png" group-title="CANAIS: LEGENDADOS",FOX PREMIUM 2 FULLHD H264
+http://familytv.net:80/live/Peterson/Peterson/99107.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="A&E" tvg-name="FOX PREMIUM 2 HD" tvg-logo="https://help.foxplay.com/hc/article_attachments/360023498272/FOX_Premium_2_HD.png" group-title="CANAIS: FILMES E SERIES",FOX PREMIUM 2 HD
+http://familytv.net:80/live/Peterson/Peterson/40088.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Fox Premium 2 | HD" tvg-name="FOX PREMIUM 2 HD" tvg-logo="http://i.imgur.com/XQ4U8aw.png" group-title="CANAIS: LEGENDADOS",FOX PREMIUM 2 HD
+http://familytv.net:80/live/Peterson/Peterson/99108.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="A&E" tvg-name="FOX PREMIUM 2 HD*" tvg-logo="http://i.imgur.com/XQ4U8aw.png" group-title="CANAIS: FILMES E SERIES",FOX PREMIUM 2 HD*
+http://familytv.net:80/live/Peterson/Peterson/57193.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Premiere 1 | HD" tvg-name="FOX PREMIUM HD*" tvg-logo="http://abre.ai/Xt9" group-title="CANAIS: FILMES E SERIES",FOX PREMIUM HD*
+http://familytv.net:80/live/Peterson/Peterson/57194.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Fox Sports 2" tvg-name="FOX SPORTS 2 4K" tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png" group-title="CANAIS: 4K",FOX SPORTS 2 4K
+http://familytv.net:80/live/Peterson/Peterson/58415.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 FULLHD H264" tvg-logo="https://i.pinimg.com/originals/80/da/81/80da81f404f838a714050d3f201ac7ba.png" group-title="CANAIS: ESPORTES",FOX SPORTS 2 FULLHD H264
+http://familytv.net:80/live/Peterson/Peterson/99032.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Fox Sports | HD" tvg-name="FOX SPORTS 4K" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png" group-title="CANAIS: 4K",FOX SPORTS 4K
+http://familytv.net:80/live/Peterson/Peterson/58416.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Fox Sports | HD" tvg-name="FOX SPORTS FULLHD H264" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Fox_Sports_Logo.png" group-title="CANAIS: ESPORTES",FOX SPORTS FULLHD H264
+http://familytv.net:80/live/Peterson/Peterson/99033.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="FX | HD" tvg-name="FX HD" tvg-logo="https://flussonic-tv.jupiter.com.br/images/logos_stb/fxhd-black.png" group-title="CANAIS: FILMES E SERIES",FX HD
+http://familytv.net:80/live/Peterson/Peterson/40090.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="FX | HD" tvg-name="FX HD*" tvg-logo="https://flussonic-tv.jupiter.com.br/images/logos_stb/fxhd-black.png" group-title="CANAIS: FILMES E SERIES",FX HD*
+http://familytv.net:80/live/Peterson/Peterson/57179.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="TV Gazeta | HD" tvg-name="GAZETA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png" group-title="CANAIS: 4K",GAZETA
+http://familytv.net:80/live/Peterson/Peterson/58398.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="TV Gazeta | HD" tvg-name="GAZETA ¹ SP" tvg-logo="http://abre.ai/ZVr" group-title="CANAIS: ABERTOS",GAZETA ¹ SP
+http://familytv.net:80/live/Peterson/Peterson/39895.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Gloob | HD" tvg-name="GLOBINHO" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4c/Tv_globinho_2009.png/revision/latest/scale-to-width-down/340?cb=20150523173515" group-title="CANAIS: INFANTIS",GLOBINHO
+http://familytv.net:80/live/Peterson/Peterson/42746.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Globo SP | HD" tvg-name="GLOBO" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/2/21/Globo_2000_clear.png" group-title="CANAIS: 4K",GLOBO
+http://familytv.net:80/live/Peterson/Peterson/58394.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Globo Brasília" tvg-name="GLOBO BRASILIA" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/c/ca/Tv_globo_internacional_2011.png/revision/latest/scale-to-width-down/340?cb=20150202231708" group-title="CANAIS: GLOBO",GLOBO BRASILIA
+http://familytv.net:80/live/Peterson/Peterson/65736.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Globo Campinas" tvg-name="GLOBO EPTV CAMPINAS" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/c/ca/Tv_globo_internacional_2011.png/revision/latest/scale-to-width-down/340?cb=20150202231708" group-title="CANAIS: GLOBO",GLOBO EPTV CAMPINAS
+http://familytv.net:80/live/Peterson/Peterson/99298.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Globo Manaus" tvg-name="GLOBO MANAUS HD" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/c/ca/Tv_globo_internacional_2011.png/revision/latest/scale-to-width-down/340?cb=20150202231708" group-title="CANAIS: GLOBO",GLOBO MANAUS HD
+http://familytv.net:80/live/Peterson/Peterson/58433.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Globo Minas" tvg-name="GLOBO MINAS HD" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/c/ca/Tv_globo_internacional_2011.png/revision/latest/scale-to-width-down/340?cb=20150202231708" group-title="CANAIS: GLOBO",GLOBO MINAS HD
+http://familytv.net:80/live/Peterson/Peterson/58432.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Globo News | HD" tvg-name="GLOBO NEWS HD" tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia-2/images/9/9c/GloboNews_logo_1998.png/revision/latest/scale-to-width-down/340?cb=20200927104540" group-title="CANAIS: NOTICIAS",GLOBO NEWS HD
+http://familytv.net:80/live/Peterson/Peterson/39941.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Globo News | HD" tvg-name="GLOBO NEWS HD*" tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia-2/images/9/9c/GloboNews_logo_1998.png/revision/latest/scale-to-width-down/340?cb=20200927104540" group-title="CANAIS: NOTICIAS",GLOBO NEWS HD*
+http://familytv.net:80/live/Peterson/Peterson/57225.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Globo Nordeste" tvg-name="GLOBO NORDESTE" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/c/ca/Tv_globo_internacional_2011.png/revision/latest/scale-to-width-down/340?cb=20150202231708" group-title="CANAIS: GLOBO",GLOBO NORDESTE
+http://familytv.net:80/live/Peterson/Peterson/99365.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Globo Florianopolis | HD" tvg-name="GLOBO NSC FLORIANÓPOLIS" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/c/ca/Tv_globo_internacional_2011.png/revision/latest/scale-to-width-down/340?cb=20150202231708" group-title="CANAIS: GLOBO",GLOBO NSC FLORIANÓPOLIS
+http://familytv.net:80/live/Peterson/Peterson/99853.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Globo Florianopolis | HD" tvg-name="GLOBO NSC JOINVILLE" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/c/ca/Tv_globo_internacional_2011.png/revision/latest/scale-to-width-down/340?cb=20150202231708" group-title="CANAIS: GLOBO",GLOBO NSC JOINVILLE
+http://familytv.net:80/live/Peterson/Peterson/99854.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Globo Florianopolis | HD" tvg-name="GLOBO NSC TV BLUMENAU" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/c/ca/Tv_globo_internacional_2011.png/revision/latest/scale-to-width-down/340?cb=20150202231708" group-title="CANAIS: GLOBO",GLOBO NSC TV BLUMENAU
+http://familytv.net:80/live/Peterson/Peterson/99855.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Rbstvpoa.br" tvg-name="GLOBO RBS HD" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/c/ca/Tv_globo_internacional_2011.png/revision/latest/scale-to-width-down/340?cb=20150202231708" group-title="CANAIS: GLOBO",GLOBO RBS HD
+http://familytv.net:80/live/Peterson/Peterson/58424.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Globo Brasília" tvg-name="GLOBO RBS TV PELOTAS HD" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/c/ca/Tv_globo_internacional_2011.png/revision/latest/scale-to-width-down/340?cb=20150202231708" group-title="CANAIS: GLOBO",GLOBO RBS TV PELOTAS HD
+http://familytv.net:80/live/Peterson/Peterson/58425.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Globo RJ | HD" tvg-name="GLOBO RJ FHD²" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/c/ca/Tv_globo_internacional_2011.png/revision/latest/scale-to-width-down/340?cb=20150202231708" group-title="CANAIS: GLOBO",GLOBO RJ FHD²
+http://familytv.net:80/live/Peterson/Peterson/66981.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Band RJ | HD" tvg-name="GLOBO RJ HD" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/c/ca/Tv_globo_internacional_2011.png/revision/latest/scale-to-width-down/340?cb=20150202231708" group-title="CANAIS: GLOBO",GLOBO RJ HD
+http://familytv.net:80/live/Peterson/Peterson/58420.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Globo RJ" tvg-name="GLOBO RJ HD²" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/c/ca/Tv_globo_internacional_2011.png/revision/latest/scale-to-width-down/340?cb=20150202231708" group-title="CANAIS: GLOBO",GLOBO RJ HD²
+http://familytv.net:80/live/Peterson/Peterson/58422.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Globo Curitiba | HD" tvg-name="GLOBO RPC PARANA HD¹" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/c/ca/Tv_globo_internacional_2011.png/revision/latest/scale-to-width-down/340?cb=20150202231708" group-title="CANAIS: GLOBO",GLOBO RPC PARANA HD¹
+http://familytv.net:80/live/Peterson/Peterson/72501.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Globo Sergipe | HD" tvg-name="GLOBO SERGIPE" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/c/ca/Tv_globo_internacional_2011.png/revision/latest/scale-to-width-down/340?cb=20150202231708" group-title="CANAIS: GLOBO",GLOBO SERGIPE
+http://familytv.net:80/live/Peterson/Peterson/58426.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="GLOBO SP HD" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/c/ca/Tv_globo_internacional_2011.png/revision/latest/scale-to-width-down/340?cb=20150202231708" group-title="CANAIS: GLOBO",GLOBO SP HD
+http://familytv.net:80/live/Peterson/Peterson/58418.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Globo SP | HD" tvg-name="GLOBO SP HD*" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/c/ca/Tv_globo_internacional_2011.png/revision/latest/scale-to-width-down/340?cb=20150202231708" group-title="CANAIS: GLOBO",GLOBO SP HD*
+http://familytv.net:80/live/Peterson/Peterson/58419.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Globo BA" tvg-name="GLOBO TV BAHIA HD*" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/c/ca/Tv_globo_internacional_2011.png/revision/latest/scale-to-width-down/340?cb=20150202231708" group-title="CANAIS: GLOBO",GLOBO TV BAHIA HD*
+http://familytv.net:80/live/Peterson/Peterson/58662.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Globo Brasília" tvg-name="GLOBO TV GAZETA ALAGOAS FHD" tvg-logo="" group-title="CANAIS: GLOBO",GLOBO TV GAZETA ALAGOAS FHD
+http://familytv.net:80/live/Peterson/Peterson/98236.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="TV Gazeta | HD" tvg-name="GLOBO TV GAZETA ALAGOAS HD" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/c/ca/Tv_globo_internacional_2011.png/revision/latest/scale-to-width-down/340?cb=20150202231708" group-title="CANAIS: GLOBO",GLOBO TV GAZETA ALAGOAS HD
+http://familytv.net:80/live/Peterson/Peterson/101283.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Globo Belém | HD" tvg-name="GLOBO TV LIBERAL BELEM HD" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/c/ca/Tv_globo_internacional_2011.png/revision/latest/scale-to-width-down/340?cb=20150202231708" group-title="CANAIS: GLOBO",GLOBO TV LIBERAL BELEM HD
+http://familytv.net:80/live/Peterson/Peterson/104572.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Globo Tv Rio Sul RJ | HD" tvg-name="GLOBO TV RIO SUL" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/c/ca/Tv_globo_internacional_2011.png/revision/latest/scale-to-width-down/340?cb=20150202231708" group-title="CANAIS: GLOBO",GLOBO TV RIO SUL
+http://familytv.net:80/live/Peterson/Peterson/97006.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Gloob | HD" tvg-name="GLOOB HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Gloob_logo.svg/1280px-Gloob_logo.svg.png" group-title="CANAIS: INFANTIS",GLOOB HD
+http://familytv.net:80/live/Peterson/Peterson/40039.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Gloob | HD" tvg-name="GLOOB HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Gloob_logo.svg/1280px-Gloob_logo.svg.png" group-title="CANAIS: INFANTIS",GLOOB HD*
+http://familytv.net:80/live/Peterson/Peterson/57203.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="GNT | HD" tvg-name="GNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/GNT_HD.jpg" group-title="CANAIS: VARIEDADES",GNT HD
+http://familytv.net:80/live/Peterson/Peterson/40061.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="GNT | HD" tvg-name="GNT HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/661px-GNT_logo-roxo.svg.png" group-title="CANAIS: VARIEDADES",GNT HD*
+http://familytv.net:80/live/Peterson/Peterson/57213.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL HD" tvg-logo="https://www.pngkey.com/png/full/142-1427918_golf-channel-logo-png.png" group-title="CANAIS: ESPORTES",GOLF CHANNEL HD
+http://familytv.net:80/live/Peterson/Peterson/99043.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="History channel | FHD" tvg-name="HISTORY FULLHD H264" tvg-logo="https://catracalivre.com.br/wp-content/uploads/2019/05/cientistas-desenvolvem-sistema-que-transmite-emocoes-pelo-ar.png" group-title="CANAIS: DOCUMENTARIOS",HISTORY FULLHD H264
+http://familytv.net:80/live/Peterson/Peterson/99041.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="History channel | HD" tvg-name="HISTORY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/History_HD_Logo.svg/1200px-History_HD_Logo.svg.png" group-title="CANAIS: DOCUMENTARIOS",HISTORY HD
+http://familytv.net:80/live/Peterson/Peterson/40017.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="History channel | HD" tvg-name="HISTORY HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/History_HD_Logo.svg/1200px-History_HD_Logo.svg.png" group-title="CANAIS: DOCUMENTARIOS",HISTORY HD*
+http://familytv.net:80/live/Peterson/Peterson/57162.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="H2 | FHD" tvg-name="H2 FULLHD H264" tvg-logo="https://skytvplanos.com.br/img/channels/lg-295-canal-h2.png" group-title="CANAIS: DOCUMENTARIOS",H2 FULLHD H264
+http://familytv.net:80/live/Peterson/Peterson/99066.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="H2 | HD" tvg-name="H2 HD" tvg-logo="https://skytvplanos.com.br/img/channels/lg-295-canal-h2.png" group-title="CANAIS: DOCUMENTARIOS",H2 HD
+http://familytv.net:80/live/Peterson/Peterson/40019.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="H2 | HD" tvg-name="H2 HD*" tvg-logo="https://skytvplanos.com.br/img/channels/lg-295-canal-h2.png" group-title="CANAIS: DOCUMENTARIOS",H2 HD*
+http://familytv.net:80/live/Peterson/Peterson/57163.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HBO | HD" tvg-name="HB 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/HBO-Logo.svg/640px-HBO-Logo.svg.png" group-title="CANAIS: 4K",HB 4K
+http://familytv.net:80/live/Peterson/Peterson/58402.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HBO | FHD" tvg-name="HBO FULLHD H264" tvg-logo="https://lh3.googleusercontent.com/proxy/4I6kJhFwDp7ij8dRMM2tBO9RPO0reBHQFQ4rtHI09Vs17Y2QB1b1L5HQQDopPQK8P1m_LeaGy5i7sH4dpc8rZnB8_rjdnoG72lXpRXTQbb4PgwTci3m0" group-title="CANAIS: HBO",HBO FULLHD H264
+http://familytv.net:80/live/Peterson/Peterson/99052.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HBO | HD" tvg-name="HBO FULLHD H264" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/HBO-Logo.svg/640px-HBO-Logo.svg.png" group-title="CANAIS: LEGENDADOS",HBO FULLHD H264
+http://familytv.net:80/live/Peterson/Peterson/99089.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HBO | HD" tvg-name="HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/HBO-Logo.svg/640px-HBO-Logo.svg.png" group-title="CANAIS: HBO",HBO HD
+http://familytv.net:80/live/Peterson/Peterson/39967.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HBO | HD" tvg-name="HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/HBO-Logo.svg/640px-HBO-Logo.svg.png" group-title="CANAIS: LEGENDADOS",HBO HD
+http://familytv.net:80/live/Peterson/Peterson/99090.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HBO | HD" tvg-name="HBO HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/HBO-Logo.svg/640px-HBO-Logo.svg.png" group-title="CANAIS: HBO",HBO HD*
+http://familytv.net:80/live/Peterson/Peterson/57143.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HBO 2 | HD" tvg-name="HBO 2 FULLHD H264" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/f6/HBO_2_%282016-.n.v.%29.png/revision/latest?cb=20171126141432" group-title="CANAIS: HBO",HBO 2 FULLHD H264
+http://familytv.net:80/live/Peterson/Peterson/99053.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="H2 | HD" tvg-name="HBO 2 HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hbo2b.png" group-title="CANAIS: HBO",HBO 2 HD
+http://familytv.net:80/live/Peterson/Peterson/39965.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HBO 2 | HD" tvg-name="HBO 2 HD*" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hbo2b.png" group-title="CANAIS: HBO",HBO 2 HD*
+http://familytv.net:80/live/Peterson/Peterson/57141.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HBO Family | FHD" tvg-name="HBO FAMILY FULLHD H264" tvg-logo="https://logodix.com/logo/789245.png" group-title="CANAIS: HBO",HBO FAMILY FULLHD H264
+http://familytv.net:80/live/Peterson/Peterson/99055.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HBO Family | HD" tvg-name="HBO FAMILY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CANAIS: HBO",HBO FAMILY HD
+http://familytv.net:80/live/Peterson/Peterson/39966.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HBO Family | HD" tvg-name="HBO FAMILY HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CANAIS: HBO",HBO FAMILY HD*
+http://familytv.net:80/live/Peterson/Peterson/57142.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI FULLHD" tvg-logo="https://i.ibb.co/12hFkv2/mund.png" group-title="CANAIS: LEGENDADOS",HBO MUNDI FULLHD
+http://familytv.net:80/live/Peterson/Peterson/99095.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI FULLHD H264" tvg-logo="https://canaismax.com/img/canais/e7a60609d36071d225eae42151773901.png" group-title="CANAIS: HBO",HBO MUNDI FULLHD H264
+http://familytv.net:80/live/Peterson/Peterson/99057.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="MAX HD***" tvg-name="HBO MUNDI HD" tvg-logo="https://i.ibb.co/12hFkv2/mund.png" group-title="CANAIS: HBO",HBO MUNDI HD
+http://familytv.net:80/live/Peterson/Peterson/39970.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HD" tvg-logo="https://i.ibb.co/12hFkv2/mund.png" group-title="CANAIS: LEGENDADOS",HBO MUNDI HD
+http://familytv.net:80/live/Peterson/Peterson/99096.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="MAX HD***" tvg-name="HBO MUNDI HD*" tvg-logo="https://i.ibb.co/12hFkv2/mund.png" group-title="CANAIS: HBO",HBO MUNDI HD*
+http://familytv.net:80/live/Peterson/Peterson/57146.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HBO Plus | FHD" tvg-name="HBO PLUS FULLHD H264" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hboplus.png" group-title="CANAIS: HBO",HBO PLUS FULLHD H264
+http://familytv.net:80/live/Peterson/Peterson/99054.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HBO Plus | HD" tvg-name="HBO PLUS FULLHD H264" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CANAIS: LEGENDADOS",HBO PLUS FULLHD H264
+http://familytv.net:80/live/Peterson/Peterson/99091.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HBO Plus | HD" tvg-name="HBO PLUS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CANAIS: HBO",HBO PLUS HD
+http://familytv.net:80/live/Peterson/Peterson/39968.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HBO Plus | HD" tvg-name="HBO PLUS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CANAIS: LEGENDADOS",HBO PLUS HD
+http://familytv.net:80/live/Peterson/Peterson/99092.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HBO Plus | HD" tvg-name="HBO PLUS HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CANAIS: HBO",HBO PLUS HD*
+http://familytv.net:80/live/Peterson/Peterson/57139.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HBO Pop | FHD" tvg-name="HBO POP FULLHD H264" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/hbopopGris_Enero20v2.png" group-title="CANAIS: HBO",HBO POP FULLHD H264
+http://familytv.net:80/live/Peterson/Peterson/99059.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HBO Pop | FHD" tvg-name="HBO POP FULLHD H264" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/hbopopGris_Enero20v2.png" group-title="CANAIS: LEGENDADOS",HBO POP FULLHD H264
+http://familytv.net:80/live/Peterson/Peterson/99097.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HBO Pop | FHD" tvg-name="HBO POP HD" tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097937893-HBO-pop-pequenio.png" group-title="CANAIS: HBO",HBO POP HD
+http://familytv.net:80/live/Peterson/Peterson/39972.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HBO Pop | FHD" tvg-name="HBO POP HD" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/hbopopGris_Enero20v2.png" group-title="CANAIS: LEGENDADOS",HBO POP HD
+http://familytv.net:80/live/Peterson/Peterson/99098.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HBO Pop | FHD" tvg-name="HBO POP HD*" tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097937893-HBO-pop-pequenio.png" group-title="CANAIS: HBO",HBO POP HD*
+http://familytv.net:80/live/Peterson/Peterson/57145.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HBO Signature | FHD" tvg-name="HBO SIGNATURE FULLHD H264" tvg-logo="https://canaismax.com/img/canais/93aadc0910348fcf43def9484e5f0fc4.png" group-title="CANAIS: HBO",HBO SIGNATURE FULLHD H264
+http://familytv.net:80/live/Peterson/Peterson/99056.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HBO Signature | HD" tvg-name="HBO SIGNATURE FULLHD H264" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/468px-HBO_Signature.svg.png" group-title="CANAIS: LEGENDADOS",HBO SIGNATURE FULLHD H264
+http://familytv.net:80/live/Peterson/Peterson/99093.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HBO Signature | HD" tvg-name="HBO SIGNATURE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/468px-HBO_Signature.svg.png" group-title="CANAIS: HBO",HBO SIGNATURE HD
+http://familytv.net:80/live/Peterson/Peterson/39969.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HBO Signature | HD" tvg-name="HBO SIGNATURE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/468px-HBO_Signature.svg.png" group-title="CANAIS: LEGENDADOS",HBO SIGNATURE HD
+http://familytv.net:80/live/Peterson/Peterson/99094.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HBO Signature | HD" tvg-name="HBO SIGNATURE HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/468px-HBO_Signature.svg.png" group-title="CANAIS: HBO",HBO SIGNATURE HD*
+http://familytv.net:80/live/Peterson/Peterson/57144.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HBO Xtreme | FHD" tvg-name="HBO XTREAM FULLHD H264" tvg-logo="https://canaismax.com/img/canais/0e05114d7f0bcdbc6b537219e42f2f7b.png" group-title="CANAIS: HBO",HBO XTREAM FULLHD H264
+http://familytv.net:80/live/Peterson/Peterson/99058.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HBO Xtreme | FHD" tvg-name="HBO XTREAM HD" tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097973446-HBO-xtreme-pequenio-b.png" group-title="CANAIS: HBO",HBO XTREAM HD
+http://familytv.net:80/live/Peterson/Peterson/39971.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HBO Xtreme | FHD" tvg-name="HBO XTREAM HD" tvg-logo="https://canaismax.com/img/canais/0e05114d7f0bcdbc6b537219e42f2f7b.png" group-title="CANAIS: LEGENDADOS",HBO XTREAM HD
+http://familytv.net:80/live/Peterson/Peterson/99100.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HBO Xtreme | FHD" tvg-name="HBO XTREME FULLHD H264" tvg-logo="https://canaismax.com/img/canais/0e05114d7f0bcdbc6b537219e42f2f7b.png" group-title="CANAIS: LEGENDADOS",HBO XTREME FULLHD H264
+http://familytv.net:80/live/Peterson/Peterson/99099.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="HBO Xtreme | FHD" tvg-name="HBO XTREME HD*" tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097973446-HBO-xtreme-pequenio-b.png" group-title="CANAIS: HBO",HBO XTREME HD*
+http://familytv.net:80/live/Peterson/Peterson/57147.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="HGTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="CANAIS: DOCUMENTARIOS",HGTV HD
+http://familytv.net:80/live/Peterson/Peterson/40021.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="ID - Investigacao Discovery  | HD" tvg-name="INVESTIGATION DISCOVERY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/ID_-_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="CANAIS: DOCUMENTARIOS",INVESTIGATION DISCOVERY HD
+http://familytv.net:80/live/Peterson/Peterson/40023.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="ID - Investigacao Discovery  | HD" tvg-name="INVESTIGATION DISCOVERY HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/ID_-_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="CANAIS: DOCUMENTARIOS",INVESTIGATION DISCOVERY HD*
+http://familytv.net:80/live/Peterson/Peterson/57171.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="IURD TV" tvg-logo="https://www.igrejauniversal.pt/wp-content/uploads/2020/03/iurd-tv2020ok2.png" group-title="CANAIS: RELIGIOSOS",IURD TV
+http://familytv.net:80/live/Peterson/Peterson/95053.m3u8|user-agent=GoPlayer#EXTINF:-1 tvg-id="" tvg-name="KTV SPORT KUWAIT" tvg-logo="http://familytv.net:80/images/366c04a0b0516f944321203de7574e64.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",KTV SPORT KUWAIT
+http://familytv.net:80/live/Peterson/Peterson/100049.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="LOADING FullHD" tvg-logo="https://i0.wp.com/www.breaktudo.com/wp-content/uploads/2020/11/logo_loading_preto.png?resize=1320%2C388&ssl=1" group-title="CANAIS: INFANTIS",LOADING FullHD
+http://familytv.net:80/live/Peterson/Peterson/109710.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Lifetime | HD" tvg-name="LIFETIME HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/768px-Lifetime_logo17.svg.png" group-title="CANAIS: VARIEDADES",LIFETIME HD
+http://familytv.net:80/live/Peterson/Peterson/40063.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="CANAIS: DOCUMENTARIOS",LOVE NATURE
+http://familytv.net:80/live/Peterson/Peterson/40001.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="MAIS GLOBOSAT" tvg-logo="https://s2.glbimg.com/uiEeBZJKeOneVk97k2Oo00zutxI=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/f1/9f/b246cd313d3bbf3d94cfc654a161.png" group-title="CANAIS: VARIEDADES",MAIS GLOBOSAT
+http://familytv.net:80/live/Peterson/Peterson/100770.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Megapix | HD" tvg-name="MEGAPIX 4K" tvg-logo="http://clarotv.claro.com.br/image/Get/3821" group-title="CANAIS: 4K",MEGAPIX 4K
+http://familytv.net:80/live/Peterson/Peterson/58403.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Megapix | HD" tvg-name="MEGAPIX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Megapix_fundoclaro_midiaimpressa.png" group-title="CANAIS: FILMES E SERIES",MEGAPIX HD
+http://familytv.net:80/live/Peterson/Peterson/40092.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Megapix | HD" tvg-name="MEGAPIX HD*" tvg-logo="http://clarotv.claro.com.br/image/Get/3821" group-title="CANAIS: FILMES E SERIES",MEGAPIX HD*
+http://familytv.net:80/live/Peterson/Peterson/57187.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="MLB NETWORK" tvg-logo="http://familytv.net:80/images/43d253305e987362f206d42ecf4ed217.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",MLB NETWORK
+http://familytv.net:80/live/Peterson/Peterson/100050.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="MTV | HD" tvg-name="MTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/1200px-MTV_Live_HD_2017_logo.svg.png" group-title="CANAIS: VARIEDADES",MTV HD
+http://familytv.net:80/live/Peterson/Peterson/40067.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="MTV | HD" tvg-name="MTV HD*" tvg-logo="http://abre.ai/UNT" group-title="CANAIS: VARIEDADES",MTV HD*
+http://familytv.net:80/live/Peterson/Peterson/57217.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Multishow | HD" tvg-name="MULTISHOW 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Multishow_logo-laranja.png" group-title="CANAIS: 4K",MULTISHOW 4K
+http://familytv.net:80/live/Peterson/Peterson/58404.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Multishow | HD" tvg-name="MULTISHOW HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Multishow_logo-laranja.png" group-title="CANAIS: VARIEDADES",MULTISHOW HD*
+http://familytv.net:80/live/Peterson/Peterson/57212.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Multishow | HD" tvg-name="MULTSHOW HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Multishow_logo-laranja.png/1200px-Multishow_logo-laranja.png" group-title="CANAIS: VARIEDADES",MULTSHOW HD
+http://familytv.net:80/live/Peterson/Peterson/100771.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="NatGeo | FHD" tvg-name="NATGEO FULLHD H264" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="CANAIS: DOCUMENTARIOS",NATGEO FULLHD H264
+http://familytv.net:80/live/Peterson/Peterson/99065.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="NatGeo | HD" tvg-name="NATGEO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="CANAIS: DOCUMENTARIOS",NATGEO HD
+http://familytv.net:80/live/Peterson/Peterson/40025.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="NatGeo | HD" tvg-name="NATGEO HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="CANAIS: DOCUMENTARIOS",NATGEO HD*
+http://familytv.net:80/live/Peterson/Peterson/57164.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="NatGeo Kids | HD" tvg-name="NATGEO KIDS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1200px-Natgeo_Kids_logo.svg.png" group-title="CANAIS: INFANTIS",NATGEO KIDS HD
+http://familytv.net:80/live/Peterson/Peterson/40041.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="NatGeo Kids | HD" tvg-name="NATGEO KIDS HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1200px-Natgeo_Kids_logo.svg.png" group-title="CANAIS: INFANTIS",NATGEO KIDS HD*
+http://familytv.net:80/live/Peterson/Peterson/57204.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="NatGeo Wild | FHD" tvg-name="NATGEO WILD FULLHD H264" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/nat-geo-wild-logo.png" group-title="CANAIS: DOCUMENTARIOS",NATGEO WILD FULLHD H264
+http://familytv.net:80/live/Peterson/Peterson/99063.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="NatGeo Wild | HD" tvg-name="NATGEO WILD HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/nat-geo-wild-logo.png" group-title="CANAIS: DOCUMENTARIOS",NATGEO WILD HD
+http://familytv.net:80/live/Peterson/Peterson/40027.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="NatGeo Wild | HD" tvg-name="NATGEO WILD HD*" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/nat-geo-wild-logo.png" group-title="CANAIS: DOCUMENTARIOS",NATGEO WILD HD*
+http://familytv.net:80/live/Peterson/Peterson/57173.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="NatGeo | HD" tvg-name="NATIONAL GEOGRAPHIC 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="CANAIS: 4K",NATIONAL GEOGRAPHIC 4K
+http://familytv.net:80/live/Peterson/Peterson/58405.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="NHK" tvg-name="NHK HD*" tvg-logo="https://cdn.mitvstatic.com/channels/br_nhk_m.png" group-title="CANAIS: NOTICIAS",NHK HD*
+http://familytv.net:80/live/Peterson/Peterson/57221.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="NHK" tvg-name="NHK JAPÃO  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/599px-NHK_World.svg.png" group-title="CANAIS: NOTICIAS",NHK JAPÃO  HD
+http://familytv.net:80/live/Peterson/Peterson/99367.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="NickJr | HD" tvg-name="NICK JR HD" tvg-logo="https://vignette.wikia.nocookie.net/catcamedian/images/c/c9/Nickelodeon_Junior_logo_1999.png/revision/latest/scale-to-width-down/340?cb=20191220153229" group-title="CANAIS: INFANTIS",NICK JR HD
+http://familytv.net:80/live/Peterson/Peterson/40045.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="NickJr | HD" tvg-name="NICK JR HD*" tvg-logo="https://vignette.wikia.nocookie.net/catcamedian/images/c/c9/Nickelodeon_Junior_logo_1999.png/revision/latest/scale-to-width-down/340?cb=20191220153229" group-title="CANAIS: INFANTIS",NICK JR HD*
+http://familytv.net:80/live/Peterson/Peterson/57205.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Nickelodeon | HD" tvg-name="NICKELODEON HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/nickelodeon.png" group-title="CANAIS: INFANTIS",NICKELODEON HD
+http://familytv.net:80/live/Peterson/Peterson/40043.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Nickelodeon | HD" tvg-name="NICKELODEON HD*" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/nickelodeon.png" group-title="CANAIS: INFANTIS",NICKELODEON HD*
+http://familytv.net:80/live/Peterson/Peterson/57206.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="NOVO TEMPO HD***" tvg-name="NOVO TEMPO" tvg-logo="https://files.adventistas.org/noticias/pt/2015/07/30192608/TV-NOVO-TEMPO-copy-Copia.png" group-title="CANAIS: RELIGIOSOS",NOVO TEMPO
+http://familytv.net:80/live/Peterson/Peterson/39863.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Paramount | HD" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Paramount.png/250px-Paramount.png" group-title="CANAIS: FILMES E SERIES",PARAMOUNT CHANNEL HD
+http://familytv.net:80/live/Peterson/Peterson/57188.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Premiere 1 | FHD" tvg-name="PREMIER CLUBE FULLHD H264" tvg-logo="https://www.nossagente.net/wp_new/wp-content/uploads/2013/08/PFC_LOGO_slogan2.png" group-title="CANAIS: PREMIERE",PREMIER CLUBE FULLHD H264
+http://familytv.net:80/live/Peterson/Peterson/99034.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Premiere 1 | HD" tvg-name="PREMIERE 1 CLUBES" tvg-logo="https://2.bp.blogspot.com/-UZaeucFWclY/Vfq9cLOaGkI/AAAAAAAAAzU/VYv_I4jvAcc/s1600/PFC.png" group-title="CANAIS: 4K",PREMIERE 1 CLUBES
+http://familytv.net:80/live/Peterson/Peterson/58396.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="A&E" tvg-name="PREMIERE 2 FULLHD H264" tvg-logo="https://2.bp.blogspot.com/-UZaeucFWclY/Vfq9cLOaGkI/AAAAAAAAAzU/VYv_I4jvAcc/s1600/PFC.png" group-title="CANAIS: PREMIERE",PREMIERE 2 FULLHD H264
+http://familytv.net:80/live/Peterson/Peterson/99075.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Premiere 3 | FHD" tvg-name="PREMIERE 3 FULLHD H264" tvg-logo="https://2.bp.blogspot.com/-UZaeucFWclY/Vfq9cLOaGkI/AAAAAAAAAzU/VYv_I4jvAcc/s1600/PFC.png" group-title="CANAIS: PREMIERE",PREMIERE 3 FULLHD H264
+http://familytv.net:80/live/Peterson/Peterson/99074.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Premiere 4 | FHD" tvg-name="PREMIERE 4 FULLHD H264" tvg-logo="https://2.bp.blogspot.com/-UZaeucFWclY/Vfq9cLOaGkI/AAAAAAAAAzU/VYv_I4jvAcc/s1600/PFC.png" group-title="CANAIS: PREMIERE",PREMIERE 4 FULLHD H264
+http://familytv.net:80/live/Peterson/Peterson/99073.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Premiere 5 | FHD" tvg-name="PREMIERE 5 FULLHD H264" tvg-logo="https://2.bp.blogspot.com/-UZaeucFWclY/Vfq9cLOaGkI/AAAAAAAAAzU/VYv_I4jvAcc/s1600/PFC.png" group-title="CANAIS: PREMIERE",PREMIERE 5 FULLHD H264
+http://familytv.net:80/live/Peterson/Peterson/99072.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="A&E" tvg-name="PREMIERE 6 FULLHD H264" tvg-logo="https://2.bp.blogspot.com/-UZaeucFWclY/Vfq9cLOaGkI/AAAAAAAAAzU/VYv_I4jvAcc/s1600/PFC.png" group-title="CANAIS: PREMIERE",PREMIERE 6 FULLHD H264
+http://familytv.net:80/live/Peterson/Peterson/99071.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="A&E" tvg-name="PREMIERE 7 FULLHD H264" tvg-logo="https://2.bp.blogspot.com/-UZaeucFWclY/Vfq9cLOaGkI/AAAAAAAAAzU/VYv_I4jvAcc/s1600/PFC.png" group-title="CANAIS: PREMIERE",PREMIERE 7 FULLHD H264
+http://familytv.net:80/live/Peterson/Peterson/99070.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="RBS | HD" tvg-name="RBS STA MARIA" tvg-logo="https://s2.glbimg.com/ag5jIzwh74Pd8_7NaZfw4qFXt-U=/s.glbimg.com/og/rg/f/original/2013/07/23/600logo_rbstv.png" group-title="CANAIS: GLOBO",RBS STA MARIA
+http://familytv.net:80/live/Peterson/Peterson/99060.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="0" tvg-name="REAL MADRI TV" tvg-logo="http://familytv.net:80/images/e49495caa6e8500775c148db5131d91c.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",REAL MADRI TV
+http://familytv.net:80/live/Peterson/Peterson/100052.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Record BH | HD" tvg-name="RECORD BAHIA¹" tvg-logo="http://familytv.net:80/images/f38444c569dc24df0ab9c4f9911e7305.png" group-title="CANAIS: RECORD",RECORD BAHIA¹
+http://familytv.net:80/live/Peterson/Peterson/100156.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Record Belem | HD" tvg-name="RECORD BELEM HD¹" tvg-logo="http://familytv.net:80/images/f38444c569dc24df0ab9c4f9911e7305.png" group-title="CANAIS: RECORD",RECORD BELEM HD¹
+http://familytv.net:80/live/Peterson/Peterson/100148.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Record BH | HD" tvg-name="RECORD BH MINAS HD¹" tvg-logo="http://familytv.net:80/images/f38444c569dc24df0ab9c4f9911e7305.png" group-title="CANAIS: RECORD",RECORD BH MINAS HD¹
+http://familytv.net:80/live/Peterson/Peterson/100152.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Record BSB | HD" tvg-name="RECORD BRASILIA HD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="CANAIS: RECORD",RECORD BRASILIA HD¹
+http://familytv.net:80/live/Peterson/Peterson/100136.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Record Campinas | HD" tvg-name="RECORD CAMPINAS HD2²" tvg-logo="http://familytv.net:80/images/f38444c569dc24df0ab9c4f9911e7305.png" group-title="CANAIS: RECORD",RECORD CAMPINAS HD2²
+http://familytv.net:80/live/Peterson/Peterson/100153.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Record Goiania | HD" tvg-name="RECORD GOIANIA HD¹" tvg-logo="http://familytv.net:80/images/f38444c569dc24df0ab9c4f9911e7305.png" group-title="CANAIS: RECORD",RECORD GOIANIA HD¹
+http://familytv.net:80/live/Peterson/Peterson/100157.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Record Santos | HD" tvg-name="RECORD LITORAL HD SANTOS" tvg-logo="http://familytv.net:80/images/f38444c569dc24df0ab9c4f9911e7305.png" group-title="CANAIS: RECORD",RECORD LITORAL HD SANTOS
+http://familytv.net:80/live/Peterson/Peterson/100149.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Record Manaus | HD" tvg-name="RECORD MANAUS HD¹" tvg-logo="http://familytv.net:80/images/f38444c569dc24df0ab9c4f9911e7305.png" group-title="CANAIS: RECORD",RECORD MANAUS HD¹
+http://familytv.net:80/live/Peterson/Peterson/100155.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Record MG" tvg-name="RECORD MG HD²" tvg-logo="http://familytv.net:80/images/f38444c569dc24df0ab9c4f9911e7305.png" group-title="CANAIS: RECORD",RECORD MG HD²
+http://familytv.net:80/live/Peterson/Peterson/100151.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Record Minas | HD" tvg-name="RECORD MINAS HD¹" tvg-logo="http://familytv.net:80/images/f38444c569dc24df0ab9c4f9911e7305.png" group-title="CANAIS: RECORD",RECORD MINAS HD¹
+http://familytv.net:80/live/Peterson/Peterson/100150.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Record News | HD" tvg-name="RECORD NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b1/Logotipo_da_Record_News.png" group-title="CANAIS: NOTICIAS",RECORD NEWS HD
+http://familytv.net:80/live/Peterson/Peterson/39936.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Record Parana | HD" tvg-name="RECORD PARANA HD¹" tvg-logo="http://familytv.net:80/images/f38444c569dc24df0ab9c4f9911e7305.png" group-title="CANAIS: RECORD",RECORD PARANA HD¹
+http://familytv.net:80/live/Peterson/Peterson/100154.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Record TV RJ | HD" tvg-name="RECORD RJ HD¹" tvg-logo="http://familytv.net:80/images/f38444c569dc24df0ab9c4f9911e7305.png" group-title="CANAIS: RECORD",RECORD RJ HD¹
+http://familytv.net:80/live/Peterson/Peterson/100143.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Record RS | HD" tvg-name="RECORD RS HD" tvg-logo="http://familytv.net:80/images/f38444c569dc24df0ab9c4f9911e7305.png" group-title="CANAIS: RECORD",RECORD RS HD
+http://familytv.net:80/live/Peterson/Peterson/100141.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Record TV RJ | HD" tvg-name="RECORD RS HD²" tvg-logo="http://familytv.net:80/images/f38444c569dc24df0ab9c4f9911e7305.png" group-title="CANAIS: RECORD",RECORD RS HD²
+http://familytv.net:80/live/Peterson/Peterson/100142.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Record SC | HD" tvg-name="RECORD SANTA CATARINA HD¹" tvg-logo="http://familytv.net:80/images/f38444c569dc24df0ab9c4f9911e7305.png" group-title="CANAIS: RECORD",RECORD SANTA CATARINA HD¹
+http://familytv.net:80/live/Peterson/Peterson/100158.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Record SJRP | HD" tvg-name="RECORD SAO JOSE RIO PRETO HD¹" tvg-logo="http://familytv.net:80/images/f38444c569dc24df0ab9c4f9911e7305.png" group-title="CANAIS: RECORD",RECORD SAO JOSE RIO PRETO HD¹
+http://familytv.net:80/live/Peterson/Peterson/100146.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Record TV" tvg-name="RECORD SERGIPE - TV ATALAIA HD¹" tvg-logo="http://familytv.net:80/images/f38444c569dc24df0ab9c4f9911e7305.png" group-title="CANAIS: RECORD",RECORD SERGIPE - TV ATALAIA HD¹
+http://familytv.net:80/live/Peterson/Peterson/100147.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Record TV SP (Sao Jose Rio Preto) | HD" tvg-name="RECORD SP HD²" tvg-logo="http://familytv.net:80/images/f38444c569dc24df0ab9c4f9911e7305.png" group-title="CANAIS: RECORD",RECORD SP HD²
+http://familytv.net:80/live/Peterson/Peterson/100140.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Record TV SP (Sao Jose Rio Preto) | HD" tvg-name="RECORD SP HD¹" tvg-logo="http://familytv.net:80/images/f38444c569dc24df0ab9c4f9911e7305.png" group-title="CANAIS: RECORD",RECORD SP HD¹
+http://familytv.net:80/live/Peterson/Peterson/100138.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Record TV SP (Sao Jose Rio Preto) | HD" tvg-name="RECORDTV" tvg-logo="http://51.79.39.244/canais/record.png" group-title="CANAIS: 4K",RECORDTV
+http://familytv.net:80/live/Peterson/Peterson/58397.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Record TV RJ | HD" tvg-name="RECORDTV RJ HD³" tvg-logo="http://familytv.net:80/images/f38444c569dc24df0ab9c4f9911e7305.png" group-title="CANAIS: RECORD",RECORDTV RJ HD³
+http://familytv.net:80/live/Peterson/Peterson/100145.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="RED BULL TV" tvg-logo="http://familytv.net:80/images/2d97c6fab3c83d78eda766397d4c88b3.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",RED BULL TV
+http://familytv.net:80/live/Peterson/Peterson/100053.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="rede.gospel.br" tvg-name="REDE GOSPEL FULLHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/ba/LGT_Rede_Gospel.png/235px-LGT_Rede_Gospel.png" group-title="CANAIS: RELIGIOSOS",REDE GOSPEL FULLHD
+http://familytv.net:80/live/Peterson/Peterson/39869.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="rede.super.br" tvg-name="REDE SUPER" tvg-logo="https://cdn.mitvstatic.com/channels/br_rede-super-hd_m.png" group-title="CANAIS: RELIGIOSOS",REDE SUPER
+http://familytv.net:80/live/Peterson/Peterson/39868.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Rede TV | HD" tvg-name="REDE TV 4K" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/redetv-logo.png" group-title="CANAIS: 4K",REDE TV 4K
+http://familytv.net:80/live/Peterson/Peterson/58406.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="REDE TV***" tvg-name="REDE TV HD" tvg-logo="http://abre.ai/XrT" group-title="CANAIS: ABERTOS",REDE TV HD
+http://familytv.net:80/live/Peterson/Peterson/39920.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="REDE VIDA***" tvg-name="REDE VIDA " tvg-logo="https://4.bp.blogspot.com/-oKYur1WMPGI/XQ0N9xIv3JI/AAAAAAAABK4/7qgUvY6F4cEpFLvkbLLGSNj35kd4jw1eQCPcBGAYYCw/s320/Screenshot_2019-06-21-13-43-10.png" group-title="CANAIS: RELIGIOSOS",REDE VIDA 
+http://familytv.net:80/live/Peterson/Peterson/39866.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="RIT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a5/Logotipo_da_RIT_%282016%29.png" group-title="CANAIS: RELIGIOSOS",RIT
+http://familytv.net:80/live/Peterson/Peterson/95052.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="SBT SP | HD" tvg-name="SBT 4K" tvg-logo="" group-title="CANAIS: 4K",SBT 4K
+http://familytv.net:80/live/Peterson/Peterson/58407.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="SBT PR | HD" tvg-name="SBT PARANA ¹" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2-1.png" group-title="CANAIS: ABERTOS",SBT PARANA ¹
+http://familytv.net:80/live/Peterson/Peterson/39913.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="SBT RJ | HD" tvg-name="SBT RJ ¹" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2-1.png" group-title="CANAIS: ABERTOS",SBT RJ ¹
+http://familytv.net:80/live/Peterson/Peterson/39900.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="SBT RS | HD" tvg-name="SBT RS ¹" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2-1.png" group-title="CANAIS: ABERTOS",SBT RS ¹
+http://familytv.net:80/live/Peterson/Peterson/39901.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="SBT SP | HD" tvg-name="SBT SP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2-1.png" group-title="CANAIS: ABERTOS",SBT SP
+http://familytv.net:80/live/Peterson/Peterson/99762.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="SBT | FHD" tvg-name="SBT TV ALTEROSA ¹" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2-1.png" group-title="CANAIS: ABERTOS",SBT TV ALTEROSA ¹
+http://familytv.net:80/live/Peterson/Peterson/39911.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="SBT | FHD" tvg-name="SBT TV SERRA DOURADA ¹" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2-1.png" group-title="CANAIS: ABERTOS",SBT TV SERRA DOURADA ¹
+http://familytv.net:80/live/Peterson/Peterson/39898.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="RECORD" tvg-name="SMITHSONIAN HD" tvg-logo="https://seeklogo.com/images/S/Smithsonian_Institution-logo-6857F768FD-seeklogo.com.png" group-title="CANAIS: DOCUMENTARIOS",SMITHSONIAN HD
+http://familytv.net:80/live/Peterson/Peterson/40028.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Space | HD" tvg-name="SPACE 4K" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/canal-space-logo.png" group-title="CANAIS: 4K",SPACE 4K
+http://familytv.net:80/live/Peterson/Peterson/58408.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Space | HD" tvg-name="SPACE HD" tvg-logo="https://i.pinimg.com/originals/d6/6b/b5/d66bb576495837a6336a136895c0ee31.png" group-title="CANAIS: FILMES E SERIES",SPACE HD
+http://familytv.net:80/live/Peterson/Peterson/40096.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Space | HD" tvg-name="SPACE HD*" tvg-logo="https://multicanais.com/wp-content/uploads/2019/09/Space-ao-vivo.png" group-title="CANAIS: FILMES E SERIES",SPACE HD*
+http://familytv.net:80/live/Peterson/Peterson/57189.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV + HD" tvg-logo="http://familytv.net:80/images/a018a1ae5e33e9742b50d7af411720eb.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",SPORT TV + HD
+http://familytv.net:80/live/Peterson/Peterson/100054.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1 HD" tvg-logo="http://familytv.net:80/images/8225f29b46d740c25362401f91c7d0e8.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",SPORT TV 1 HD
+http://familytv.net:80/live/Peterson/Peterson/100055.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 2 HD" tvg-logo="http://familytv.net:80/images/d8a35582feddf9604830c3e4a1f8d37c.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",SPORT TV 2 HD
+http://familytv.net:80/live/Peterson/Peterson/107226.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 3 HD" tvg-logo="http://familytv.net:80/images/4552cf330aa274a257b63a61f7f94853.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",SPORT TV 3 HD
+http://familytv.net:80/live/Peterson/Peterson/107229.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 4 HD" tvg-logo="http://familytv.net:80/images/61f150826d57ae5ed949a9ba495a233c.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",SPORT TV 4 HD
+http://familytv.net:80/live/Peterson/Peterson/100058.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 5 HD" tvg-logo="http://familytv.net:80/images/4d2bd76edac6976962bf7a7a62f92af3.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",SPORT TV 5 HD
+http://familytv.net:80/live/Peterson/Peterson/100059.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="SporTV 2 | HD" tvg-name="SPORTV 2 FULLHD H264" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/SporTV_logo_2011.png" group-title="CANAIS: ESPORTES",SPORTV 2 FULLHD H264
+http://familytv.net:80/live/Peterson/Peterson/100786.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="SporTV3 | FHD" tvg-name="SPORTV 3 FULLHD H264" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/SporTV_logo_2011.png" group-title="CANAIS: ESPORTES",SPORTV 3 FULLHD H264
+http://familytv.net:80/live/Peterson/Peterson/100787.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SPORTV 4K" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="CANAIS: 4K",SPORTV 4K
+http://familytv.net:80/live/Peterson/Peterson/58409.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Sportv | FHD" tvg-name="SPORTV FULLHD H264" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/SporTV_logo_2011.png" group-title="CANAIS: ESPORTES",SPORTV FULLHD H264
+http://familytv.net:80/live/Peterson/Peterson/100785.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Studio Universal | HD" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1280px-Logo_Studio_Universal.svg.png" group-title="CANAIS: FILMES E SERIES",STUDIO UNIVERSAL HD
+http://familytv.net:80/live/Peterson/Peterson/40098.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="SYFY | HD" tvg-name="SYFY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1024px-Syfy.svg.png" group-title="CANAIS: FILMES E SERIES",SYFY HD
+http://familytv.net:80/live/Peterson/Peterson/40100.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="SYFY | HD" tvg-name="SYFY HD*" tvg-logo="https://img.miptv.ws/Syfy.png" group-title="CANAIS: FILMES E SERIES",SYFY HD*
+http://familytv.net:80/live/Peterson/Peterson/57181.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="TBS | HD" tvg-name="TBS HD" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/tbs-logo-png-4.png" group-title="CANAIS: FILMES E SERIES",TBS HD
+http://familytv.net:80/live/Peterson/Peterson/40102.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="CANAIS: FILMES E SERIES",TCM HD*
+http://familytv.net:80/live/Peterson/Peterson/57185.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Telecine Action | FHD" tvg-name="TELECINE ACTION FULLHD H264" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcactionb.png" group-title="CANAIS: TELECINE",TELECINE ACTION FULLHD H264
+http://familytv.net:80/live/Peterson/Peterson/99047.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Telecine Action | HD" tvg-name="TELECINE ACTION FULLHD H264" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcactionb.png" group-title="CANAIS: LEGENDADOS",TELECINE ACTION FULLHD H264
+http://familytv.net:80/live/Peterson/Peterson/99081.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Telecine Action | HD" tvg-name="TELECINE ACTION HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcactionb.png" group-title="CANAIS: TELECINE",TELECINE ACTION HD
+http://familytv.net:80/live/Peterson/Peterson/39951.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Telecine Action | HD" tvg-name="TELECINE ACTION HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcactionb.png" group-title="CANAIS: LEGENDADOS",TELECINE ACTION HD
+http://familytv.net:80/live/Peterson/Peterson/99082.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Telecine Action | HD" tvg-name="TELECINE ACTION HD*" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcactionb.png" group-title="CANAIS: TELECINE",TELECINE ACTION HD*
+http://familytv.net:80/live/Peterson/Peterson/57126.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Telecine Cult | FHD" tvg-name="TELECINE CULT FULLHD H264" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tccultb.png" group-title="CANAIS: TELECINE",TELECINE CULT FULLHD H264
+http://familytv.net:80/live/Peterson/Peterson/99051.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Telecine Cult | HD" tvg-name="TELECINE CULT FULLHD H264" tvg-logo="https://multicanais.com/wp-content/uploads/2019/04/assistir-telecine-cult-ao-vivo.png" group-title="CANAIS: LEGENDADOS",TELECINE CULT FULLHD H264
+http://familytv.net:80/live/Peterson/Peterson/99087.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Telecine Cult | HD" tvg-name="TELECINE CULT HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tccultb.png" group-title="CANAIS: TELECINE",TELECINE CULT HD
+http://familytv.net:80/live/Peterson/Peterson/39952.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Telecine Cult | HD" tvg-name="TELECINE CULT HD" tvg-logo="https://multicanais.com/wp-content/uploads/2019/04/assistir-telecine-cult-ao-vivo.png" group-title="CANAIS: LEGENDADOS",TELECINE CULT HD
+http://familytv.net:80/live/Peterson/Peterson/99088.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Telecine Cult | HD" tvg-name="TELECINE CULT HD*" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tccultb.png" group-title="CANAIS: TELECINE",TELECINE CULT HD*
+http://familytv.net:80/live/Peterson/Peterson/57127.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Telecine Fun | FHD" tvg-name="TELECINE FUN FULLHD H264" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcfunb.png" group-title="CANAIS: TELECINE",TELECINE FUN FULLHD H264
+http://familytv.net:80/live/Peterson/Peterson/99050.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Telecine Fun | HD" tvg-name="TELECINE FUN FULLHD H264" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcfunb.png" group-title="CANAIS: LEGENDADOS",TELECINE FUN FULLHD H264
+http://familytv.net:80/live/Peterson/Peterson/99085.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Telecine Fun | HD" tvg-name="TELECINE FUN HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcfunb.png" group-title="CANAIS: TELECINE",TELECINE FUN HD
+http://familytv.net:80/live/Peterson/Peterson/39953.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Telecine Fun | HD" tvg-name="TELECINE FUN HD H264" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcfunb.png" group-title="CANAIS: LEGENDADOS",TELECINE FUN HD H264
+http://familytv.net:80/live/Peterson/Peterson/99086.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Telecine Fun | HD" tvg-name="TELECINE FUN HD*" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcfunb.png" group-title="CANAIS: TELECINE",TELECINE FUN HD*
+http://familytv.net:80/live/Peterson/Peterson/57128.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Telecine Pipoca | FHD" tvg-name="TELECINE PIPOCA FULLHD H264" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcpipocab.png" group-title="CANAIS: TELECINE",TELECINE PIPOCA FULLHD H264
+http://familytv.net:80/live/Peterson/Peterson/99049.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Telecine Pipoca | HD" tvg-name="TELECINE PIPOCA FULLHD H264" tvg-logo="http://1.bp.blogspot.com/-kVrT1nJMzHI/US4iFNHdWWI/AAAAAAAAFHs/Ak6T31nq2PQ/s1600/telecine_pipoca.png" group-title="CANAIS: LEGENDADOS",TELECINE PIPOCA FULLHD H264
+http://familytv.net:80/live/Peterson/Peterson/99077.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Telecine Pipoca | HD" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcpipocab.png" group-title="CANAIS: TELECINE",TELECINE PIPOCA HD
+http://familytv.net:80/live/Peterson/Peterson/39954.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Telecine Pipoca | HD" tvg-name="TELECINE PIPOCA HD" tvg-logo="http://1.bp.blogspot.com/-kVrT1nJMzHI/US4iFNHdWWI/AAAAAAAAFHs/Ak6T31nq2PQ/s1600/telecine_pipoca.png" group-title="CANAIS: LEGENDADOS",TELECINE PIPOCA HD
+http://familytv.net:80/live/Peterson/Peterson/99078.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Telecine Pipoca | HD" tvg-name="TELECINE PIPOCA HD*" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcpipocab.png" group-title="CANAIS: TELECINE",TELECINE PIPOCA HD*
+http://familytv.net:80/live/Peterson/Peterson/57129.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Telecine Premium | HD" tvg-name="TELECINE PREMIUM 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png" group-title="CANAIS: 4K",TELECINE PREMIUM 4K
+http://familytv.net:80/live/Peterson/Peterson/58410.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Telecine Premium | FHD" tvg-name="TELECINE PREMIUM FULLHD H264" tvg-logo="https://static.wikia.nocookie.net/redeglobo/images/3/33/Tcpremiumb.png/revision/latest?cb=20200817020705&path-prefix=pt" group-title="CANAIS: TELECINE",TELECINE PREMIUM FULLHD H264
+http://familytv.net:80/live/Peterson/Peterson/99046.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Telecine Premium | HD" tvg-name="TELECINE PREMIUM FULLHD H264" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcpremiumb.png" group-title="CANAIS: LEGENDADOS",TELECINE PREMIUM FULLHD H264
+http://familytv.net:80/live/Peterson/Peterson/99079.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Telecine Premium | HD" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcpremiumb.png" group-title="CANAIS: TELECINE",TELECINE PREMIUM HD
+http://familytv.net:80/live/Peterson/Peterson/39955.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Telecine Premium | HD" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcpremiumb.png" group-title="CANAIS: LEGENDADOS",TELECINE PREMIUM HD
+http://familytv.net:80/live/Peterson/Peterson/99080.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Telecine Premium | HD" tvg-name="TELECINE PREMIUM HD*" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcpremiumb.png" group-title="CANAIS: TELECINE",TELECINE PREMIUM HD*
+http://familytv.net:80/live/Peterson/Peterson/57130.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Telecine Touch | FHD" tvg-name="TELECINE TOUCH FULLHD H264" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tctouchb.png" group-title="CANAIS: TELECINE",TELECINE TOUCH FULLHD H264
+http://familytv.net:80/live/Peterson/Peterson/99048.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Telecine Touch | HD" tvg-name="TELECINE TOUCH FULLHD H264" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tctouchb.png" group-title="CANAIS: LEGENDADOS",TELECINE TOUCH FULLHD H264
+http://familytv.net:80/live/Peterson/Peterson/99083.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Telecine Touch | HD" tvg-name="TELECINE TOUCH HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tctouchb.png" group-title="CANAIS: TELECINE",TELECINE TOUCH HD
+http://familytv.net:80/live/Peterson/Peterson/39956.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Telecine Touch | HD" tvg-name="TELECINE TOUCH HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tctouchb.png" group-title="CANAIS: LEGENDADOS",TELECINE TOUCH HD
+http://familytv.net:80/live/Peterson/Peterson/99084.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Telecine Touch | HD" tvg-name="TELECINE TOUCH HD*" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tctouchb.png" group-title="CANAIS: TELECINE",TELECINE TOUCH HD*
+http://familytv.net:80/live/Peterson/Peterson/57131.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="TLC | HD" tvg-name="TLC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="CANAIS: FILMES E SERIES",TLC HD
+http://familytv.net:80/live/Peterson/Peterson/57186.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="TNT | HD" tvg-name="TNT 4K" tvg-logo="https://lh3.googleusercontent.com/proxy/PFbg4L5OdoNim-7v3taWKf-OSqQ6W3ljxVEPQQziaWF2VQfekpOcwTQtkx6qCMzkZXDj8GtUIITgKMzQVO2bFftppoeU226jkW0hzpKheJWTy2k1nQ" group-title="CANAIS: 4K",TNT 4K
+http://familytv.net:80/live/Peterson/Peterson/58411.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="TNT | FHD" tvg-name="TNT FULLHD H264" tvg-logo="https://cdn.mitvstatic.com/channels/br_tnt-hd_m.png" group-title="CANAIS: FILMES E SERIES",TNT FULLHD H264
+http://familytv.net:80/live/Peterson/Peterson/99045.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="TNT Series | HD" tvg-name="TNT SERIES 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/TNT_Series.png/640px-TNT_Series.png" group-title="CANAIS: 4K",TNT SERIES 4K
+http://familytv.net:80/live/Peterson/Peterson/58412.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="TNT Series | HD" tvg-name="TNT SERIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/TNT_Serie_HD_Logo_2016.png" group-title="CANAIS: FILMES E SERIES",TNT SERIES HD
+http://familytv.net:80/live/Peterson/Peterson/40108.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="TNT Series | HD" tvg-name="TNT SERIES HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/TNT_Serie_HD_Logo_2016.png" group-title="CANAIS: FILMES E SERIES",TNT SERIES HD*
+http://familytv.net:80/live/Peterson/Peterson/57192.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="TOONCAST HD" tvg-logo="https://ap.imagensbrasil.org/images/2020/02/14/tooncast.png" group-title="CANAIS: INFANTIS",TOONCAST HD
+http://familytv.net:80/live/Peterson/Peterson/57196.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TRAVEL BOX BRAZIL" tvg-logo="https://cdn.mitvstatic.com/channels/br_travel-box-brazil_m.png" group-title="CANAIS: DOCUMENTARIOS",TRAVEL BOX BRAZIL
+http://familytv.net:80/live/Peterson/Peterson/58503.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="TruTV" tvg-name="TRUTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/TruTV_UK_logo.svg/1200px-TruTV_UK_logo.svg.png" group-title="CANAIS: VARIEDADES",TRUTV
+http://familytv.net:80/live/Peterson/Peterson/99109.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TV CULTURA HD" tvg-logo="https://seeklogo.com/images/T/tv-cultura-logo-8043A38965-seeklogo.com.png" group-title="CANAIS: ABERTOS",TV CULTURA HD
+http://familytv.net:80/live/Peterson/Peterson/40750.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TV DIARIO HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvdiarioce.png" group-title="CANAIS: ABERTOS",TV DIARIO HD
+http://familytv.net:80/live/Peterson/Peterson/93739.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TV EVAGILIZAR ES " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TV_Evangelizar_logo_2019.png" group-title="CANAIS: RELIGIOSOS",TV EVAGILIZAR ES 
+http://familytv.net:80/live/Peterson/Peterson/39906.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Globo MA | HD" tvg-name="TV MIRANTE HD (GLOBO MARANHAO)" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/c/ca/Tv_globo_internacional_2011.png/revision/latest/scale-to-width-down/340?cb=20150202231708" group-title="CANAIS: GLOBO",TV MIRANTE HD (GLOBO MARANHAO)
+http://familytv.net:80/live/Peterson/Peterson/58434.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TV PAI ETERNO" tvg-logo="" group-title="CANAIS: RELIGIOSOS",TV PAI ETERNO
+http://familytv.net:80/live/Peterson/Peterson/39865.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="TV RA TIM BUM HD***" tvg-name="TV RA TIM BUM HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/55/TV_R%C3%A1_Tim_Bum_%282012%29.png/revision/latest/scale-to-width-down/340?cb=20160511061708" group-title="CANAIS: INFANTIS",TV RA TIM BUM HD
+http://familytv.net:80/live/Peterson/Peterson/40046.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Globo BA | HD" tvg-name="TV SUBAE (GLOBO BAHIA HD)" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/c/ca/Tv_globo_internacional_2011.png/revision/latest/scale-to-width-down/340?cb=20150202231708" group-title="CANAIS: GLOBO",TV SUBAE (GLOBO BAHIA HD)
+http://familytv.net:80/live/Peterson/Peterson/58431.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Globo Bauru" tvg-name="TV TEM BAURU" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/c/ca/Tv_globo_internacional_2011.png/revision/latest/scale-to-width-down/340?cb=20150202231708" group-title="CANAIS: GLOBO",TV TEM BAURU
+http://familytv.net:80/live/Peterson/Peterson/100095.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Globo São Jose do Rio Preto" tvg-name="TV TEM SÃO JOSÉ DO RIO PRETO" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/c/ca/Tv_globo_internacional_2011.png/revision/latest/scale-to-width-down/340?cb=20150202231708" group-title="CANAIS: GLOBO",TV TEM SÃO JOSÉ DO RIO PRETO
+http://familytv.net:80/live/Peterson/Peterson/98928.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Globo Brasília" tvg-name="TV VERDES MARES HD CE" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/c/ca/Tv_globo_internacional_2011.png/revision/latest/scale-to-width-down/340?cb=20150202231708" group-title="CANAIS: GLOBO",TV VERDES MARES HD CE
+http://familytv.net:80/live/Peterson/Peterson/58440.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TVCINE ACTION HD" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvcaction.png" group-title="CANAIS: FILMES ESPECIAIS ",TVCINE ACTION HD
+http://familytv.net:80/live/Peterson/Peterson/67932.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TVCINE EDITION" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvcedition.png" group-title="CANAIS: FILMES ESPECIAIS ",TVCINE EDITION
+http://familytv.net:80/live/Peterson/Peterson/58145.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TVCINE EMOTION" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvcemotion.png" group-title="CANAIS: FILMES ESPECIAIS ",TVCINE EMOTION
+http://familytv.net:80/live/Peterson/Peterson/58146.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TVCINE TOP" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvctop.png" group-title="CANAIS: FILMES ESPECIAIS ",TVCINE TOP
+http://familytv.net:80/live/Peterson/Peterson/58147.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Universal TV | HD" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a0/Universal_Channel_logo.png" group-title="CANAIS: FILMES E SERIES",UNIVERSAL CHANNEL HD
+http://familytv.net:80/live/Peterson/Peterson/107276.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Universal TV | HD" tvg-name="UNIVERSAL TV HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a0/Universal_Channel_logo.png" group-title="CANAIS: FILMES E SERIES",UNIVERSAL TV HD
+http://familytv.net:80/live/Peterson/Peterson/40110.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="VH1 MegaHits | HD" tvg-name="VH1 HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_vh1-megahits_m.png" group-title="CANAIS: VARIEDADES",VH1 HD
+http://familytv.net:80/live/Peterson/Peterson/40071.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Viva | HD" tvg-name="VIVA HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/viva2018.png" group-title="CANAIS: VARIEDADES",VIVA HD
+http://familytv.net:80/live/Peterson/Peterson/40072.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Viva | HD" tvg-name="VIVA HD²" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/e/ef/Canal_viva_logo_.png" group-title="CANAIS: VARIEDADES",VIVA HD²
+http://familytv.net:80/live/Peterson/Peterson/45502.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Warner TV | HD" tvg-name="WARNER CHANNEL HD" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/warner-channel-logo-png-transparent.png" group-title="CANAIS: FILMES E SERIES",WARNER CHANNEL HD
+http://familytv.net:80/live/Peterson/Peterson/40112.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Warner TV | HD" tvg-name="WARNER CHANNEL HD*" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/warner-channel-logo-png-transparent.png" group-title="CANAIS: FILMES E SERIES",WARNER CHANNEL HD*
+http://familytv.net:80/live/Peterson/Peterson/57184.m3u8|user-agent=GoPlayer
+http://familytv.net:80/live/Peterson/Peterson/41541.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="ZOOMOO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Zoomoo_logo.png" group-title="CANAIS: INFANTIS",ZOOMOO HD
+http://familytv.net:80/live/Peterson/Peterson/57208.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="A BOLA TV HD" tvg-logo="http://familytv.net:80/images/3ff43b930190f37dc1b766f5fb5b70de.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",A BOLA TV HD
+http://familytv.net:80/live/Peterson/Peterson/100043.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Globo Paraiba | HD" tvg-name="GLOBO PARAIBA HD" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/c/ca/Tv_globo_internacional_2011.png/revision/latest/scale-to-width-down/340?cb=20150202231708" group-title="CANAIS: GLOBO",GLOBO PARAIBA HD
+http://familytv.net:80/live/Peterson/Peterson/109189.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Globo Brasília" tvg-name="GLOBO INTER TV CABUGI HD" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/c/ca/Tv_globo_internacional_2011.png/revision/latest/scale-to-width-down/340?cb=20150202231708" group-title="CANAIS: GLOBO",GLOBO INTER TV CABUGI HD
+http://familytv.net:80/live/Peterson/Peterson/109240.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="LANCELOT TV" tvg-logo="http://www.lancelot.tv/lancelot.jpg" group-title="CORTESIA ESPANHA",LANCELOT TV
+http://familytv.net:80/live/Peterson/Peterson/109374.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="8 TV ESPAÑA" tvg-logo="http://familytv.net:80/images/129d018a2bedce166915bb1b71bf8cfd.png" group-title="CORTESIA ESPANHA",8 TV ESPAÑA
+http://familytv.net:80/live/Peterson/Peterson/109375.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TRAVEL HD" tvg-logo="http://familytv.net:80/images/5906c15d8c6a57947696df6c2422f9df.jpeg" group-title="CORTESIA ESPANHA",TRAVEL HD
+http://familytv.net:80/live/Peterson/Peterson/109376.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="LAOTRA" tvg-logo="http://familytv.net:80/images/cda1609a618cd29bf30b2f10239f6e7b.jpg" group-title="CORTESIA ESPANHA",LAOTRA
+http://familytv.net:80/live/Peterson/Peterson/109377.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TELEMADRID" tvg-logo="http://familytv.net:80/images/ba7976f75178585f45d7e5c88c133247.jpg" group-title="CORTESIA ESPANHA",TELEMADRID
+http://familytv.net:80/live/Peterson/Peterson/109378.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="TVE 24H" tvg-logo="" group-title="CORTESIA ESPANHA",TVE 24H
+http://familytv.net:80/live/Peterson/Peterson/109379.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="REAL MADRID TV HD" tvg-logo="" group-title="CORTESIA ESPANHA",REAL MADRID TV HD
+http://familytv.net:80/live/Peterson/Peterson/109380.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="REAL MADRID TV (ENGLISH)" tvg-logo="" group-title="CORTESIA ESPANHA",REAL MADRID TV (ENGLISH)
+http://familytv.net:80/live/Peterson/Peterson/109381.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS:CGTN 1" tvg-logo="" group-title="CORTESIA ESPANHA",NOTICIAS:CGTN 1
+http://familytv.net:80/live/Peterson/Peterson/109382.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="WOW TV" tvg-logo="" group-title="CORTESIA ESPANHA",WOW TV
+http://familytv.net:80/live/Peterson/Peterson/109383.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="HDFashion" tvg-logo="" group-title="CORTESIA ESPANHA",HDFashion
+http://familytv.net:80/live/Peterson/Peterson/109384.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="" group-title="CORTESIA ESPANHA",CGTN
+http://familytv.net:80/live/Peterson/Peterson/109385.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="EXTREMA TV" tvg-logo="" group-title="CORTESIA ESPANHA",EXTREMA TV
+http://familytv.net:80/live/Peterson/Peterson/109386.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="ETBEITBEUS" tvg-logo="" group-title="CORTESIA ESPANHA",ETBEITBEUS
+http://familytv.net:80/live/Peterson/Peterson/109387.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="SP:CANAL PARLAMENTO - MADRID" tvg-logo="" group-title="CORTESIA ESPANHA",SP:CANAL PARLAMENTO - MADRID
+http://familytv.net:80/live/Peterson/Peterson/109388.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="SPAIN:TV GALICIA EUROPA" tvg-logo="" group-title="CORTESIA ESPANHA",SPAIN:TV GALICIA EUROPA
+http://familytv.net:80/live/Peterson/Peterson/109389.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="SPAIN:VEGA BAJA TV" tvg-logo="" group-title="CORTESIA ESPANHA",SPAIN:VEGA BAJA TV
+http://familytv.net:80/live/Peterson/Peterson/109390.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="BUNDESLIGA 01 FHD (CANAL EXTRA)" tvg-logo="https://logodownload.org/wp-content/uploads/2017/10/bundesliga-logo-2.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",BUNDESLIGA 01 FHD (CANAL EXTRA)
+http://familytv.net:80/live/Peterson/Peterson/110895.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="BUNDESLIGA 02 FHD (CANAL EXTRA)" tvg-logo="http://familytv.net:80/images/da8d9b8ee70020ddc7cc3d732737f414.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",BUNDESLIGA 02 FHD (CANAL EXTRA)
+http://familytv.net:80/live/Peterson/Peterson/110896.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="BUNDESLIGA 03 FHD (CANAL EXTRA)" tvg-logo="http://familytv.net:80/images/da8d9b8ee70020ddc7cc3d732737f414.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",BUNDESLIGA 03 FHD (CANAL EXTRA)
+http://familytv.net:80/live/Peterson/Peterson/110897.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="BUNDESLIGA 04 FHD (CANAL EXTRA)" tvg-logo="http://familytv.net:80/images/da8d9b8ee70020ddc7cc3d732737f414.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",BUNDESLIGA 04 FHD (CANAL EXTRA)
+http://familytv.net:80/live/Peterson/Peterson/110898.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="BUNDESLIGA 05 FHD (CANAL EXTRA)" tvg-logo="http://familytv.net:80/images/da8d9b8ee70020ddc7cc3d732737f414.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",BUNDESLIGA 05 FHD (CANAL EXTRA)
+http://familytv.net:80/live/Peterson/Peterson/110899.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="BUNDESLIGA 06 FHD (CANAL EXTRA)" tvg-logo="http://familytv.net:80/images/da8d9b8ee70020ddc7cc3d732737f414.png" group-title="CANAIS: ESPORTES INTERNACIONAIS",BUNDESLIGA 06 FHD (CANAL EXTRA)
+http://familytv.net:80/live/Peterson/Peterson/110900.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="Canal do Boi" tvg-name="CANAL DO BOI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Canal_do_Boi_-_PNG.png" group-title="CANAIS: ABERTOS",CANAL DO BOI
+http://familytv.net:80/live/Peterson/Peterson/111091.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="CANAL RURAL" tvg-logo="https://imagens-cdn.canalrural.com.br/2018/08/canal_rural.png" group-title="CANAIS: ABERTOS",CANAL RURAL
+http://familytv.net:80/live/Peterson/Peterson/111093.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="TV Terra Viva" tvg-name="TERRA VIVA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Terra_Viva_logo.svg" group-title="CANAIS: ABERTOS",TERRA VIVA
+http://familytv.net:80/live/Peterson/Peterson/111094.m3u8|user-agent=GoPlayer
+#EXTINF:-1 tvg-id="" tvg-name="AGRO CANAL" tvg-logo="https://seeklogo.com/images/A/agro-canal-logo-9080B8B3AF-seeklogo.com.png" group-title="CANAIS: ABERTOS",AGRO CANAL
+http://familytv.net:80/live/Peterson/Peterson/111096.m3u8|user-agent=GoPlayer
