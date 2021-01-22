@@ -1,12 +1,7 @@
 #EXTM3U
 
-
 #EXTINF:-1 group-title="Canais | Música" tvg-logo="http://127.0.0.1/",1HD Music (Musicais)
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://pastebin.com/raw/9fe4gwz7", Kitchen
-http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/12779
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://pastebin.com/raw/9fe4gwz7", Kitchen HD
-http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1586
 #EXTINF:-1 group-title="Canais | Diversos" tvg-logo="http://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg",26 HD
 http://200.115.193.177/live/26hd-720/.m3u8
 #EXTINF:-1 group-title="Canais | Infantis" tvg-logo="https://i.imgur.com/rg5j9my.jpg",3ABN KIDS
@@ -31,6 +26,8 @@ http://rec2.distv.net:80/jhonny/123456/113
 http://rec2.distv.net:80/luciana/123456/113
 #EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="http://i.imgur.com/7NKeRuh.png",A&E [ALT]
 http://tv.factoryiptv.com:80/jurema10/jurema10/50628
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://a5.vc/JHX",A&E | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/71762.ts
 #EXTINF:-1 group-title="Variedades & Musicas" tvg-logo="https://pastebin.com/raw/9fe4gwz7",A&E Alternativo
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1175
 #EXTINF:-1 group-title="Variedades & Musicas" tvg-logo="https://pastebin.com/raw/9fe4gwz7",A&E Alternativo HD
@@ -87,6 +84,8 @@ http://rec2.distv.net:80/jhonny/123456/223
 http://rec2.distv.net:80/luciana/123456/223
 #EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="https://www.nos.pt/particulares/televisao/canais/PublishingImages/alteracoes-canais-1agosto/medium_amc.jpg",AMC [ALT]
 http://tv.factoryiptv.com:80/jurema10/jurema10/50640
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://a5.vc/Xun",AMC | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/71768.ts
 #EXTINF:-1 group-title="Filmes & Series" tvg-logo="https://pastebin.com/raw/9fe4gwz7",AMC Alternativo
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1176
 #EXTINF:-1 group-title="Filmes & Series" tvg-logo="https://pastebin.com/raw/9fe4gwz7",AMC Alternativo HD
@@ -95,8 +94,6 @@ http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1329
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1807
 #EXTINF:-1 group-title="Canais | Full HD" tvg-logo="https://www.nos.pt/particulares/televisao/canais/PublishingImages/alteracoes-canais-1agosto/medium_amc.jpg",AMC FHD
 http://tv.factoryiptv.com:80/jurema10/jurema10/40262
-#EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="https://www.nos.pt/particulares/televisao/canais/PublishingImages/alteracoes-canais-1agosto/medium_amc.jpg",AMC FHD [ALT]
-http://tv.factoryiptv.com:80/jurema10/jurema10/50636
 #EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://www.nos.pt/particulares/televisao/canais/PublishingImages/alteracoes-canais-1agosto/medium_amc.jpg",AMC HD
 http://tv.factoryiptv.com:80/jurema10/jurema10/36928
 #EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="https://www.nos.pt/particulares/televisao/canais/PublishingImages/alteracoes-canais-1agosto/medium_amc.jpg",AMC HD  [ALT]
@@ -123,6 +120,8 @@ http://rec2.distv.net:80/luciana/123456/114
 http://tv.factoryiptv.com:80/jurema10/jurema10/61841
 #EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="http://i.imgur.com/J1oK0xW.png",ANIMAL PLANET [ALT]
 http://tv.factoryiptv.com:80/jurema10/jurema10/50641
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://a5.vc/Sx8",Animal Planet | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/71772.ts
 #EXTINF:-1 group-title="Documentarios" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Animal Planet Alternativo
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1177
 #EXTINF:-1 group-title="Documentarios" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Animal Planet Alternativo HD
@@ -159,6 +158,8 @@ http://rec2.distv.net:80/jhonny/123456/115
 http://rec2.distv.net:80/luciana/123456/115
 #EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="http://i.imgur.com/uHwATw4.png",Arte 1 [ALT]
 http://tv.factoryiptv.com:80/jurema10/jurema10/50643
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://a5.vc/aDZ",Arte 1 | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/71777.ts
 #EXTINF:-1 group-title="Variedades & Musicas" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Arte 1 Alternativo
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1118
 #EXTINF:-1 group-title="Variedades & Musicas" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Arte 1 FHD
@@ -185,6 +186,8 @@ http://rec2.distv.net:80/jhonny/123456/116
 http://rec2.distv.net:80/luciana/123456/116
 #EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="http://i.imgur.com/cAGSnn7.png",AXN [ALT]
 http://tv.factoryiptv.com:80/jurema10/jurema10/50647
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://a5.vc/dbM",AXN | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/71781.ts
 #EXTINF:-1 group-title="Filmes & Series" tvg-logo="https://pastebin.com/raw/9fe4gwz7",AXN Alternativo
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1119
 #EXTINF:-1 group-title="Filmes & Series" tvg-logo="https://pastebin.com/raw/9fe4gwz7",AXN Alternativo HD
@@ -221,6 +224,8 @@ http://thumbnails.4network.tv/forbidden/forbidden.m3u8
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1554
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Baby TV
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1120
+#EXTINF:-1 ,BABY TV
+http://rec2.distv.net:80/madruga/12345/117
 #EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png",BABY TV [ALT]
 http://tv.factoryiptv.com:80/jurema10/jurema10/50649
 #EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png",BABY TV HD [ALT]
@@ -247,14 +252,8 @@ http://tv.factoryiptv.com:80/jurema10/jurema10/57814
 http://tv.factoryiptv.com:80/jurema10/jurema10/50650
 #EXTINF:-1 group-title="Canais | Full HD" tvg-logo="http://i.imgur.com/6xouXln.png",Band FHD
 http://tv.factoryiptv.com:80/jurema10/jurema10/38429
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://i.imgur.com/ezq3flF.png",BAND FHD
-http://cloud-nany.cc:80/hyr3cf7/36387/60631
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://i.imgur.com/ezq3flF.png",BAND GO FHD H265
-http://cloud-nany.cc:80/hyr3cf7/36387/60658
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://i.imgur.com/6xouXln.png",Band HD
 http://tv.factoryiptv.com:80/jurema10/jurema10/36990
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://i.imgur.com/ezq3flF.png",BAND HD
-http://cloud-nany.cc:80/hyr3cf7/36387/60632
 #EXTINF:-1 group-title="REPORTAGEM" tvg-logo="http://distv.net/icons/bandnews.png",BAND NEWS
 http://rec2.distv.net:80/evaldo/12345/118
 #EXTINF:-1 ,BAND NEWS
@@ -265,38 +264,18 @@ http://rec2.distv.net:80/plinio/123/118
 http://rec2.distv.net:80/jhonny/123456/118
 #EXTINF:-1 group-title="REPORTAGEM" tvg-logo="http://distv.net/icons/bandnews.png",BAND NEWS
 http://rec2.distv.net:80/luciana/123456/118
-#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://i.imgur.com/HB6u7J0.png",BAND NEWS FHD
-http://cloud-nany.cc:80/hyr3cf7/36387/13491
-#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://i.imgur.com/HB6u7J0.png",BAND NEWS FHD H265
-http://cloud-nany.cc:80/hyr3cf7/36387/49799
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Band News HD
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/2058
-#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://i.imgur.com/HB6u7J0.png",BAND NEWS HD
-http://cloud-nany.cc:80/hyr3cf7/36387/8136
-#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://i.imgur.com/HB6u7J0.png",BAND NEWS SD
-http://cloud-nany.cc:80/hyr3cf7/36387/8137
-#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://i.imgur.com/HB6u7J0.png",BAND NEWS SD1
-http://cloud-nany.cc:80/hyr3cf7/36387/1280
 #EXTINF:-1 group-title="Canais | Notícias" tvg-logo="https://i.imgur.com/vo0YYhT.jpg",Band News¹
 http://nxplay-srv1.nxplay.com.br/BAND_NEWS/tracks-v1a1/mono.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://i.imgur.com/ezq3flF.png",BAND RECIFE FHD
-http://cloud-nany.cc:80/hyr3cf7/36387/60660
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://i.imgur.com/6xouXln.png",Band Rio HD
 http://tv.factoryiptv.com:80/jurema10/jurema10/62088
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://i.imgur.com/ezq3flF.png",BAND RJ HD
-http://cloud-nany.cc:80/hyr3cf7/36387/60638
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://i.imgur.com/ezq3flF.png",BAND SD
-http://cloud-nany.cc:80/hyr3cf7/36387/60633
 #EXTINF:-1 group-title="Canais Abertos" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Band SP
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/2055
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://i.imgur.com/ezq3flF.png",BAND SP 4K UHD
-http://cloud-nany.cc:80/hyr3cf7/36387/60656
 #EXTINF:-1 group-title="Canais | Full HD" tvg-logo="http://i.imgur.com/6xouXln.png",Band SP FHD
 http://tv.factoryiptv.com:80/jurema10/jurema10/41514
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://i.imgur.com/6xouXln.png",Band SP HD
 http://tv.factoryiptv.com:80/jurema10/jurema10/41530
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://i.imgur.com/ezq3flF.png",BAND SP HD
-http://cloud-nany.cc:80/hyr3cf7/36387/60637
 #EXTINF:-1 group-title="Esportes Alternativos" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Band Sports
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/13101
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://distv.net/icons/bandsports.png",BAND SPORTS
@@ -311,6 +290,8 @@ http://rec2.distv.net:80/jhonny/123456/119
 http://rec2.distv.net:80/luciana/123456/119
 #EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="https://i.imgur.com/7ItcMOv.jpg",BAND SPORTS [ALT]
 http://tv.factoryiptv.com:80/jurema10/jurema10/50657
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://a5.vc/j8Y",Band Sports | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/71801.ts
 #EXTINF:-1 group-title="Esportes" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Band Sports HD
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/2060
 #EXTINF:-1 group-title="Esportes Alternativos" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Band Sports HD
@@ -353,6 +334,8 @@ http://rec2.distv.net:80/plinio/123/120
 http://rec2.distv.net:80/jhonny/123456/120
 #EXTINF:-1 group-title="ENTRETENIMENTO" tvg-logo="http://distv.net/icons/bis.png",BIS
 http://rec2.distv.net:80/luciana/123456/120
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://a5.vc/TDh",BIS | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/71806.ts
 #EXTINF:-1 group-title="Variedades & Musicas" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Bis Alternativo
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1122
 #EXTINF:-1 group-title="Variedades & Musicas" tvg-logo="https://pastebin.com/raw/9fe4gwz7",BIS Alternativo HD
@@ -389,6 +372,8 @@ http://rec2.distv.net:80/jhonny/123456/121
 http://rec2.distv.net:80/luciana/123456/121
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Boomerang  FHD
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1813
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://a5.vc/DtS",Boomerang | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/71812.ts
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Boomerang Alternativo
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1182
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Boomerang Alternativo HD
@@ -479,6 +464,8 @@ http://rec2.distv.net:80/plinio/123/123
 http://rec2.distv.net:80/jhonny/123456/123
 #EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://distv.net/icons/sonychannel.png",CANAL SONY
 http://rec2.distv.net:80/luciana/123456/123
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://a5.vc/tSP",Canal Sony | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/71824.ts
 #EXTINF:-1 group-title="Canais | Diversos" tvg-logo="http://127.0.0.1/",CANAL VIDA
 http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/live.m3u8
 #EXTINF:-1 group-title="Canais | Gospel" tvg-logo="http://127.0.0.1/",Canção Nova
@@ -527,6 +514,8 @@ http://rec2.distv.net:80/jhonny/123456/124
 http://rec2.distv.net:80/luciana/123456/124
 #EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://i.imgur.com/S5PsDDR.png",Cartoon Network [4K]
 http://tv.factoryiptv.com:80/jurema10/jurema10/61843
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://a5.vc/Ts9",Cartoon Network | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/71828.ts
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Cartoon Network Alternativo
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1124
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Cartoon Network Alternativo HD
@@ -633,6 +622,8 @@ http://rec2.distv.net:80/madruga/12345/54
 http://rec2.distv.net:80/jhonny/123456/54
 #EXTINF:-1 group-title="CINE SKY" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png",CINE SKY 07
 http://rec2.distv.net:80/luciana/123456/54
+#EXTINF:-1 ,CINE SKY 07
+http://rec2.distv.net:80/plinio/123/54
 #EXTINF:-1 group-title="CINE SKY" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png",CINE SKY 08
 http://rec2.distv.net:80/evaldo/12345/55
 #EXTINF:-1 ,CINE SKY 08
@@ -641,6 +632,8 @@ http://rec2.distv.net:80/madruga/12345/55
 http://rec2.distv.net:80/jhonny/123456/55
 #EXTINF:-1 group-title="CINE SKY" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png",CINE SKY 08
 http://rec2.distv.net:80/luciana/123456/55
+#EXTINF:-1 ,CINE SKY 08
+http://rec2.distv.net:80/plinio/123/55
 #EXTINF:-1 group-title="CINE SKY" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png",CINE SKY 09
 http://rec2.distv.net:80/evaldo/12345/56
 #EXTINF:-1 ,CINE SKY 09
@@ -649,10 +642,12 @@ http://rec2.distv.net:80/madruga/12345/56
 http://rec2.distv.net:80/jhonny/123456/56
 #EXTINF:-1 group-title="CINE SKY" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png",CINE SKY 09
 http://rec2.distv.net:80/luciana/123456/56
+#EXTINF:-1 ,CINE SKY 09
+http://rec2.distv.net:80/plinio/123/56
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://www.exorbeo.com/wp-content/uploads/2014/01/cine_sky.jpg",CINE SKY 09 (CH289)
 http://fonteangelusiptv.com:25461/c42fae920747/c42fae92/178422
-#EXTINF:-1 group-title="FILMES/SERIES" tvg-logo="https://i.imgur.com/MfJ9mwQ.png",CINE SKY 1
-http://cloud-nany.cc:80/hyr3cf7/36387/64045
+#EXTINF:-1 group-title="Canais | Filmes e Séries",Cine SKY 1 | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/72994.ts
 #EXTINF:-1 group-title="CINE SKY" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png",CINE SKY 10
 http://rec2.distv.net:80/evaldo/12345/57
 #EXTINF:-1 ,CINE SKY 10
@@ -661,14 +656,26 @@ http://rec2.distv.net:80/madruga/12345/57
 http://rec2.distv.net:80/jhonny/123456/57
 #EXTINF:-1 group-title="CINE SKY" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png",CINE SKY 10
 http://rec2.distv.net:80/luciana/123456/57
-#EXTINF:-1 group-title="FILMES/SERIES" tvg-logo="https://i.imgur.com/MfJ9mwQ.png",CINE SKY 3
-http://cloud-nany.cc:80/hyr3cf7/36387/64048
-#EXTINF:-1 group-title="FILMES/SERIES" tvg-logo="https://i.imgur.com/MfJ9mwQ.png",CINE SKY 4
-http://cloud-nany.cc:80/hyr3cf7/36387/64049
-#EXTINF:-1 group-title="FILMES/SERIES" tvg-logo="https://i.imgur.com/MfJ9mwQ.png",CINE SKY 5
-http://cloud-nany.cc:80/hyr3cf7/36387/64047
-#EXTINF:-1 group-title="FILMES/SERIES" tvg-logo="https://i.imgur.com/MfJ9mwQ.png",CINE SKY 6
-http://cloud-nany.cc:80/hyr3cf7/36387/64184
+#EXTINF:-1 ,CINE SKY 10
+http://rec2.distv.net:80/plinio/123/57
+#EXTINF:-1 group-title="Canais | Filmes e Séries",Cine SKY 10 | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/73003.ts
+#EXTINF:-1 group-title="Canais | Filmes e Séries",Cine SKY 2 | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/72995.ts
+#EXTINF:-1 group-title="Canais | Filmes e Séries",Cine SKY 3 | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/72996.ts
+#EXTINF:-1 group-title="Canais | Filmes e Séries",Cine SKY 4 | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/72997.ts
+#EXTINF:-1 group-title="Canais | Filmes e Séries",Cine SKY 5 | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/72998.ts
+#EXTINF:-1 group-title="Canais | Filmes e Séries",Cine SKY 6 | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/72999.ts
+#EXTINF:-1 group-title="Canais | Filmes e Séries",Cine SKY 7 | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/73000.ts
+#EXTINF:-1 group-title="Canais | Filmes e Séries",Cine SKY 8 | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/73001.ts
+#EXTINF:-1 group-title="Canais | Filmes e Séries",Cine SKY 9 | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/73002.ts
 #EXTINF:-1 group-title="Canais | Diversos" tvg-logo="http://127.0.0.1/",CINE TRIANON
 https://srv2.zcast.com.br/cleto2085/cleto2085/playlist.m3u8
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="https://i.imgur.com/JfXDPCM.jpg",Cine+
@@ -683,8 +690,12 @@ http://rec2.distv.net:80/madruga/12345/125
 http://rec2.distv.net:80/jhonny/123456/125
 #EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://distv.net/icons/cinemax.png",CINEMAX
 http://rec2.distv.net:80/luciana/123456/125
+#EXTINF:-1 ,CINEMAX
+http://rec2.distv.net:80/plinio/123/125
 #EXTINF:-1 group-title="Canais | H.265 [02]" tvg-logo="https://i.imgur.com/xGzpPfe.jpg",CINEMAX - H265
 http://tv.factoryiptv.com:80/jurema10/jurema10/50535
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://a5.vc/j8T",Cinemax | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/71833.ts
 #EXTINF:-1 group-title="Filmes & Series" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Cinemax Alternativo
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1185
 #EXTINF:-1 group-title="Filmes & Series" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Cinemax FHD
@@ -723,6 +734,10 @@ https://streaming.cnnbrasil.com.br/cnndigital_main_Output5.m3u8
 http://rec2.distv.net:80/jhonny/123456/225
 #EXTINF:-1 group-title="REPORTAGEM" tvg-logo="http://distv.net/icons/cnnbrasil.png",CNN BRASIL
 http://rec2.distv.net:80/luciana/123456/225
+#EXTINF:-1 ,CNN BRASIL
+http://rec2.distv.net:80/plinio/123/225
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://a5.vc/kBr",CNN Brasil | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/71837.ts
 #EXTINF:-1 group-title="Canais | Notícias" tvg-logo="https://www.cnnbrasil.com.br/_next/static/images/logo-0457804d41d68a5c1c3de124ff229c35.png",CNN BRASIL HD
 https://streaming.cnnbrasil.com.br/cnndigital_main_Output2.m3u8
 #EXTINF:-1 group-title="Filmes 24Hs" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Com?dia 24Hs
@@ -737,10 +752,14 @@ http://rec2.distv.net:80/madruga/12345/126
 http://rec2.distv.net:80/jhonny/123456/126
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://distv.net/icons/combate.png",COMBATE
 http://rec2.distv.net:80/luciana/123456/126
+#EXTINF:-1 ,COMBATE
+http://rec2.distv.net:80/plinio/123/126
 #EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://i.imgur.com/5qo1Dyc.png",Combate [4K]
 http://tv.factoryiptv.com:80/jurema10/jurema10/42635
 #EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="http://i.imgur.com/5qo1Dyc.png",COMBATE [ALT]
 http://tv.factoryiptv.com:80/jurema10/jurema10/50673
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://a5.vc/Flm",Combate | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/71842.ts
 #EXTINF:-1 group-title="Esportes Alternativos" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Combate FHD
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/13095
 #EXTINF:-1 group-title="Canais | Full HD" tvg-logo="http://i.imgur.com/5qo1Dyc.png",Combate FHD
@@ -755,8 +774,6 @@ http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/2076
 http://tv.factoryiptv.com:80/jurema10/jurema10/36986
 #EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="http://i.imgur.com/5qo1Dyc.png",COMBATE HD [ALT]
 http://tv.factoryiptv.com:80/jurema10/jurema10/50672
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/combate.png",COMBATE SD
-http://fonteangelusiptv.com:25461/c42fae920747/c42fae92/178609
 #EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/combate.png",COMBATE SD ALT
 http://fonteangelusiptv.com:25461/c42fae920747/c42fae92/178610
 #EXTINF:-1 group-title="Canais | H.265 [02]" tvg-logo="https://i.imgur.com/xGzpPfe.jpg",COMEDY - CENTRAL H265
@@ -777,6 +794,8 @@ http://rec2.distv.net:80/jhonny/123456/127
 http://rec2.distv.net:80/luciana/123456/127
 #EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="http://i.imgur.com/0956PZG.png",COMEDY CENTRAL [ALT]
 http://tv.factoryiptv.com:80/jurema10/jurema10/50675
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://a5.vc/mT5",Comedy Central | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/71847.ts
 #EXTINF:-1 group-title="Variedades & Musicas" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Comedy Central Alternativo
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1187
 #EXTINF:-1 group-title="Variedades & Musicas" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Comedy Central FHD
@@ -803,7 +822,13 @@ http://tv.factoryiptv.com:80/jurema10/jurema10/75602
 http://tv.factoryiptv.com:80/jurema10/jurema10/75603
 #EXTINF:-1 group-title="CANAIS: ESPORTES ESPECIAIS" tvg-logo="http://familytv.net:80/images/9af40e9ff801b85b9ff816fbf672253e.png",CONMEBOL TV 01 HD
 http://tv.factoryiptv.com:80/jurema10/jurema10/75600
-#EXTINF:-1 group-title="CANAIS: ESPORTES ESPECIAIS" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png",CONMEBOL TV 4 | TechRuthes.org
+#EXTINF:-1 group-title="Canais | PPV" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png",Conmebol TV 1 | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/72979.ts
+#EXTINF:-1 group-title="Canais | PPV" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png",Conmebol TV 2 | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/72983.ts
+#EXTINF:-1 group-title="Canais | PPV" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png",Conmebol TV 3 | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/72987.ts
+#EXTINF:-1 group-title="Canais | PPV" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png",Conmebol TV 4 | TechRuthes.org
 http://srvx.io:80/live/7885037935/fireurl.co/72991.ts
 #EXTINF:-1 group-title="Copa | Nordeste (BREVE)" tvg-logo="https://i.imgur.com/XfjCDda.png",COPA DO NORDESTE 2020 ( JOGO 5 S )
 http://tv.factoryiptv.com:80/jurema10/jurema10/77234
@@ -837,6 +862,8 @@ http://rec2.distv.net:80/plinio/123/128
 http://rec2.distv.net:80/jhonny/123456/128
 #EXTINF:-1 group-title="ENTRETENIMENTO" tvg-logo="http://distv.net/icons/cultura.png",CULTURA
 http://rec2.distv.net:80/luciana/123456/128
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png",Cultura | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/71853.ts
 #EXTINF:-1 group-title="Canais | Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/TV_Cultura.svg/200px-TV_Cultura.svg.png",Cultura FHD
 http://tv.factoryiptv.com:80/jurema10/jurema10/42903
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png",Cultura HD
@@ -853,6 +880,8 @@ http://rec2.distv.net:80/jhonny/123456/129
 http://rec2.distv.net:80/luciana/123456/129
 #EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="https://i.imgur.com/IlzIxvv.png",CURTA [ALT]
 http://tv.factoryiptv.com:80/jurema10/jurema10/50676
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://a5.vc/CyU",Curta | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/71855.ts
 #EXTINF:-1 group-title="Variedades & Musicas" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Curta!
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/2079
 #EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://i.imgur.com/IlzIxvv.png",Curta!
@@ -875,6 +904,8 @@ http://rec2.distv.net:80/plinio/123/226
 http://rec2.distv.net:80/jhonny/123456/226
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://distv.net/icons/dazn.png",DAZN
 http://rec2.distv.net:80/luciana/123456/226
+#EXTINF:-1 group-title="Canais | PPV" tvg-logo="http://a5.vc/6qb",DAZN 1 | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/71860.ts
 #EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/0l37eVA.jpg",DAZN 1 HD
 http://tv.factoryiptv.com:80/jurema10/jurema10/58130
 #EXTINF:-1 group-title="ESPORTES ESPECIAIS" tvg-logo="http://a5.vc/6qb",DAZN 2 | TechRuthes.org
@@ -883,8 +914,12 @@ http://srvx.io:80/live/7885037935/fireurl.co/72630.ts
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/2304
 #EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/0l37eVA.jpg",DAZN 2 HD
 http://tv.factoryiptv.com:80/jurema10/jurema10/58433
+#EXTINF:-1 group-title="Canais | PPV" tvg-logo="http://a5.vc/6qb",DAZN 3 | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/71861.ts
 #EXTINF:-1 group-title="DAZN  & Copa Nordeste" tvg-logo="https://pastebin.com/raw/9fe4gwz7",DAZN 3 HD
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/20617
+#EXTINF:-1 group-title="Canais | PPV" tvg-logo="http://a5.vc/6qb",DAZN 4 | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/71859.ts
 #EXTINF:-1 group-title="DAZN  & Copa Nordeste" tvg-logo="https://pastebin.com/raw/9fe4gwz7",DAZN 4 HD
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/20618
 #EXTINF:-1 group-title="DAZN  & Copa Nordeste" tvg-logo="https://pastebin.com/raw/9fe4gwz7",DAZN 5 HD
@@ -919,6 +954,8 @@ http://rec2.distv.net:80/luciana/123456/130
 http://tv.factoryiptv.com:80/jurema10/jurema10/61838
 #EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="http://i.imgur.com/tUTV4Kl.png",DISCOVERY CHANNEL [ALT]
 http://tv.factoryiptv.com:80/jurema10/jurema10/50701
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://a5.vc/Oj9",Discovery Channel | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/71862.ts
 #EXTINF:-1 group-title="Documentarios" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Discovery Channel Alternativo
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1126
 #EXTINF:-1 group-title="Documentarios" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Discovery Channel Alternativo HD
@@ -943,6 +980,8 @@ http://fonteangelusiptv.com:25461/c42fae920747/c42fae92/178460
 http://fonteangelusiptv.com:25461/c42fae920747/c42fae92/178461
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Discovery Channel?
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1574
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://a5.vc/XcV",Discovery H&H | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/71867.ts
 #EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://i.imgur.com/FJgwtT5.png",Discovery Home & Health
 http://tv.factoryiptv.com:80/jurema10/jurema10/36984
 #EXTINF:-1 group-title="ENTRETENIMENTO" tvg-logo="http://distv.net/icons/discoveryhomehealth.png",DISCOVERY HOME & HEALTH
@@ -999,6 +1038,8 @@ http://rec2.distv.net:80/jhonny/123456/133
 http://rec2.distv.net:80/luciana/123456/133
 #EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="http://i.imgur.com/32njYPj.png",DISCOVERY KIDS [ALT]
 http://tv.factoryiptv.com:80/jurema10/jurema10/50707
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://a5.vc/KvX",Discovery Kids | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/71871.ts
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Discovery Kids Alternativo
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1128
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Discovery Kids Alternativo HD
@@ -1027,6 +1068,8 @@ http://rec2.distv.net:80/plinio/123/134
 http://rec2.distv.net:80/jhonny/123456/134
 #EXTINF:-1 group-title="ENTRETENIMENTO" tvg-logo="http://distv.net/icons/discoveryscience.png",DISCOVERY SCIENCE
 http://rec2.distv.net:80/luciana/123456/134
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://a5.vc/0gi",Discovery Science | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/71875.ts
 #EXTINF:-1 group-title="Documentarios" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Discovery Science Alternativo HD
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1335
 #EXTINF:-1 group-title="Documentarios" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Discovery Science FHD
@@ -1057,6 +1100,8 @@ http://rec2.distv.net:80/plinio/123/135
 http://rec2.distv.net:80/jhonny/123456/135
 #EXTINF:-1 group-title="ENTRETENIMENTO" tvg-logo="http://distv.net/icons/discoverytheater.png",DISCOVERY THEATER
 http://rec2.distv.net:80/luciana/123456/135
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://a5.vc/Nib",Discovery Theater | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/71879.ts
 #EXTINF:-1 group-title="Documentarios" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Discovery Theater Alternativo HD
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1286
 #EXTINF:-1 group-title="Documentarios" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Discovery Theater FHD
@@ -1071,8 +1116,6 @@ http://tv.factoryiptv.com:80/jurema10/jurema10/36983
 http://tv.factoryiptv.com:80/jurema10/jurema10/50709
 #EXTINF:-1 group-title="Canais | Discovery" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoverytheater.png",DISCOVERY THEATHER SD
 http://fonteangelusiptv.com:25461/c42fae920747/c42fae92/178471
-#EXTINF:-1 group-title="Canais | Discovery" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoverytheater.png",DISCOVERY THEATHER SD ALT
-http://fonteangelusiptv.com:25461/c42fae920747/c42fae92/178472
 #EXTINF:-1 group-title="Documentarios" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Discovery Turbo
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/2092
 #EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png",Discovery Turbo
@@ -1089,6 +1132,8 @@ http://rec2.distv.net:80/jhonny/123456/136
 http://rec2.distv.net:80/luciana/123456/136
 #EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png",DISCOVERY TURBO [ALT]
 http://tv.factoryiptv.com:80/jurema10/jurema10/50711
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://a5.vc/uCQ",Discovery Turbo | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/71883.ts
 #EXTINF:-1 group-title="Documentarios" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Discovery Turbo Alternativo
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1129
 #EXTINF:-1 group-title="Documentarios" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Discovery Turbo Alternativo HD
@@ -1117,6 +1162,8 @@ http://rec2.distv.net:80/plinio/123/137
 http://rec2.distv.net:80/jhonny/123456/137
 #EXTINF:-1 group-title="ENTRETENIMENTO" tvg-logo="http://distv.net/icons/discoveryworld.png",DISCOVERY WORLD
 http://rec2.distv.net:80/luciana/123456/137
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://a5.vc/wgC",Discovery World | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/71887.ts
 #EXTINF:-1 group-title="Documentarios" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Discovery World Alternativo HD
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1309
 #EXTINF:-1 group-title="Documentarios" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Discovery World FHD
@@ -1127,8 +1174,6 @@ http://tv.factoryiptv.com:80/jurema10/jurema10/38387
 http://tv.factoryiptv.com:80/jurema10/jurema10/36981
 #EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="https://i.imgur.com/hGhgbMQ.png",DISCOVERY WORLD HD [ALT]
 http://tv.factoryiptv.com:80/jurema10/jurema10/50712
-#EXTINF:-1 group-title="Canais | Discovery" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/discoveryworld.png",DISCOVERY WORLD SD ALT
-http://fonteangelusiptv.com:25461/c42fae920747/c42fae92/178483
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Disney Channel
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/2095
 #EXTINF:-1 group-title="Canais | Infantil" tvg-logo="http://i.imgur.com/4KeieN7.png",Disney Channel
@@ -1147,6 +1192,8 @@ http://rec2.distv.net:80/jhonny/123456/138
 http://rec2.distv.net:80/luciana/123456/138
 #EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="https://i.imgur.com/sQSxcnd.png",DISNEY CHANNEL [ALT]
 http://tv.factoryiptv.com:80/jurema10/jurema10/50714
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://a5.vc/MJq",Disney Channel | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/71891.ts
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Disney Channel Alternativo
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1189
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Disney Channel Alternativo HD
@@ -1201,6 +1248,8 @@ http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8
 http://tv.factoryiptv.com:80/jurema10/jurema10/50715
 #EXTINF:-1 group-title="Canais | Infantil" tvg-logo="https://i.imgur.com/HNCqSdX.png",Disney Junior
 http://tv.factoryiptv.com:80/jurema10/jurema10/37110
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://a5.vc/kzm",Disney Junior | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/71895.ts
 #EXTINF:-1 group-title="Canais | Infantil" tvg-logo="https://skyassineonline.com.br/img/channels/lg-295-canal-disney-junior-hd.png",Disney Junior HD
 http://tv.factoryiptv.com:80/jurema10/jurema10/40517
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Disney Junior?
@@ -1235,6 +1284,8 @@ http://tv.factoryiptv.com:80/jurema10/jurema10/50717
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8
 #EXTINF:-1 group-title="Canais | Web TV" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/bf879a034bc15d54ba0198fdd044193a.png",DJing
 https://www.djing.com/tv/i-29376-03.m3u8|user-agent=DWIGHTFARROKHLISTASGRATIS
+#EXTINF:-1 group-title="Canais | Variedades",DogTV | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/76922.ts
 #EXTINF:-1 group-title="Filmes 24Hs" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Drama 24Hs
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/11626
 #EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://127.0.0.1/",DUBAI RACING
@@ -1265,6 +1316,8 @@ http://rec2.distv.net:80/plinio/123/141
 http://rec2.distv.net:80/jhonny/123456/141
 #EXTINF:-1 group-title="ENTRETENIMENTO" tvg-logo="http://distv.net/icons/e.png",E!
 http://rec2.distv.net:80/luciana/123456/141
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://a5.vc/DKx",E! | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/71900.ts
 #EXTINF:-1 group-title="Variedades & Musicas" tvg-logo="https://pastebin.com/raw/9fe4gwz7",E! Alternativo HD
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1338
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://pastebin.com/raw/9fe4gwz7",E! Entertainment
@@ -1281,6 +1334,18 @@ http://tv.factoryiptv.com:80/jurema10/jurema10/36920
 http://d2xuvs5rzrvjs7.cloudfront.net/live-stream-secure/58121908685da2dd08de7ec5/publish/media_2500.m3u8?es=vrzn-ei-ee.cdn.mdstrm.com&proto=http
 #EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/ledljQn.jpg",Ei Plus 01 (G)
 http://tv.factoryiptv.com:80/jurema10/jurema10/54703
+#EXTINF:-1 group-title="Canais | PPV" tvg-logo="http://a5.vc/uqI",EI Plus 1 | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/71904.ts
+#EXTINF:-1 group-title="Canais | PPV" tvg-logo="http://a5.vc/uqI",EI Plus 2 | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/71905.ts
+#EXTINF:-1 group-title="Canais | PPV" tvg-logo="http://a5.vc/uqI",EI Plus 3 | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/71906.ts
+#EXTINF:-1 group-title="Canais | PPV" tvg-logo="http://a5.vc/uqI",Ei Plus 4 | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/76671.ts
+#EXTINF:-1 group-title="Canais | PPV" tvg-logo="http://a5.vc/uqI",Ei Plus 5 | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/76672.ts
+#EXTINF:-1 group-title="Canais | PPV" tvg-logo="http://a5.vc/uqI",Ei Plus 6 | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/76673.ts
 #EXTINF:-1 group-title="Esportes" tvg-logo="https://pastebin.com/raw/9fe4gwz7",EI Plus HD
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/2300
 #EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/ledljQn.jpg",EI PLUS HD (G)
@@ -1289,28 +1354,40 @@ http://tv.factoryiptv.com:80/jurema10/jurema10/54705
 https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/chunklist_w2091437466.m3u8
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Eleven Sports 1
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/2373
+#EXTINF:-1 group-title="Canais | PPV",Eleven Sports 1 | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/73254.ts
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Eleven Sports 1 FHD
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/2377
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Eleven Sports 1 HD
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/2375
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Eleven Sports 2
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/2381
+#EXTINF:-1 group-title="Canais | PPV",Eleven Sports 2 | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/73255.ts
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Eleven Sports 2 FHD
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/2385
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Eleven Sports 2 HD
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/2382
+#EXTINF:-1 group-title="Canais | PPV",Eleven Sports 3 | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/73256.ts
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Eleven Sports 3 FHD
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/2391
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Eleven Sports 4
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/2395
+#EXTINF:-1 group-title="Canais | PPV",Eleven Sports 4 | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/73257.ts
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Eleven Sports 4 FHD
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/2398
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Eleven Sports 5
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/2401
+#EXTINF:-1 group-title="Canais | PPV",Eleven Sports 5 | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/73258.ts
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Eleven Sports 5 FHD
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/2405
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Eleven Sports 6
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/2407
+#EXTINF:-1 group-title="Canais | PPV",Eleven Sports 6 | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/73259.ts
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Eleven Sports 6 FHD
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/2411
 #EXTINF:-1 group-title="Canais | Diversos" tvg-logo="https://listaiptvbrasil.com/logo/eparana.png",eParaná (PR)
@@ -1355,6 +1432,8 @@ http://rec2.distv.net:80/jhonny/123456/142
 http://rec2.distv.net:80/luciana/123456/142
 #EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9c/Logo_ESPN_HD.png/revision/latest?cb=20160113004056",ESPN [ALT]
 http://tv.factoryiptv.com:80/jurema10/jurema10/50740
+#EXTINF:-1 group-title="Canais | ESPN" tvg-logo="http://a5.vc/8lJ",ESPN | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/71919.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://distv.net/icons/espn2.png",ESPN 2
 http://rec2.distv.net:80/evaldo/12345/143
 #EXTINF:-1 ,ESPN 2
@@ -1373,6 +1452,8 @@ http://rec2.distv.net:80/luciana/123456/143
 http://tv.factoryiptv.com:80/jurema10/jurema10/50541
 #EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="https://skyassineonline.com.br/img/channels/lg-231-canal-espn-.png",ESPN 2  HD [ALT]
 http://tv.factoryiptv.com:80/jurema10/jurema10/50734
+#EXTINF:-1 group-title="Canais | ESPN" tvg-logo="http://a5.vc/KCw",ESPN 2 | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/71907.ts
 #EXTINF:-1 group-title="Esportes Alternativos" tvg-logo="https://pastebin.com/raw/9fe4gwz7",ESPN 2 FHD
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/13090
 #EXTINF:-1 group-title="Canais | Full HD" tvg-logo="https://skyassineonline.com.br/img/channels/lg-231-canal-espn-.png",ESPN 2 FHD
@@ -1397,6 +1478,8 @@ http://rec2.distv.net:80/plinio/123/144
 http://rec2.distv.net:80/jhonny/123456/144
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://distv.net/icons/espnbrasil.png",ESPN BRASIL
 http://rec2.distv.net:80/luciana/123456/144
+#EXTINF:-1 group-title="Canais | ESPN" tvg-logo="http://a5.vc/YpF",ESPN Brasil | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/71911.ts
 #EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://127.0.0.1/",Espn Brasil FHD
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/vintequatrohrs5_2000/index.m3u8
 #EXTINF:-1 group-title="Esportes Alternativos" tvg-logo="https://pastebin.com/raw/9fe4gwz7",ESPN Brasil FHD
@@ -1435,6 +1518,8 @@ http://rec2.distv.net:80/plinio/123/145
 http://rec2.distv.net:80/jhonny/123456/145
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://distv.net/icons/espnextra.png",ESPN EXTRA
 http://rec2.distv.net:80/luciana/123456/145
+#EXTINF:-1 group-title="Canais | ESPN" tvg-logo="http://a5.vc/YpF",ESPN Extra | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/71915.ts
 #EXTINF:-1 group-title="Canais | Full HD" tvg-logo="https://i.imgur.com/M43oOmn.png",ESPN Extra FHD
 http://tv.factoryiptv.com:80/jurema10/jurema10/38380
 #EXTINF:-1 group-title="Esportes Alternativos" tvg-logo="https://pastebin.com/raw/9fe4gwz7",ESPN Extra HD
@@ -1477,10 +1562,22 @@ http://tv.factoryiptv.com:80/jurema10/jurema10/75173
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1536
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Eurosport 2
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1537
+#EXTINF:-1 group-title="Canais | PPV",Facebook Watch | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/73005.ts
+#EXTINF:-1 group-title="Canais | PPV",Facebook Watch 2 | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/79316.ts
+#EXTINF:-1 group-title="Canais | PPV",Facebook Watch 3 | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/79317.ts
 #EXTINF:-1 group-title="Filmes 24Hs" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Fantasia 24Hs
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/11627
 #EXTINF:-1 group-title="Filmes 24Hs" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Faroeste 24Hs
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/11651
+#EXTINF:-1 ,FASHION-CE-HD
+http://rec2.distv.net:80/plinio/123/82
+#EXTINF:-1 ,FASHION-CE-HD
+http://rec2.distv.net:80/madruga/12345/82
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://i.imgur.com/1jtRh4S.png",FashionTV | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/71924.ts
 #EXTINF:-1 group-title="Canais | Diversos" tvg-logo="http://127.0.0.1/",Festa
 http://6d9a.webradio.upx.net.br:9070/stream
 #EXTINF:-1 group-title="Filmes 24Hs" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Fic??o 24Hs
@@ -1511,6 +1608,10 @@ http://rec2.distv.net:80/madruga/12345/146
 http://rec2.distv.net:80/jhonny/123456/146
 #EXTINF:-1 group-title="ENTRETENIMENTO" tvg-logo="http://distv.net/icons/fishtv.png",FISH TV
 http://rec2.distv.net:80/luciana/123456/146
+#EXTINF:-1 ,FISH TV
+http://rec2.distv.net:80/plinio/123/146
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://a5.vc/StA",Fish TV | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/71928.ts
 #EXTINF:-1 group-title="Variedades & Musicas" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Fish TV Alternativo
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1195
 #EXTINF:-1 group-title="Variedades & Musicas" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Fish TV Alternativo HD
@@ -1545,10 +1646,14 @@ http://rec2.distv.net:80/madruga/12345/147
 http://rec2.distv.net:80/jhonny/123456/147
 #EXTINF:-1 group-title="ENTRETENIMENTO" tvg-logo="http://distv.net/icons/foodnetwork.png",FOOD NETWORK
 http://rec2.distv.net:80/luciana/123456/147
+#EXTINF:-1 ,FOOD NETWORK
+http://rec2.distv.net:80/plinio/123/147
 #EXTINF:-1 group-title="Canais | H.265 [02]" tvg-logo="https://i.imgur.com/xGzpPfe.jpg",FOOD NETWORK - H265
 http://tv.factoryiptv.com:80/jurema10/jurema10/50543
 #EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="https://media.cdnandroid.com/b8/d5/6e/20/imagen-food-network-brasil-0thumb.jpg",FOOD NETWORK [ALT]
 http://tv.factoryiptv.com:80/jurema10/jurema10/50745
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://a5.vc/ZHe",Food Network | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/71932.ts
 #EXTINF:-1 group-title="Variedades & Musicas" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Food Network Alternativo
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1132
 #EXTINF:-1 group-title="Variedades & Musicas" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Food Network FHD
@@ -1571,10 +1676,14 @@ http://rec2.distv.net:80/madruga/12345/148
 http://rec2.distv.net:80/jhonny/123456/148
 #EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://distv.net/icons/foxchannel.png",FOX
 http://rec2.distv.net:80/luciana/123456/148
+#EXTINF:-1 ,FOX
+http://rec2.distv.net:80/plinio/123/148
 #EXTINF:-1 group-title="Canais | H.265 [02]" tvg-logo="https://i.imgur.com/xGzpPfe.jpg",FOX - H265
 http://tv.factoryiptv.com:80/jurema10/jurema10/50544
 #EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="http://i.imgur.com/Od0wkz3.png",FOX [ALT]
 http://tv.factoryiptv.com:80/jurema10/jurema10/50752
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://a5.vc/Ck2",Fox | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/71936.ts
 #EXTINF:-1 group-title="Filmes & Series" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Fox Alternativo
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1133
 #EXTINF:-1 group-title="Filmes & Series" tvg-logo="https://pastebin.com/raw/9fe4gwz7",FOX Alternativo HD
@@ -1617,14 +1726,16 @@ http://rec2.distv.net:80/madruga/12345/149
 http://rec2.distv.net:80/jhonny/123456/149
 #EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://distv.net/icons/foxlife.png",FOX LIFE
 http://rec2.distv.net:80/luciana/123456/149
+#EXTINF:-1 ,FOX LIFE
+http://rec2.distv.net:80/plinio/123/149
 #EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="http://i.imgur.com/5s5gHix.png",FOX LIFE [ALT]
 http://tv.factoryiptv.com:80/jurema10/jurema10/50749
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://a5.vc/OVC",Fox Life | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/71939.ts
 #EXTINF:-1 group-title="Filmes & Series" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Fox Life Alternativo
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1134
 #EXTINF:-1 group-title="Filmes & Series" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Fox Life FHD
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1831
-#EXTINF:-1 group-title="FILMES/SERIES" tvg-logo="https://i.imgur.com/3MrWYOi.png",FOX LIFE FHD
-http://cloud-nany.cc:80/hyr3cf7/36387/13476
 #EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="http://i.imgur.com/5s5gHix.png",FOX LIFE HD [ALT]
 http://tv.factoryiptv.com:80/jurema10/jurema10/50748
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Fox Life HD?
@@ -1639,8 +1750,12 @@ http://rec2.distv.net:80/madruga/12345/150
 http://rec2.distv.net:80/jhonny/123456/150
 #EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://distv.net/icons/foxpremium1.png",FOX PREMIUM 1
 http://rec2.distv.net:80/luciana/123456/150
+#EXTINF:-1 ,FOX PREMIUM 1
+http://rec2.distv.net:80/plinio/123/150
 #EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://i.imgur.com/ANiatwo.png",Fox Premium 1  HD
 http://tv.factoryiptv.com:80/jurema10/jurema10/36974
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://a5.vc/3gn",Fox Premium 1 | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/71943.ts
 #EXTINF:-1 group-title="Filmes & Series" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Fox Premium 1 Alternativo HD
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1269
 #EXTINF:-1 group-title="Filmes & Series" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Fox Premium 1 FHD
@@ -1661,6 +1776,10 @@ http://rec2.distv.net:80/madruga/12345/151
 http://rec2.distv.net:80/jhonny/123456/151
 #EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://distv.net/icons/foxpremium2.png",FOX PREMIUM 2
 http://rec2.distv.net:80/luciana/123456/151
+#EXTINF:-1 ,FOX PREMIUM 2
+http://rec2.distv.net:80/plinio/123/151
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://a5.vc/0ud",Fox Premium 2 | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/71947.ts
 #EXTINF:-1 group-title="Filmes & Series" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Fox Premium 2 Alternativo HD
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1270
 #EXTINF:-1 group-title="Filmes & Series" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Fox Premium 2 FHD
@@ -1685,8 +1804,12 @@ http://rec2.distv.net:80/madruga/12345/152
 http://rec2.distv.net:80/jhonny/123456/152
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://distv.net/icons/foxsports.png",FOX SPORTS
 http://rec2.distv.net:80/luciana/123456/152
+#EXTINF:-1 ,FOX SPORTS
+http://rec2.distv.net:80/plinio/123/152
 #EXTINF:-1 group-title="Canais | H.265 [02]" tvg-logo="https://i.imgur.com/xGzpPfe.jpg",FOX SPORTS - H265
 http://tv.factoryiptv.com:80/jurema10/jurema10/51241
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://a5.vc/55i",Fox Sports | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/71957.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://distv.net/icons/foxsports2.png",FOX SPORTS 2
 http://rec2.distv.net:80/evaldo/12345/153
 #EXTINF:-1 ,FOX SPORTS 2
@@ -1695,10 +1818,14 @@ http://rec2.distv.net:80/madruga/12345/153
 http://rec2.distv.net:80/jhonny/123456/153
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://distv.net/icons/foxsports2.png",FOX SPORTS 2
 http://rec2.distv.net:80/luciana/123456/153
+#EXTINF:-1 ,FOX SPORTS 2
+http://rec2.distv.net:80/plinio/123/153
 #EXTINF:-1 group-title="Canais | H.265 [02]" tvg-logo="https://i.imgur.com/xGzpPfe.jpg",FOX SPORTS 2 - H265
 http://tv.factoryiptv.com:80/jurema10/jurema10/50545
 #EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="https://i.imgur.com/150raP9.png",FOX SPORTS 2 [ALT]
 http://tv.factoryiptv.com:80/jurema10/jurema10/50754
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://a5.vc/DXo",Fox Sports 2 | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/71952.ts
 #EXTINF:-1 group-title="Esportes Alternativos" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Fox Sports 2 FHD
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/13081
 #EXTINF:-1 group-title="Esportes Alternativos" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Fox Sports FHD
@@ -1739,6 +1866,8 @@ http://rec2.distv.net:80/madruga/12345/228
 http://rec2.distv.net:80/jhonny/123456/228
 #EXTINF:-1 group-title="ENTRETENIMENTO" tvg-logo="http://distv.net/icons/futura.png",FUTURA
 http://rec2.distv.net:80/luciana/123456/228
+#EXTINF:-1 ,FUTURA
+http://rec2.distv.net:80/plinio/123/228
 #EXTINF:-1 group-title="Canais | Full HD" tvg-logo="https://macmagazine.com.br/wp-content/uploads/2014/10/29-futura.png",Futura FHD
 http://tv.factoryiptv.com:80/jurema10/jurema10/41481
 #EXTINF:-1 group-title="ENTRETENIMENTO" tvg-logo="http://distv.net/icons/fx.png",FX
@@ -1751,8 +1880,12 @@ http://tv.factoryiptv.com:80/jurema10/jurema10/37097
 http://rec2.distv.net:80/jhonny/123456/229
 #EXTINF:-1 group-title="ENTRETENIMENTO" tvg-logo="http://distv.net/icons/fx.png",FX
 http://rec2.distv.net:80/luciana/123456/229
+#EXTINF:-1 ,FX
+http://rec2.distv.net:80/plinio/123/229
 #EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="http://i.imgur.com/GaQZSu6.png",FX [ALT]
 http://tv.factoryiptv.com:80/jurema10/jurema10/50771
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://a5.vc/JsW",FX | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/71966.ts
 #EXTINF:-1 group-title="Filmes & Series" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Fx Alternativo
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1137
 #EXTINF:-1 group-title="Filmes & Series" tvg-logo="https://pastebin.com/raw/9fe4gwz7",FX Alternativo HD
@@ -1783,6 +1916,8 @@ http://rec2.distv.net:80/madruga/12345/230
 http://rec2.distv.net:80/jhonny/123456/230
 #EXTINF:-1 group-title="ENTRETENIMENTO" tvg-logo="http://distv.net/icons/gazeta.png",GAZETA
 http://rec2.distv.net:80/luciana/123456/230
+#EXTINF:-1 ,GAZETA
+http://rec2.distv.net:80/plinio/123/230
 #EXTINF:-1 group-title="Canais | Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png",Gazeta FHD
 http://tv.factoryiptv.com:80/jurema10/jurema10/61960
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png",Gazeta HD
@@ -1797,6 +1932,8 @@ http://rec2.distv.net:80/madruga/12345/231
 http://rec2.distv.net:80/jhonny/123456/231
 #EXTINF:-1 group-title="CANAIS LOCAIS" tvg-logo="http://distv.net/icons/globo.png",GLOBO
 http://rec2.distv.net:80/luciana/123456/231
+#EXTINF:-1 ,GLOBO
+http://rec2.distv.net:80/plinio/123/231
 #EXTINF:-1 group-title="Canais | 4K" tvg-logo="https://i.imgur.com/rRftyEP.png",Globo [4K]
 http://tv.factoryiptv.com:80/jurema10/jurema10/43430
 #EXTINF:-1 group-title="Globos | Regionais" tvg-logo="http://i.imgur.com/ozxkJhG.png",Globo Anhanguera
@@ -1819,16 +1956,10 @@ http://rec2.distv.net:80/luciana/123456/3
 http://tv.factoryiptv.com:80/jurema10/jurema10/40513
 #EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="http://i.imgur.com/ozxkJhG.png",GLOBO BRASILIA HD [ALT]
 http://tv.factoryiptv.com:80/jurema10/jurema10/51146
-#EXTINF:-1 group-title="CANAIS LOCAIS" tvg-logo="http://distv.net/icons/globo.png",GLOBO CEARA HD
-http://rec2.distv.net:80/evaldo/12345/4
+#EXTINF:-1 ,GLOBO CEARA HD
+http://rec2.distv.net:80/plinio/123/4
 #EXTINF:-1 ,GLOBO CEARA HD
 http://rec2.distv.net:80/madruga/12345/4
-#EXTINF:-1 group-title="CANAIS LOCAIS" tvg-logo="http://distv.net/icons/globo.png",GLOBO CEARA HD
-http://rec2.distv.net:80/plinio/123/4
-#EXTINF:-1 group-title="CANAIS LOCAIS" tvg-logo="http://distv.net/icons/globo.png",GLOBO CEARA HD
-http://rec2.distv.net:80/jhonny/123456/4
-#EXTINF:-1 group-title="CANAIS LOCAIS" tvg-logo="http://distv.net/icons/globo.png",GLOBO CEARA HD
-http://rec2.distv.net:80/luciana/123456/4
 #EXTINF:-1 group-title="Globos | Regionais" tvg-logo="http://i.imgur.com/ozxkJhG.png",Globo EPTV Araraquara
 http://tv.factoryiptv.com:80/jurema10/jurema10/42950
 #EXTINF:-1 group-title="Globos | Regionais" tvg-logo="http://i.imgur.com/ozxkJhG.png",Globo EPTV São Carlos
@@ -1907,24 +2038,14 @@ http://tv.factoryiptv.com:80/jurema10/jurema10/51148
 http://tv.factoryiptv.com:80/jurema10/jurema10/42984
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://i.imgur.com/41jw6Ej.png",Globo Nordeste HD
 http://tv.factoryiptv.com:80/jurema10/jurema10/38971
-#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://i.imgur.com/cAcmn84.png",GLOBO NORDESTE SD1
-http://cloud-nany.cc:80/hyr3cf7/36387/60369
 #EXTINF:-1 group-title="Canais Globo" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Globo NSC TV Chapec?
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1966
 #EXTINF:-1 group-title="Canais Globo" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Globo NSC TV Chapec? FHD
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1964
 #EXTINF:-1 group-title="Canais Globo" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Globo NSC TV Chapec? HD
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1965
-#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://i.imgur.com/VDkKhvy.png",GLOBO NSC TV FLORIANOPOLIS FHD
-http://cloud-nany.cc:80/hyr3cf7/36387/26587
-#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://i.imgur.com/rNqbYeG.png",GLOBO NSC TV FLORIANOPOLIS HD
-http://cloud-nany.cc:80/hyr3cf7/36387/8042
-#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://i.imgur.com/rNqbYeG.png",GLOBO NSC TV FLORIANOPOLIS SD
-http://cloud-nany.cc:80/hyr3cf7/36387/8043
 #EXTINF:-1 group-title="Globos | Regionais" tvg-logo="http://i.imgur.com/ozxkJhG.png",Globo Paraná HD
 http://tv.factoryiptv.com:80/jurema10/jurema10/51309
-#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://i.imgur.com/rWfMPDB.png",GLOBO RBS PELOTAS HD
-http://cloud-nany.cc:80/hyr3cf7/36387/66568
 #EXTINF:-1 group-title="CANAIS LOCAIS" tvg-logo="http://distv.net/icons/globo.png",GLOBO REDE AMAZÔNICA HD
 http://rec2.distv.net:80/evaldo/12345/11
 #EXTINF:-1 ,GLOBO REDE AMAZÔNICA HD
@@ -1953,22 +2074,18 @@ http://rec2.distv.net:80/jhonny/123456/13
 http://rec2.distv.net:80/luciana/123456/13
 #EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="http://i.imgur.com/ozxkJhG.png",GLOBO Rio HD  [ALT]
 http://tv.factoryiptv.com:80/jurema10/jurema10/51149
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://a5.vc/3pv",Globo RJ | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/72025.ts
 #EXTINF:-1 group-title="Canais Globo" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Globo RJ Alternativo
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/2618
 #EXTINF:-1 group-title="Canais Globo" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Globo RJ FHD
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1943
 #EXTINF:-1 group-title="Globos | Regionais" tvg-logo="https://i.imgur.com/ozxkJhG.png",GLOBO RPC CASCAVEL HD
 http://tv.factoryiptv.com:80/jurema10/jurema10/75482
-#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://i.imgur.com/bgdxVGf.png",GLOBO RPC CURITIBA FHD
-http://cloud-nany.cc:80/hyr3cf7/36387/13471
-#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://i.imgur.com/bgdxVGf.png",GLOBO RPC CURITIBA FHD H265
-http://cloud-nany.cc:80/hyr3cf7/36387/60360
 #EXTINF:-1 group-title="CANAIS LOCAIS" tvg-logo="http://distv.net/icons/globo.png",GLOBO RPC CURITIBA HD
 http://rec2.distv.net:80/evaldo/12345/14
 #EXTINF:-1 ,GLOBO RPC CURITIBA HD
 http://rec2.distv.net:80/madruga/12345/14
-#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://i.imgur.com/bgdxVGf.png",GLOBO RPC CURITIBA HD
-http://cloud-nany.cc:80/hyr3cf7/36387/8036
 #EXTINF:-1 group-title="CANAIS LOCAIS" tvg-logo="http://distv.net/icons/globo.png",GLOBO RPC CURITIBA HD
 http://rec2.distv.net:80/plinio/123/14
 #EXTINF:-1 group-title="CANAIS LOCAIS" tvg-logo="http://distv.net/icons/globo.png",GLOBO RPC CURITIBA HD
@@ -1987,6 +2104,8 @@ http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/12729
 http://tv.factoryiptv.com:80/jurema10/jurema10/75161
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://i.imgur.com/1hIZ4BE.png",Globo SP
 http://tv.factoryiptv.com:80/jurema10/jurema10/37090
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://a5.vc/3pv",Globo SP | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/72040.ts
 #EXTINF:-1 group-title="Canais Globo" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Globo SP FHD
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1949
 #EXTINF:-1 group-title="Canais | Full HD" tvg-logo="http://i.imgur.com/ozxkJhG.png",Globo SP FHD
@@ -2083,6 +2202,10 @@ http://rec2.distv.net:80/jhonny/123456/18
 http://rec2.distv.net:80/luciana/123456/18
 #EXTINF:-1 group-title="Globos | Regionais" tvg-logo="https://i.imgur.com/ozxkJhG.png",GLOBO TV MIRANTE COCAIS
 http://tv.factoryiptv.com:80/jurema10/jurema10/75483
+#EXTINF:-1 ,GLOBO TV MIRANTE HD (MA)
+http://rec2.distv.net:80/plinio/123/19
+#EXTINF:-1 ,GLOBO TV MIRANTE HD (MA)
+http://rec2.distv.net:80/madruga/12345/19
 #EXTINF:-1 group-title="Globos | Regionais" tvg-logo="http://i.imgur.com/ozxkJhG.png",Globo TV Mirante São Luis
 http://tv.factoryiptv.com:80/jurema10/jurema10/42990
 #EXTINF:-1 group-title="Canais | Full HD" tvg-logo="http://i.imgur.com/ozxkJhG.png",Globo TV Mirante São Luis FHD
@@ -2199,6 +2322,8 @@ http://rec2.distv.net:80/jhonny/123456/215
 http://rec2.distv.net:80/luciana/123456/215
 #EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="https://i.imgur.com/KC9T8wA.png",GLOOBINHO [ALT]
 http://tv.factoryiptv.com:80/jurema10/jurema10/50774
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://static.clubsrv.me/logos/canais/gloobinho.png",Gloobinho | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/90631.ts
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Gloobinho FHD
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1836
 #EXTINF:-1 group-title="Canais | Full HD" tvg-logo="https://i.imgur.com/KC9T8wA.png",Gloobinho FHD
@@ -2223,6 +2348,8 @@ http://rec2.distv.net:80/jhonny/123456/155
 http://rec2.distv.net:80/luciana/123456/155
 #EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="http://i.imgur.com/a4pnqAH.png",GNT [ALT]
 http://tv.factoryiptv.com:80/jurema10/jurema10/50781
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://a5.vc/scT",GNT | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/72102.ts
 #EXTINF:-1 group-title="Variedades & Musicas" tvg-logo="https://pastebin.com/raw/9fe4gwz7",GNT Alternativo
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1197
 #EXTINF:-1 group-title="Variedades & Musicas" tvg-logo="https://pastebin.com/raw/9fe4gwz7",GNT Alternativo HD
@@ -2251,6 +2378,8 @@ https://59f1cbe63db89.streamlock.net:1443/gvnews1/_definst_/gvnews1/playlist.m3u
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/2137
 #EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="http://i.imgur.com/0oZXoaE.png",H2 [ALT]
 http://tv.factoryiptv.com:80/jurema10/jurema10/50787
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://a5.vc/Zwg",H2 | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/72106.ts
 #EXTINF:-1 group-title="Documentarios" tvg-logo="https://pastebin.com/raw/9fe4gwz7",H2 Alternativo
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1144
 #EXTINF:-1 group-title="Documentarios" tvg-logo="https://pastebin.com/raw/9fe4gwz7",H2 Alternativo HD
@@ -2279,6 +2408,8 @@ http://rec2.distv.net:80/jhonny/123456/156
 http://rec2.distv.net:80/luciana/123456/156
 #EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="http://i.imgur.com/KOIo5EH.png",HBO [ALT]
 http://tv.factoryiptv.com:80/jurema10/jurema10/50795
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://a5.vc/ezc",HBO | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/72118.ts
 #EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://distv.net/icons/hbo2.png",HBO 2
 http://rec2.distv.net:80/evaldo/12345/157
 #EXTINF:-1 ,HBO 2
@@ -2293,6 +2424,8 @@ http://rec2.distv.net:80/jhonny/123456/157
 http://rec2.distv.net:80/luciana/123456/157
 #EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="http://i.imgur.com/okiePBA.png",HBO 2 [ALT]
 http://tv.factoryiptv.com:80/jurema10/jurema10/50789
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://a5.vc/0qQ",HBO 2 | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/72110.ts
 #EXTINF:-1 group-title="Canais HBO" tvg-logo="https://pastebin.com/raw/9fe4gwz7",HBO 2 Alternativo
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1141
 #EXTINF:-1 group-title="Canais HBO" tvg-logo="https://pastebin.com/raw/9fe4gwz7",HBO 2 Alternativo HD
@@ -2323,6 +2456,8 @@ http://rec2.distv.net:80/jhonny/123456/158
 http://rec2.distv.net:80/luciana/123456/158
 #EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="http://i.imgur.com/x2Enlmt.png",HBO FAMILY [ALT]
 http://tv.factoryiptv.com:80/jurema10/jurema10/50791
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://a5.vc/u4M",HBO Family | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/72114.ts
 #EXTINF:-1 group-title="Canais HBO" tvg-logo="https://pastebin.com/raw/9fe4gwz7",HBO Family Alternativo
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1198
 #EXTINF:-1 group-title="Canais HBO" tvg-logo="https://pastebin.com/raw/9fe4gwz7",HBO Family Alternativo HD
@@ -2363,6 +2498,8 @@ http://rec2.distv.net:80/jhonny/123456/159
 http://rec2.distv.net:80/luciana/123456/159
 #EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="http://urlcurta.ml/KRVHG",HBO Mundi [ALT]
 http://tv.factoryiptv.com:80/jurema10/jurema10/50849
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="https://i.imgur.com/plzN5Pl.png",HBO Mundi | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/72121.ts
 #EXTINF:-1 group-title="Canais | Full HD" tvg-logo="http://i.imgur.com/z0DmH95.png",HBO Mundi FHD
 http://tv.factoryiptv.com:80/jurema10/jurema10/40268
 #EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="http://i.imgur.com/z0DmH95.png",HBO Mundi HD
@@ -2387,6 +2524,8 @@ http://rec2.distv.net:80/luciana/123456/160
 http://tv.factoryiptv.com:80/jurema10/jurema10/50793
 #EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="http://i.imgur.com/rjzeynR.png",HBO PLUS [ALT]
 http://tv.factoryiptv.com:80/jurema10/jurema10/50794
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://a5.vc/60H",HBO Plus | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/72125.ts
 #EXTINF:-1 group-title="Canais HBO" tvg-logo="https://pastebin.com/raw/9fe4gwz7",HBO Plus Alternativo
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1142
 #EXTINF:-1 group-title="Canais HBO" tvg-logo="https://pastebin.com/raw/9fe4gwz7",HBO Plus Alternativo HD
@@ -2423,6 +2562,8 @@ http://rec2.distv.net:80/jhonny/123456/161
 http://rec2.distv.net:80/luciana/123456/161
 #EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="http://i.imgur.com/tcr0CGl.png",HBO POP [ALT]
 http://tv.factoryiptv.com:80/jurema10/jurema10/50852
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="https://i.imgur.com/LFACM3J.png",HBO Pop | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/72129.ts
 #EXTINF:-1 group-title="Canais | Full HD" tvg-logo="http://i.imgur.com/tcr0CGl.png",HBO POP FHD
 http://tv.factoryiptv.com:80/jurema10/jurema10/40270
 #EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="http://i.imgur.com/tcr0CGl.png",HBO POP HD
@@ -2453,6 +2594,8 @@ http://rec2.distv.net:80/luciana/123456/162
 http://tv.factoryiptv.com:80/jurema10/jurema10/51247
 #EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="http://i.imgur.com/i89AzSA.png",HBO SIGNATURE [ALT]
 http://tv.factoryiptv.com:80/jurema10/jurema10/50797
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://a5.vc/2N4",HBO Signature | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/72134.ts
 #EXTINF:-1 group-title="Canais HBO" tvg-logo="https://pastebin.com/raw/9fe4gwz7",HBO Signature Alternativo
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1143
 #EXTINF:-1 group-title="Canais HBO" tvg-logo="https://pastebin.com/raw/9fe4gwz7",HBO Signature Alternativo HD
@@ -2477,8 +2620,12 @@ http://rec2.distv.net:80/madruga/12345/163
 http://rec2.distv.net:80/jhonny/123456/163
 #EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://distv.net/icons/hboextreme.png",HBO XTREME
 http://rec2.distv.net:80/luciana/123456/163
+#EXTINF:-1 ,HBO XTREME
+http://rec2.distv.net:80/plinio/123/163
 #EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="http://i.imgur.com/z0DmH95.png",HBO Xtreme [ALT]
 http://tv.factoryiptv.com:80/jurema10/jurema10/50845
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="https://i.imgur.com/K9TvnMc.png",HBO Xtreme | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/72138.ts
 #EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="http://i.imgur.com/z0DmH95.png",HBO Xtreme E
 http://tv.factoryiptv.com:80/jurema10/jurema10/37074
 #EXTINF:-1 group-title="Canais | Full HD" tvg-logo="http://i.imgur.com/z0DmH95.png",HBO Xtreme FHD
@@ -2533,6 +2680,8 @@ http://rec2.distv.net:80/plinio/123/165
 http://rec2.distv.net:80/jhonny/123456/165
 #EXTINF:-1 group-title="ENTRETENIMENTO" tvg-logo="http://distv.net/icons/historychannel.png",HISTORY
 http://rec2.distv.net:80/luciana/123456/165
+#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://a5.vc/VE2",History | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/72146.ts
 #EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://i.imgur.com/0oZXoaE.png",History 2
 http://tv.factoryiptv.com:80/jurema10/jurema10/42915
 #EXTINF:-1 group-title="ENTRETENIMENTO" tvg-logo="http://distv.net/icons/h2.png",HISTORY 2
@@ -2589,6 +2738,10 @@ http://tv.factoryiptv.com:80/jurema10/jurema10/37114
 http://tv.factoryiptv.com:80/jurema10/jurema10/41489
 #EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://i.imgur.com/1nFjk1t.png",ID: Investigação Discovery HD
 http://tv.factoryiptv.com:80/jurema10/jurema10/36959
+#EXTINF:-1 ,IDEAL TV
+http://rec2.distv.net:80/plinio/123/64
+#EXTINF:-1 ,IDEAL TV
+http://rec2.distv.net:80/madruga/12345/64
 #EXTINF:-1 group-title="Canais | Diversos" tvg-logo="https://i0.wp.com/i.imgur.com/nt8hDCT.png",IMPD TV
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8?KeltecMPIPTV
 #EXTINF:-1 group-title="Canais | Diversos" tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png",IMPD TV
@@ -2639,6 +2792,10 @@ http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
 https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://127.0.0.1/",JOACABA TV
 http://tv01.logicahost.com.br:1935/joacaba/_definst_/joacaba/chunklist_w1037780585.m3u8
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Kitchen
+http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/12779
+#EXTINF:-1 group-title="Portugal" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Kitchen HD
+http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1586
 #EXTINF:-1 group-title="Canais | Infantis" tvg-logo="https://i.imgur.com/Ns04L9j.png",KURIAKOS KIDS
 http://c2.manasat.com:1935/kkids/kkids2/TeamBlue.m3u8
 #EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1dd08ff2959bb19209a7a49b72765d53.png",LAB HISTORY TV
@@ -2803,14 +2960,6 @@ http://tv02.logicahost.com.br:1935/mkkweb/mkkweb/live.m3u8
 http://wse01.logicahost.com.br:1935/mkkweb/mkkweb/chunklist_w1610730155.m3u8
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://pastebin.com/raw/9fe4gwz7",MotorVision
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1541
-#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://bit.ly/3jHKEOv",MS TV MORENA FHD
-http://cloud-nany.cc:80/hyr3cf7/36387/66929
-#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://bit.ly/3jHKEOv",MS TV MORENA HD
-http://cloud-nany.cc:80/hyr3cf7/36387/66928
-#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://bit.ly/3jHKEOv",MS TV MORENA SD
-http://cloud-nany.cc:80/hyr3cf7/36387/66927
-#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://bit.ly/3jHKEOv",MT TV CENTRO AMERICA FHD
-http://cloud-nany.cc:80/hyr3cf7/36387/66926
 #EXTINF:-1 group-title="ENTRETENIMENTO" tvg-logo="http://distv.net/icons/mtv.png",MTV
 http://rec2.distv.net:80/evaldo/12345/169
 #EXTINF:-1 ,MTV
@@ -3273,8 +3422,6 @@ http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1157
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1273
 #EXTINF:-1 group-title="Canais | Full HD" tvg-logo="https://i.imgur.com/OEuXulO.png",Premiere 2 FHD
 http://tv.factoryiptv.com:80/jurema10/jurema10/38410
-#EXTINF:-1 group-title="PREMIERE FUTEBOL" tvg-logo="https://i.imgur.com/6htQnHL.png",PREMIERE 2 FHD
-http://cloud-nany.cc:80/hyr3cf7/36387/13420
 #EXTINF:-1 group-title="Canais | H.265 [02]" tvg-logo="https://i.imgur.com/xGzpPfe.jpg",PREMIERE 2 H265
 http://tv.factoryiptv.com:80/jurema10/jurema10/51259
 #EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://i.imgur.com/8d0cM31.png",Premiere 2 HD
@@ -3307,10 +3454,6 @@ http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/2189
 http://tv.factoryiptv.com:80/jurema10/jurema10/36951
 #EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="http://i.imgur.com/8d0cM31.png",PREMIERE 3 HD [ALT]
 http://tv.factoryiptv.com:80/jurema10/jurema10/50966
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png",PREMIERE 3 SD
-http://fonteangelusiptv.com:25461/c42fae920747/c42fae92/178711
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png",PREMIERE 3 SD ALT
-http://fonteangelusiptv.com:25461/c42fae920747/c42fae92/178712
 #EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://i.imgur.com/8d0cM31.png",Premiere 4
 http://tv.factoryiptv.com:80/jurema10/jurema10/37058
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://distv.net/icons/premeire4.png",PREMIERE 4
@@ -3383,8 +3526,6 @@ http://tv.factoryiptv.com:80/jurema10/jurema10/50986
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1896
 #EXTINF:-1 group-title="Canais | Full HD" tvg-logo="https://i.imgur.com/OEuXulO.png",Premiere 6 FHD
 http://tv.factoryiptv.com:80/jurema10/jurema10/38406
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://i.imgur.com/8d0cM31.png",Premiere 6 HD
-http://tv.factoryiptv.com:80/jurema10/jurema10/36906
 #EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://i.imgur.com/8d0cM31.png",Premiere 7
 http://tv.factoryiptv.com:80/jurema10/jurema10/37017
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://distv.net/icons/premiere7.png",PREMIERE 7
@@ -3437,18 +3578,10 @@ http://tv.factoryiptv.com:80/jurema10/jurema10/38411
 http://tv.factoryiptv.com:80/jurema10/jurema10/51265
 #EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://i.imgur.com/8d0cM31.png",Premiere Clubes HD
 http://tv.factoryiptv.com:80/jurema10/jurema10/36948
-#EXTINF:-1 group-title="PREMIERE FUTEBOL" tvg-logo="https://i.imgur.com/B41f3Ol.png",PREMIERE CLUBES HD1
-http://cloud-nany.cc:80/hyr3cf7/36387/1155
-#EXTINF:-1 group-title="PREMIERE FUTEBOL" tvg-logo="https://i.imgur.com/6htQnHL.png",PREMIERE CLUBES HD2
-http://cloud-nany.cc:80/hyr3cf7/36387/42424
-#EXTINF:-1 group-title="PREMIERE FUTEBOL" tvg-logo="http://images.mi.tv/channels/br_premiere-clubes_m.png",PREMIERE CLUBES SD
-http://cloud-nany.cc:80/hyr3cf7/36387/1158
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png",PREMIERE CLUBES SD
 http://fonteangelusiptv.com:25461/c42fae920747/c42fae92/178699
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/premiere.png",PREMIERE CLUBES SD ALT
 http://fonteangelusiptv.com:25461/c42fae920747/c42fae92/178700
-#EXTINF:-1 group-title="PREMIERE FUTEBOL" tvg-logo="http://images.mi.tv/channels/br_premiere-clubes_m.png",PREMIERE CLUBES SD1
-http://cloud-nany.cc:80/hyr3cf7/36387/7956
 #EXTINF:-1 group-title="Variedades & Musicas" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Prime Box Brasil
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/2200
 #EXTINF:-1 group-title="Variedades & Musicas" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Prime Box Brasil FHD
@@ -3543,10 +3676,10 @@ http://rec2.distv.net:80/luciana/123456/25
 http://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/master.m3u8
 #EXTINF:-1 group-title="CANAIS LOCAIS" tvg-logo="http://distv.net/icons/record.png",RECORD GOIAS
 http://rec2.distv.net:80/evaldo/12345/26
-#EXTINF:-1 group-title="CANAIS LOCAIS" tvg-logo="http://distv.net/icons/record.png",RECORD GOIAS
-http://rec2.distv.net:80/jhonny/123456/26
-#EXTINF:-1 group-title="CANAIS LOCAIS" tvg-logo="http://distv.net/icons/record.png",RECORD GOIAS
-http://rec2.distv.net:80/luciana/123456/26
+#EXTINF:-1 ,RECORD GOIAS
+http://rec2.distv.net:80/plinio/123/26
+#EXTINF:-1 ,RECORD GOIAS
+http://rec2.distv.net:80/madruga/12345/26
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://i.imgur.com/vcNHmSb.jpg",Record Goiás
 http://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/master.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://i.imgur.com/vcNHmSb.jpg",Record HD
@@ -3561,6 +3694,8 @@ http://rec2.distv.net:80/madruga/12345/22
 http://rec2.distv.net:80/jhonny/123456/22
 #EXTINF:-1 group-title="CANAIS LOCAIS" tvg-logo="http://distv.net/icons/record.png",RECORD MANAUS
 http://rec2.distv.net:80/luciana/123456/22
+#EXTINF:-1 ,RECORD MANAUS
+http://rec2.distv.net:80/plinio/123/22
 #EXTINF:-1 group-title="CANAIS LOCAIS" tvg-logo="http://distv.net/icons/record.png",RECORD MG
 http://rec2.distv.net:80/evaldo/12345/32
 #EXTINF:-1 ,RECORD MG
@@ -3569,6 +3704,8 @@ http://rec2.distv.net:80/madruga/12345/32
 http://rec2.distv.net:80/jhonny/123456/32
 #EXTINF:-1 group-title="CANAIS LOCAIS" tvg-logo="http://distv.net/icons/record.png",RECORD MG
 http://rec2.distv.net:80/luciana/123456/32
+#EXTINF:-1 ,RECORD MG
+http://rec2.distv.net:80/plinio/123/32
 #EXTINF:-1 group-title="CANAIS LOCAIS" tvg-logo="http://distv.net/icons/record.png",RECORD MINAS
 http://rec2.distv.net:80/evaldo/12345/27
 #EXTINF:-1 ,RECORD MINAS
@@ -3577,6 +3714,8 @@ http://rec2.distv.net:80/madruga/12345/27
 http://rec2.distv.net:80/jhonny/123456/27
 #EXTINF:-1 group-title="CANAIS LOCAIS" tvg-logo="http://distv.net/icons/record.png",RECORD MINAS
 http://rec2.distv.net:80/luciana/123456/27
+#EXTINF:-1 ,RECORD MINAS
+http://rec2.distv.net:80/plinio/123/27
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://i.imgur.com/vcNHmSb.jpg",Record Minas Gerais
 http://playplusbh-lh.akamaihd.net/i/pp_bh@377862/master.m3u8
 #EXTINF:-1 group-title="Canais | Noticias" tvg-logo="http://i.imgur.com/I99RZ9n.png",Record News
@@ -3593,6 +3732,8 @@ http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_360_av-p.m3u8
 http://rec2.distv.net:80/jhonny/123456/28
 #EXTINF:-1 group-title="REPORTAGEM" tvg-logo="http://distv.net/icons/recordnews.png",RECORD NEWS
 http://rec2.distv.net:80/luciana/123456/28
+#EXTINF:-1 ,RECORD NEWS
+http://rec2.distv.net:80/plinio/123/28
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://i.imgur.com/ac5p192.png",RECORD NEWS (TV Guará)
 https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/playlist.m3u8
 #EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="http://i.imgur.com/I99RZ9n.png",RECORD NEWS [ALT]
@@ -4063,6 +4204,8 @@ http://tv.factoryiptv.com:80/jurema10/jurema10/51270
 http://tv.factoryiptv.com:80/jurema10/jurema10/40785
 #EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="https://i.imgur.com/3ynzR93.png",SPORTV [ALT]
 http://tv.factoryiptv.com:80/jurema10/jurema10/51056
+#EXTINF:-1 group-title="Canais | SporTV" tvg-logo="http://a5.vc/cii",SporTV | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/72332.ts
 #EXTINF:-1 group-title="Esportes Alternativos" tvg-logo="https://pastebin.com/raw/9fe4gwz7",SporTV 2
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/13074
 #EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://i.imgur.com/v4TmPpc.png",SporTV 2
@@ -4081,6 +4224,8 @@ http://rec2.distv.net:80/luciana/123456/189
 http://tv.factoryiptv.com:80/jurema10/jurema10/51268
 #EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="https://i.imgur.com/dnjAv2m.png",SPORTV 2 [ALT]
 http://tv.factoryiptv.com:80/jurema10/jurema10/51052
+#EXTINF:-1 group-title="Canais | SporTV" tvg-logo="http://a5.vc/YO7",SporTV 2 | TechRuthes.org
+http://fsrv.me:80/live/7885037935/fireurl.co/72323.ts
 #EXTINF:-1 group-title="Canais | Full HD" tvg-logo="http://i.imgur.com/v4TmPpc.png",SporTV 2 FHD
 http://tv.factoryiptv.com:80/jurema10/jurema10/38395
 #EXTINF:-1 group-title="Esportes Alternativos" tvg-logo="https://pastebin.com/raw/9fe4gwz7",SporTV 2 HD
@@ -4109,6 +4254,8 @@ http://rec2.distv.net:80/jhonny/123456/190
 http://rec2.distv.net:80/luciana/123456/190
 #EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="https://i.imgur.com/SAxzLi9.png",SPORTV 3 [ALT]
 http://tv.factoryiptv.com:80/jurema10/jurema10/51054
+#EXTINF:-1 group-title="Canais | SporTV" tvg-logo="http://a5.vc/ybu",SporTV 3 | TechRuthes.org
+http://srvx.io:80/live/7885037935/fireurl.co/72327.ts
 #EXTINF:-1 group-title="Esportes Alternativos" tvg-logo="https://pastebin.com/raw/9fe4gwz7",SporTV 3 FHD
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/13075
 #EXTINF:-1 group-title="Canais | Full HD" tvg-logo="https://i.imgur.com/SAxzLi9.png",SporTV 3 FHD
@@ -4125,14 +4272,8 @@ http://tv.factoryiptv.com:80/jurema10/jurema10/51053
 http://fonteangelusiptv.com:25461/c42fae920747/c42fae92/178665
 #EXTINF:-1 group-title="Canais | Full HD" tvg-logo="https://i.imgur.com/3ynzR93.png",SporTV FHD
 http://tv.factoryiptv.com:80/jurema10/jurema10/38419
-#EXTINF:-1 group-title="ESPORTES GLOBOSAT" tvg-logo="https://i.imgur.com/2JPqFDK.png",SPORTV FHD
-http://cloud-nany.cc:80/hyr3cf7/36387/13409
-#EXTINF:-1 group-title="ESPORTES GLOBOSAT" tvg-logo="https://i.imgur.com/xgOp4rb.png",SPORTV FHD H265
-http://cloud-nany.cc:80/hyr3cf7/36387/24259
 #EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/3ynzR93.png",SporTV HD
 http://tv.factoryiptv.com:80/jurema10/jurema10/37255
-#EXTINF:-1 group-title="ESPORTES GLOBOSAT" tvg-logo="https://i.imgur.com/V14bcLW.png",SPORTV HD
-http://cloud-nany.cc:80/hyr3cf7/36387/7930
 #EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="https://i.imgur.com/3ynzR93.png",SPORTV HD [ALT]
 http://tv.factoryiptv.com:80/jurema10/jurema10/51055
 #EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sportv.png",SPORTV SD ALT
@@ -4269,8 +4410,6 @@ http://tv.factoryiptv.com:80/jurema10/jurema10/51083
 http://tv.factoryiptv.com:80/jurema10/jurema10/56850
 #EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://i.imgur.com/ltpUjbD.png",Telecine Action LEG
 http://tv.factoryiptv.com:80/jurema10/jurema10/56851
-#EXTINF:-1 group-title="Globosat Filmes" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Telecine Alternativo Cult HD
-http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1347
 #EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="https://i.imgur.com/XvhwDTh.png",Telecine Cult
 http://tv.factoryiptv.com:80/jurema10/jurema10/37039
 #EXTINF:-1 group-title="FILMES E SERIES" tvg-logo="http://distv.net/icons/tccult.png",TELECINE CULT
@@ -4533,22 +4672,14 @@ http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1235
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1305
 #EXTINF:-1 group-title="Filmes & Series" tvg-logo="https://pastebin.com/raw/9fe4gwz7",TNT Series FHD
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1869
-#EXTINF:-1 group-title="FILMES/SERIES" tvg-logo="https://i.imgur.com/ko6hZ8f.png",TNT SERIES FHD
-http://cloud-nany.cc:80/hyr3cf7/36387/13513
 #EXTINF:-1 group-title="Canais | Full HD" tvg-logo="http://i.imgur.com/HE2yMfG.png",TNT Séries FHD
 http://tv.factoryiptv.com:80/jurema10/jurema10/41508
-#EXTINF:-1 group-title="FILMES/SERIES" tvg-logo="https://i.imgur.com/ko6hZ8f.png",TNT SERIES FHD H265
-http://cloud-nany.cc:80/hyr3cf7/36387/24264
-#EXTINF:-1 group-title="FILMES/SERIES" tvg-logo="https://i.imgur.com/ko6hZ8f.png",TNT SERIES HD
-http://cloud-nany.cc:80/hyr3cf7/36387/7904
 #EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="http://i.imgur.com/HE2yMfG.png",TNT Séries HD
 http://tv.factoryiptv.com:80/jurema10/jurema10/36933
 #EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="http://i.imgur.com/HE2yMfG.png",TNT SERIES HD [ALT]
 http://tv.factoryiptv.com:80/jurema10/jurema10/51121
 #EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://i.imgur.com/HE2yMfG.png",TNT Séries HD LEG
 http://tv.factoryiptv.com:80/jurema10/jurema10/56890
-#EXTINF:-1 group-title="FILMES/SERIES" tvg-logo="https://i.imgur.com/ko6hZ8f.png",TNT SERIES HD1
-http://cloud-nany.cc:80/hyr3cf7/36387/1093
 #EXTINF:-1 group-title="Canais | Legendados" tvg-logo="http://i.imgur.com/HE2yMfG.png",TNT Séries LEG
 http://tv.factoryiptv.com:80/jurema10/jurema10/56891
 #EXTINF:-1 group-title="FILMES/SERIES" tvg-logo="https://i.imgur.com/ko6hZ8f.png",TNT SERIES SD
@@ -4605,6 +4736,10 @@ http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/2256
 https://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q4.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://tv8brasil.com/wp-content/uploads/2020/05/logo_tv8_site_novo_2020.png",TV 8
 https://cdn.jmvstream.com/w/LVW-8215/ngrp:LVW8215_fL5vRbpRn1_all/playlist-480p.m3u8
+#EXTINF:-1 ,TV ALEPE
+http://rec2.distv.net:80/plinio/123/72
+#EXTINF:-1 ,TV ALEPE
+http://rec2.distv.net:80/madruga/12345/72
 #EXTINF:-1 group-title="Canais | Diversos" tvg-logo="http://127.0.0.1/",TV ALRN
 http://tv02.logicahost.com.br:1935/fundacao/fundacao/live.m3u8
 #EXTINF:-1 group-title="Canais | Diversos" tvg-logo="http://127.0.0.1/",TV Ambiental
@@ -4705,6 +4840,10 @@ http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1546
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1548
 #EXTINF:-1 group-title="Canais | Diversos" tvg-logo="http://127.0.0.1/",TV Cinec
 http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8
+#EXTINF:-1 ,TV CLUBE
+http://rec2.distv.net:80/plinio/123/73
+#EXTINF:-1 ,TV CLUBE
+http://rec2.distv.net:80/madruga/12345/73
 #EXTINF:-1 group-title="Globos | Regionais" tvg-logo="http://i.imgur.com/ozxkJhG.png",TV CLUBE TERESINA HD
 http://tv.factoryiptv.com:80/jurema10/jurema10/75472
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://static.wixstatic.com/media/7d1b6b_63233e54c6a54680a54a4a09d0db3c2e~mv2.png/v1/fill/w_214,h_102,al_c,q_85,usm_0.66_1.00_0.01/1combr.webp",TV COM BRASIL
@@ -4767,8 +4906,6 @@ http://srv3.zoeweb.tv:1935/z438-live/stream/livestream.m3u8
 http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Rede_Meio_Norte.jpg",TV DO POVO (Rede Meio Norte)
 https://5cf4a2c2512a2.streamlock.net/tvdopovo1/tvdopovo1/chunklist_w2066036014.m3u8
-#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://i.imgur.com/TpsFtH2.jpg",TV EDUCACAO SD
-http://cloud-nany.cc:80/hyr3cf7/36387/63101
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://i.imgur.com/oSZZKxP.png",TV Escola
 http://tv.factoryiptv.com:80/jurema10/jurema10/36999
 #EXTINF:-1 group-title="Canais | Educacionais" tvg-logo="https://i0.wp.com/i.imgur.com/Yj9UKv2.png",TV Escola
@@ -4777,6 +4914,10 @@ http://liveabr2.sambatech.com.br:80/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac
 https://cdn.jmvstream.com/w/AVJ-9094/playlist/chunklist.m3u8
 #EXTINF:-1 group-title="Canais | Religiosos" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/71/Logotipo_da_R%C3%A1dio_Evangelizar.png",TV Evangelizar
 http://tvevangelizar01.crossdigital.com.br/evangelizar/tv/playlist.m3u8?KeltecMPIPTV
+#EXTINF:-1 ,TV EVANGELIZAR
+http://rec2.distv.net:80/plinio/123/91
+#EXTINF:-1 ,TV EVANGELIZAR
+http://rec2.distv.net:80/madruga/12345/91
 #EXTINF:-1 group-title="Canais | Diversos" tvg-logo="https://listaiptvbrasil.com/logo/tvfaap.png",TV Faap
 http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8?KeltecMPIPTV
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://goo.gl/D6CXqO",TV FAAP
@@ -4785,6 +4926,10 @@ http://midia.faap.br/faaplatamlive-live/stream_480/livestream.m3u8
 http://midia.faap.br/faaplatamlive-live/stream_720/livestream.m3u8
 #EXTINF:-1 group-title="Canais | Diversos" tvg-logo="https://www.epm.com/wp-content/uploads/2016/05/tv-xxl.png",TV FAAP SP
 http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
+#EXTINF:-1 ,TV FAMILIA
+http://rec2.distv.net:80/plinio/123/68
+#EXTINF:-1 ,TV FAMILIA
+http://rec2.distv.net:80/madruga/12345/68
 #EXTINF:-1 group-title="Canais | Gospel" tvg-logo="http://127.0.0.1/",TV Fátima Paratibe
 http://tv01.logicahost.com.br:1935/tvfatimaparatibe/tvfatimaparatibe/live.m3u8
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://127.0.0.1/",TV FIB SP
@@ -4865,6 +5010,10 @@ http://online.tvm.co.mz:1935/live/smil:Channel1.smil/chunklist_w195134477_b36400
 http://online.tvm.co.mz:1935/live/smil:Channel2.smil/chunklist_w975457649_b714000_slpor.m3u8
 #EXTINF:-1 group-title="Canais | Diversos" tvg-logo="http://127.0.0.1/",TV MUNDIAL
 http://58a4464faef53.streamlock.net:1935/impd/impd/live.m3u8
+#EXTINF:-1 ,TV NOVA NORDESTE
+http://rec2.distv.net:80/plinio/123/62
+#EXTINF:-1 ,TV NOVA NORDESTE
+http://rec2.distv.net:80/madruga/12345/62
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://127.0.0.1/",TV NOVA ONDA
 https://5c483b9d1019c.streamlock.net/8078/8078/chunklist_w616485768.m3u8
 #EXTINF:-1 group-title="ENTRETENIMENTO" tvg-logo="http://distv.net/icons/novotempo.png",TV NOVO TEMPO
@@ -4961,6 +5110,10 @@ http://150.162.188.10:8080/hls/1.m3u8
 https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/chunklist_w1724679818.m3u8
 #EXTINF:-1 group-title="Canais | Diversos" tvg-logo="http://127.0.0.1/",TV Universal
 http://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8
+#EXTINF:-1 ,TV UNIVERSITARIA
+http://rec2.distv.net:80/plinio/123/78
+#EXTINF:-1 ,TV UNIVERSITARIA
+http://rec2.distv.net:80/madruga/12345/78
 #EXTINF:-1 group-title="Canais | Gospel" tvg-logo="http://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg",TV Verdade
 http://ocatv.mcgi.me:1935/public/247_br/playlist.m3u8
 #EXTINF:-1 group-title="Canais | Diversos" tvg-logo="http://goo.gl/4Wl7FY",TV VERDADE
@@ -4973,10 +5126,6 @@ http://ssh101.com/m3u8/dyn/13verdevalelive13/index.m3u8
 https://ssh101.com/m3u8/dyn/13verdevalelive13/index.m3u8?KeltecMPIPTV
 #EXTINF:-1 group-title="Canais | Diversos" tvg-logo="http://127.0.0.1/",TV WEB MARI
 http://stmv1.euroti.com.br:1935/mixmariweb/mixmariweb/live.m3u8
-#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://i.imgur.com/RgPlZUW.png",TVB RECORD CAMPINAS FHD h265
-http://cloud-nany.cc:80/hyr3cf7/36387/59027
-#EXTINF:-1 group-title="REDE RECORD" tvg-logo="https://i.imgur.com/RgPlZUW.png",TVB RECORD CAMPINAS HD
-http://cloud-nany.cc:80/hyr3cf7/36387/59020
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://tvc21.com.br/wp-content/uploads/2020/01/logo-fundo-1.png",TVC (Rede Brasil)
 https://59f1cbe63db89.streamlock.net:1443/tvc21/_definst_/tvc21/chunklist_w1358714969.m3u8
 #EXTINF:-1 group-title="Canais | Diversos" tvg-logo="https://i.imgur.com/NlB8ioY.png",TVCI
@@ -5125,20 +5274,10 @@ http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1306
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/1906
 #EXTINF:-1 group-title="Canais | Full HD" tvg-logo="http://i.imgur.com/CZMldQu.png",Viva FHD
 http://tv.factoryiptv.com:80/jurema10/jurema10/38393
-#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://i.imgur.com/Y22Kk5b.png",VIVA FHD
-http://cloud-nany.cc:80/hyr3cf7/36387/13403
 #EXTINF:-1 group-title="Variedades & Musicas" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Viva HD
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/2263
 #EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://i.imgur.com/CZMldQu.png",Viva HD
 http://tv.factoryiptv.com:80/jurema10/jurema10/36931
-#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://i.imgur.com/Y22Kk5b.png",VIVA HD
-http://cloud-nany.cc:80/hyr3cf7/36387/7885
-#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://i.imgur.com/Y22Kk5b.png",VIVA HD1
-http://cloud-nany.cc:80/hyr3cf7/36387/1071
-#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://i.imgur.com/Y22Kk5b.png",VIVA SD
-http://cloud-nany.cc:80/hyr3cf7/36387/7886
-#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://i.imgur.com/uooiCU2.png",VIVA SD1
-http://cloud-nany.cc:80/hyr3cf7/36387/998
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://127.0.0.1/",VIVA TV
 https://video01.kshost.com.br/cypriano46326/cypriano46326/chunklist.m3u8
 #EXTINF:-1 group-title="Canais | Diversos" tvg-logo="https://i.imgur.com/msQ76Hk.jpg",Viva Web TV
@@ -5175,8 +5314,6 @@ http://tv.factoryiptv.com:80/jurema10/jurema10/56893
 http://fonteangelusiptv.com:25461/c42fae920747/c42fae92/178599
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/warner.png",WARNER CHANNEL SD ALT
 http://fonteangelusiptv.com:25461/c42fae920747/c42fae92/178600
-#EXTINF:-1 group-title="FILMES/SERIES" tvg-logo="https://i.imgur.com/4BsjUJp.png",WARNER TV FHD
-http://cloud-nany.cc:80/hyr3cf7/36387/13443
 #EXTINF:-1 group-title="Canais | Noticias" tvg-logo="http://aachost.com/wp-content/uploads/2017/12/logo_web_tv.png",Web TV Água Boa
 http://tv.factoryiptv.com:80/jurema10/jurema10/62130
 #EXTINF:-1 group-title="Canais | Diversos" tvg-logo="http://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg",WebTV Santana
@@ -5207,8 +5344,6 @@ https://livefocamundo.com:8081/8200/tracks-v1a1/mono.m3u8
 http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://pastebin.com/raw/9fe4gwz7",ZAP Viva
 http://dns.xtreamsolution.tech:8000/dolamee1001/FosxW25ksd/12778
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://127.0.0.1/",ZEE MUNDO
-https://f8e7y4c6.ssl.hwcdn.net/mundohd/tracks-v1a1/index-1588722015-now.m3u8
 #EXTINF:-1 group-title="Canais | Diversos" tvg-logo="http://127.0.0.1/",ZOOM
 http://dcunilive36-lh.akamaihd.net/i/dclive_1@667493/master.m3u8
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://pastebin.com/raw/9fe4gwz7",Zoomoo
@@ -5227,3 +5362,307 @@ http://rec2.distv.net:80/plinio/123/244
 http://rec2.distv.net:80/jhonny/123456/244
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://distv.net/icons/zoomoo.png",ZOOMOO
 http://rec2.distv.net:80/luciana/123456/244
+
+################################################################################## CANAIS 24H
+#EXTINF:-1 tvg-logo="https://www.logomoose.com/wp-content/uploads/2016/06/1150x56810.png" group-title="CANAIS 24H", [COLOR red]//////////CANAIS 24H//////////[/COLOR]
+
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) 3 Palavrinhas
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/717100.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) A Bruxinha Sabrina
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1149654.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) A Cobrinha Azul
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/717101.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) A Familia Dracula
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/717102.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) A Familía Hathaways
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204844.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) A Mumia
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/717103.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) A Pantera Cor de Rosa
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755668.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) A Turma da Monica
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755690.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) A Turma do Pateta
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/717105.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) A Vaca e o Frango
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204803.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) Acampamento Lakebottom
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/717106.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) Aladdin Desenho Animado
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/717107.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) Alf ETeimoso
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755691.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) American Housewife
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204830.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Animaniacs
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204802.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) Apenas um Show
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755693.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) As Aventuras de Jackie Chan
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/717108.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) As Aventuras de Piggley Winks
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/717109.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) As Aventuras de Tintim
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/717110.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) As Meninas Superpoderosas
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1149655.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) As Visoes da Raven
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1149656.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Avatar
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1149657.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Avatar a Lenda de Korra
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204799.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Baby Looney Tunes
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204806.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) Baby Shark
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755686.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Batman
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204845.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) Ben 10
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/715109.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) Ben e Holly
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755695.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) Big Mouth
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/715097.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Black Kamen Rider
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204819.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) Bob Esponja
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/715111.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Bones
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204831.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Breaking Bad
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1149658.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Canal Youtube 4 Amigos Stand Up Comedy
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1149659.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Canal Youtube 5 Alguma Coisa
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1149660.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Canal Youtube Badin
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1149661.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Canal Youtube Barbixas
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1149662.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Canal Youtube Fatos Desconhecidos
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1149663.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Canal Youtube Fitdance
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1149664.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Canal Youtube Panico Trollagens
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1149665.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Canal Youtube Parafernalha
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1149666.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Canal Youtube Porta dos Fundos
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1149667.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Carga Pesada
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204839.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) Cavaleiro do Zodiaco
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/715092.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) Caverna do Dragão
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/715101.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Changeman
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204817.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) Chapolin Colorado
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755676.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) Chaves
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/715110.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Chernobyl
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204812.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Cine 007
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204833.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Cine Sessão da Tarde
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204816.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Clarencio o Otimista
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204810.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Coragem o Cão Covarde
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204808.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Corrida Maluca
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204834.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) CSI Las Vegas
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755666.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Cyberchase a Corrida do Espaço
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1149668.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Cybercops
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204847.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) Daniel Tigre
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755696.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) Desenhos Biblicos
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755697.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Digimon
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1149669.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Dois Homens e Meio
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1149670.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) Dragon Ball GT
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1149653.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) Dragon Ball Super
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755669.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Dragon Ball Z Saga de Freeza
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1149671.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Drake & Josh
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204848.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Drake e Josh
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1149672.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Escolinha do Professor Raimundo
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1149673.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Escolinha Professor Raimundo
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204818.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) Eu a Patroa e As Crianças
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/715105.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) Faisca e Fumaça
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755689.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) Flash Gordon
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755682.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Friends
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1149674.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) Galinha Pintadinha
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/715106.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Game of Thrones
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1149675.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Gigantes da Industria
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204822.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Gran Hotel
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204811.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) He Man Desenho
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755699.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Heroes
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204835.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) Homem Aranha
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/715108.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) House of Cards
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204821.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) iCarly
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1149676.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) Irmão do Jorel
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755688.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Irmãos a Obra
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204820.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Jiban
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204832.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) Jonny Quest
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/715103.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) Jose Rei do Egito
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/715094.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Kim Possible
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1149677.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Lady Night
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204815.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Largados e Pelados
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204828.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Largados e Pelados a Tribo
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204814.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) Luluzinha
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755680.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Malhação 1999
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204800.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Maria Madalena
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204823.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Marvel Demolidor
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204824.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) Masha e o Urso
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755683.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) Meu Amigãozão
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755698.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) Mickey Mouse
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755673.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) Mortal Kombat
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755687.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) Mundo Bita
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755684.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) Naruto Clássico
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/715098.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) O Desencanto
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204809.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) O Fantastico Mundo de Bobby
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/715095.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) O Mandaloriano
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204843.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) O Máskara
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/715096.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) O Pequeno Urso
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204805.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) O Sócio
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204840.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Os Flinstones
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1149678.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Os Jovens Titans
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204804.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) Os Padrinhos Mágicos
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755694.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Os Roni
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204842.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) Os Simpsons
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755678.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Os Smurfs
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204801.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) Os Trapalhões
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755667.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) Os Vingadores Desenho
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755674.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) Patati Patata
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755685.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) Patrulha Canina
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/715104.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) Peppa Pig
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/715102.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) Pernalonga
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755681.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) Pica Pau
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/715107.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Pokemon
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1149679.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Policia 24 Horas
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204851.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) Popeye
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/715091.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Punky a Levada da Breca
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204836.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Reality Z
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204813.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) Rick And Morty
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755677.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) Rick And Morty 2
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755692.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Sai de Baixo
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1149680.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) Scooby Doo
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/715089.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) Sitio do Pica Pau Amarelo
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755665.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) South Park
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755679.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Spartacus
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204826.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Super Choque
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204807.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) Super Onze
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755675.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Supernatural
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1149681.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Tarzan
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204827.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) The Big Bang Theory
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1149682.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) Timão e Pumba
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755670.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) Todo Mundo Odeia o Chris
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/715099.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) Tom e Jerry
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/715100.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Um Maluco No Pedaço
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204837.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) V a Batalha Final
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204829.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) Vai Que Cola
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/715090.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Verdades Secretas
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204852.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Xena a Princesa Guerreira
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204838.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) X-Men Antigo
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755671.ts
+#EXTINF:-1 group-title="Canais: 24H" tvg-logo="http://img.rtrmsrv22.gq/images/logos/24.png",(24h) Yugioh Clássico
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755672.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Zack e Cody Gemeos a Bordo
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1149683.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Zatch Bell
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1149684.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Zorra Total
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1149685.ts
+#EXTINF:-1 group-title="Canais: 24H",(24h) Zorro Classico
+http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204846.ts
