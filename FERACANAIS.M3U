@@ -1,4 +1,348 @@
 #EXTM3U
+#EXTINF:-1 group-title="PREMIUM TV",Azteca 7
+http://tecnotv.club/cono/smartv.php?id=azteca-7-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Canal 5
+http://tecnotv.club/cono/smartv.php?id=canal-5-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",TUDN
+http://tecnotv.club/cono/smartv.php?id=tudn-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Latina
+http://tecnotv.club/cono/smartv.php?id=latina-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",America TV
+http://tecnotv.club/cono/smartv.php?id=america-tv-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",GOLPERU
+http://tecnotv.club/cono/smartv.php?id=gol-peru-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",GOL TV
+http://tecnotv.club/cono/smartv.php?id=gol-tv-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",CDF Premium
+http://tecnotv.club/cono/smartv.php?id=cdf-premium-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Win Sports
+http://tecnotv.club/cono/smartv.php?id=win-sports-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",TNT Sports
+http://tecnotv.club/cono/smartv.php?id=tnt-sports-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Fox Premium
+http://tecnotv.club/cono/smartv.php?id=fox-sports-premium-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",TYC Sports
+http://tecnotv.club/cono/smartv.php?id=tyc-sports-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Fox Sports
+http://tecnotv.club/cono/smartv.php?id=fox-sports-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Fox Sports 2
+http://tecnotv.club/cono/smartv.php?id=fox-sports-2-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Fox Sports 3
+http://tecnotv.club/cono/smartv.php?id=fox-sports-3-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",ESPN Deportes
+http://tecnotv.club/cono/smartv.php?id=espn-deportes-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",ESPN Plus
+http://tecnotv.club/cono/smartv.php?id=espn-plus-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",ESPN
+http://tecnotv.club/cono/smartv.php?id=espn-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",ESPN 2
+http://tecnotv.club/cono/smartv.php?id=espn-2-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",ESPN 3
+http://tecnotv.club/cono/smartv.php?id=espn-3-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Directv Sports
+http://tecnotv.club/cono/smartv.php?id=directv-sports-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Directv Sports 2
+http://tecnotv.club/cono/smartv.php?id=directv-sports-2-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Directv Sports Plus
+http://tecnotv.club/cono/smartv.php?id=directv-sports-plus-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Bein La Liga
+http://tecnotv.club/cono/smartv.php?id=bein-la-liga-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Fox Sports Mexico
+http://tecnotv.club/cono/smartv.php?id=fox-sports-mexico-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Fox Sports 2 Mexico
+http://tecnotv.club/cono/smartv.php?id=fox-sports-2-mexico-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Fox Sports 3 Mexico
+http://tecnotv.club/cono/smartv.php?id=fox-sports-3-mexico-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Espn Mexico
+http://tecnotv.club/cono/smartv.php?id=espn-mexico-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Espn 2 Mexico
+http://tecnotv.club/cono/smartv.php?id=espn-2-mexico-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Espn 3 Mexico
+http://tecnotv.club/cono/smartv.php?id=espn-3-mexico-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Izzi Afizzionados
+http://tecnotv.club/cono/smartv.php?id=izzi-afizzionados-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",HBO
+http://tecnotv.club/cono/smartv.php?id=hbo-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",hbo 2
+http://tecnotv.club/cono/smartv.php?id=hbo-2-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",FOX PREMIUM ACTION
+http://tecnotv.club/cono/smartv.php?id=fox-premium-action-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",FOX PREMIUM SERIES
+http://tecnotv.club/cono/smartv.php?id=fox-premium-series-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Space
+http://tecnotv.club/cono/smartv.php?id=space-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Warner Bros TV
+http://tecnotv.club/cono/smartv.php?id=warner-bros-tv-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",TNT
+http://tecnotv.club/cono/smartv.php?id=tnt-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Fox
+http://tecnotv.club/cono/smartv.php?id=fox-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Cinemax
+http://tecnotv.club/cono/smartv.php?id=cinemax-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Cinecanal
+http://tecnotv.club/cono/smartv.php?id=cinecanal-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Syfy
+http://tecnotv.club/cono/smartv.php?id=syfy-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Telefe
+http://tecnotv.club/cono/smartv.php?id=telefe-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",El Trece
+http://tecnotv.club/cono/smartv.php?id=el-trece-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Distrito Comedia
+http://tecnotv.club/cono/smartv.php?id=distrito-comedia-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Telemundo
+http://tecnotv.club/cono/smartv.php?id=telemundo-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",History
+http://tecnotv.club/cono/smartv.php?id=history-channel-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",History 2
+http://tecnotv.club/cono/smartv.php?id=history-2-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Pasiones
+http://tecnotv.club/cono/smartv.php?id=pasiones-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Azteca Uno
+http://tecnotv.club/cono/smartv.php?id=azteca-uno-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Az Mundo
+http://tecnotv.club/cono/smartv.php?id=az-mundo-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Az Cinema
+http://tecnotv.club/cono/smartv.php?id=az-cinema-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Galavision
+http://tecnotv.club/cono/smartv.php?id=galavision-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Tlnovelas
+http://tecnotv.club/cono/smartv.php?id=tlnovelas-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Las Estrellas
+http://tecnotv.club/cono/smartv.php?id=las-estrellas-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Caracol
+http://tecnotv.club/cono/smartv.php?id=caracol-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",TVC Deportes
+http://tecnotv.club/cono/smartv.php?id=tvc-deportes-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",atv
+http://tecnotv.club/cono/smartv.php?id=atv-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Univision
+http://tecnotv.club/cono/smartv.php?id=univision-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Unicable
+http://tecnotv.club/cono/smartv.php?id=unicable-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Unimas
+http://tecnotv.club/cono/smartv.php?id=unimas-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Imagen TV
+http://tecnotv.club/cono/smartv.php?id=imagen-tv-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Cnn Espanol
+http://tecnotv.club/cono/smartv.php?id=cnn-espanol-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",rt noticias
+http://tecnotv.club/cono/smartv.php?id=rt-noticias-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Fox Premium Movies
+http://tecnotv.club/cono/smartv.php?id=fox-premium-movies-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Fox Premium Family
+http://tecnotv.club/cono/smartv.php?id=fox-premium-family-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",FX
+http://tecnotv.club/cono/smartv.php?id=fx-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",FXM
+http://tecnotv.club/cono/smartv.php?id=fxm-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Fox Life
+http://tecnotv.club/cono/smartv.php?id=fox-life-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Golden Plus
+http://tecnotv.club/cono/smartv.php?id=golden-plus-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",goldenedge
+http://tecnotv.club/cono/smartv.php?id=golden-edge-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Golden Premier
+http://tecnotv.club/cono/smartv.php?id=golden-premier-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",hboplus
+http://tecnotv.club/cono/smartv.php?id=hbo-plus-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",HBO Family
+http://tecnotv.club/cono/smartv.php?id=hbo-family-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",HBO Xtreme
+http://tecnotv.club/cono/smartv.php?id=hbo-xtreme-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",HBO POP
+http://tecnotv.club/cono/smartv.php?id=hbo-pop-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",TNT Series
+http://tecnotv.club/cono/smartv.php?id=tnt-series-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",canal sony
+http://tecnotv.club/cono/smartv.php?id=canal-sony-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",axn
+http://tecnotv.club/cono/smartv.php?id=axn-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Universal Channel
+http://tecnotv.club/cono/smartv.php?id=universal-channel-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Studio Universal
+http://tecnotv.club/cono/smartv.php?id=studio-universal-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Multi Premier
+http://tecnotv.club/cono/smartv.php?id=multi-premier-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",AMC
+http://tecnotv.club/cono/smartv.php?id=amc-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Paramount Channel
+http://tecnotv.club/cono/smartv.php?id=paramount-channel-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Cine Latino
+http://tecnotv.club/cono/smartv.php?id=cine-latino-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Dpelicula
+http://tecnotv.club/cono/smartv.php?id=dpelicula-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Isat
+http://tecnotv.club/cono/smartv.php?id=isat-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",MTV
+http://tecnotv.club/cono/smartv.php?id=mtv-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",MTV Hits
+http://tecnotv.club/cono/smartv.php?id=mtv-hits-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",HTV
+http://tecnotv.club/cono/smartv.php?id=htv-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Bandamax
+http://tecnotv.club/cono/smartv.php?id=bandamax-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Comedy Central
+http://tecnotv.club/cono/smartv.php?id=comedy-central-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",National Geographic
+http://tecnotv.club/cono/smartv.php?id=national-geographic-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Nat Geo Wild
+http://tecnotv.club/cono/smartv.php?id=nat-geo-wild-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",animalplanet
+http://tecnotv.club/cono/smartv.php?id=animal-planet-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Discovery Channel
+http://tecnotv.club/cono/smartv.php?id=discovery-channel-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Discovery Turbo
+http://tecnotv.club/cono/smartv.php?id=discovery-turbo-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",discoveryhyh
+http://tecnotv.club/cono/smartv.php?id=discovery-home-and-health-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",ID Investigation
+http://tecnotv.club/cono/smartv.php?id=id-investigation-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Discovery A&amp;E
+http://tecnotv.club/cono/smartv.php?id=discovery-a-y-e-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Discovery TLC
+http://tecnotv.club/cono/smartv.php?id=discovery-tlc-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Discovery Theater
+http://tecnotv.club/cono/smartv.php?id=discovery-theater-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Discovery World
+http://tecnotv.club/cono/smartv.php?id=discovery-world-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",everything
+http://tecnotv.club/cono/smartv.php?id=everything-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Lifetime
+http://tecnotv.club/cono/smartv.php?id=lifetime-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",TBS
+http://tecnotv.club/cono/smartv.php?id=tbs-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",el gourmet
+http://tecnotv.club/cono/smartv.php?id=el-gourmet-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Disney Channel
+http://tecnotv.club/cono/smartv.php?id=disney-channel-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Disney xD
+http://tecnotv.club/cono/smartv.php?id=disney-xd-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Disney Junior
+http://tecnotv.club/cono/smartv.php?id=disney-junior-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",nick
+http://tecnotv.club/cono/smartv.php?id=nick-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",nick2
+http://tecnotv.club/cono/smartv.php?id=nick-2-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",nick jr
+http://tecnotv.club/cono/smartv.php?id=nick-jr-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",nicktoons
+http://tecnotv.club/cono/smartv.php?id=nicktoons-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Cartoon Network
+http://tecnotv.club/cono/smartv.php?id=cartoon-network-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Boomerang
+http://tecnotv.club/cono/smartv.php?id=boomerang-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Tooncast
+http://tecnotv.club/cono/smartv.php?id=tooncast-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Discovery Kids
+http://tecnotv.club/cono/smartv.php?id=discovery-kids-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Nat Geo Kids
+http://tecnotv.club/cono/smartv.php?id=nat-geo-kids-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Boing
+http://tecnotv.club/cono/smartv.php?id=boing-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Vh1
+http://tecnotv.club/cono/smartv.php?id=vh1-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Vh1 Classic
+http://tecnotv.club/cono/smartv.php?id=vh1-classic-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",TELEHIT
+http://tecnotv.club/cono/smartv.php?id=telehit-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",Top Latino
+http://tecnotv.club/cono/smartv.php?id=top-latino-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",WWE Network
+http://tecnotv.club/cono/smartv.php?id=wwe-network-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",NBA
+http://tecnotv.club/cono/smartv.php?id=nba-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PREMIUM TV",NFL Network
+http://tecnotv.club/cono/smartv.php?id=nfl-network-en-vivo&f=.m3u8
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://images.pluto.tv/assets/images/default/channel.id-featured-default.jpg",Pluto Tv
+http://tecnotv.club/cono/pluto.php?c=5e793a7cfbdf780007f7eb75
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://images.pluto.tv/channels/5ddc4e8bcbb9010009b4e84f/featuredImage.jpg",Cine Suspenso
+http://tecnotv.club/cono/pluto.php?c=5ddc4e8bcbb9010009b4e84f
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/featuredImage.jpg",Cine Accion
+http://tecnotv.club/cono/pluto.php?c=5dcb62e63d4d8f0009f36881
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/featuredImage.jpg",Estrellas en Acci贸n
+http://tecnotv.club/cono/pluto.php?c=5e972a21ad709d00074195ba
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/featuredImage.jpg",Cine Comedia
+http://tecnotv.club/cono/pluto.php?c=5dcdde78f080d900098550e4
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/featuredImage.jpg",Cine Terror
+http://tecnotv.club/cono/pluto.php?c=5dcddf1ed95e740009fef7ab
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://images.pluto.tv/channels/5dcddfbdb7cf0e0009ae09ea/featuredImage.jpg",Viajes
+http://tecnotv.club/cono/pluto.php?c=5dcddfbdb7cf0e0009ae09ea
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://images.pluto.tv/channels/5dcddfcb229eff00091b6bdf/featuredImage.jpg",Cine Drama
+http://tecnotv.club/cono/pluto.php?c=5dcddfcb229eff00091b6bdf
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/featuredImage.jpg",Cocina
+http://tecnotv.club/cono/pluto.php?c=5dcde0657444a40009cd2422
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/featuredImage.jpg",Deportes
+http://tecnotv.club/cono/pluto.php?c=5dcde07af1c85b0009b18651
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/featuredImage.jpg",Novelas
+http://tecnotv.club/cono/pluto.php?c=5dcde0cc2efd2700090b7ff4
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://images.pluto.tv/channels/5dcde1317578340009b751d0/featuredImage.jpg",Series
+http://tecnotv.club/cono/pluto.php?c=5dcde1317578340009b751d0
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/featuredImage.jpg",Anime
+http://tecnotv.club/cono/pluto.php?c=5dcde17bf6591d0009839e02
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://images.pluto.tv/channels/5dcde197f6591d0009839e04/featuredImage.jpg",Reality
+http://tecnotv.club/cono/pluto.php?c=5dcde197f6591d0009839e04
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/featuredImage.jpg",Investiga
+http://tecnotv.club/cono/pluto.php?c=5dcde27ffae9520009c0c75a
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/featuredImage.jpg",Junior
+http://tecnotv.club/cono/pluto.php?c=5dcde2ac4bc6c500094ab45b
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/featuredImage.jpg",Cine Estelar
+http://tecnotv.club/cono/pluto.php?c=5dcde437229eff00091b6c30
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://images.pluto.tv/channels/5dd6ab8056beb000091fc6b6/featuredImage.jpg",Hogar
+http://tecnotv.club/cono/pluto.php?c=5dd6ab8056beb000091fc6b6
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://images.pluto.tv/channels/5dd6d935d000120009bc1132/featuredImage.jpg",Competencias
+http://tecnotv.club/cono/pluto.php?c=5dd6d935d000120009bc1132
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/featuredImage.jpg",Kids
+http://tecnotv.club/cono/pluto.php?c=5dd6dae8ce788b0009eaf77b
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/featuredImage.jpg",Velocidad
+http://tecnotv.club/cono/pluto.php?c=5dd6dc7480e3550009133d4a
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/featuredImage.jpg",Cine Familia
+http://tecnotv.club/cono/pluto.php?c=5dd6ddb30a1d8a000908ed4c
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://images.pluto.tv/channels/5dd6de52b9914200091f047a/featuredImage.jpg",Teen
+http://tecnotv.club/cono/pluto.php?c=5dd6de52b9914200091f047a
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/featuredImage.jpg",Cine Romance
+http://tecnotv.club/cono/pluto.php?c=5dd7ea2aeab5230009986735
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/featuredImage.jpg",Animales
+http://tecnotv.club/cono/pluto.php?c=5dd834c66fe2ca0009303b8d
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://images.pluto.tv/channels/5dd837642c6e9300098ad484/featuredImage.jpg",Series Latinas
+http://tecnotv.club/cono/pluto.php?c=5dd837642c6e9300098ad484
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/featuredImage.jpg",Naturaleza
+http://tecnotv.club/cono/pluto.php?c=5dd85eac039bba0009e86d1d
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/featuredImage.jpg",Nick Clasico
+http://tecnotv.club/cono/pluto.php?c=5ddd7c348520b40009c347e2
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/featuredImage.jpg",Nick Jr Club
+http://tecnotv.club/cono/pluto.php?c=5ddd7cb2cbb9010009b4fe32
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://images.pluto.tv/channels/5de58ef515635d00091f605d/featuredImage.jpg",Degrassi
+http://tecnotv.club/cono/pluto.php?c=5de58ef515635d00091f605d
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/featuredImage.jpg",Series Retro
+http://tecnotv.club/cono/pluto.php?c=5de802659167b10009e7deba
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://images.pluto.tv/channels/5de91b7ea86ee60009d89e75/featuredImage.jpg",Mtv Classic
+http://tecnotv.club/cono/pluto.php?c=5de91b7ea86ee60009d89e75
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/featuredImage.jpg",Telefe clasico
+http://tecnotv.club/cono/pluto.php?c=5de91cf02fc07c0009910465
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/featuredImage.jpg",Cine
+http://tecnotv.club/cono/pluto.php?c=5defde6d6c07b50009cf0757
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/featuredImage.jpg",MasterChef
+http://tecnotv.club/cono/pluto.php?c=5e3ddbd27091820009f86dd9
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://images.pluto.tv/channels/5e3ddd1a3ef73b00091d5779/featuredImage.jpg",Futbol para Fans
+http://tecnotv.club/cono/pluto.php?c=5e3ddd1a3ef73b00091d5779
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://images.pluto.tv/channels/5e46e64dc73db400094b5f0b/featuredImage.jpg",Minuto para Ganar
+http://tecnotv.club/cono/pluto.php?c=5e46e64dc73db400094b5f0b
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://images.pluto.tv/channels/5e67d41b93312100076f3fca/featuredImage.jpg",Los archivos del FBI
+http://tecnotv.club/cono/pluto.php?c=5e67d41b93312100076f3fca
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://images.pluto.tv/channels/5e67e20c93312100076f3ffe/featuredImage.jpg",BABAR
+http://tecnotv.club/cono/pluto.php?c=5e67e20c93312100076f3ffe
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/featuredImage.jpg",Anime Accion
+http://tecnotv.club/cono/pluto.php?c=5e6a4d875d7ccf0007cc2cf1
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://images.pluto.tv/channels/5e8f8e7598841d0007bf35b3/featuredImage.jpg",Comedy Central Stand-Up
+http://tecnotv.club/cono/pluto.php?c=5e8f8e7598841d0007bf35b3
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://images.pluto.tv/channels/5e98b0447665f200078caded/featuredImage.jpg",Peleas
+http://tecnotv.club/cono/pluto.php?c=5e98b0447665f200078caded
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://images.pluto.tv/channels/5ea71d48af1d0b0007d837f4/featuredImage.jpg",The New Detectives
+http://tecnotv.club/cono/pluto.php?c=5ea71d48af1d0b0007d837f4
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/featuredImage.jpg",Rugrats Crecidos
+http://tecnotv.club/cono/pluto.php?c=5ea7215005d66d0007e8128a
+#EXTINF:-1 group-title="PLUTO TV" tvg-logo="https://images.pluto.tv/channels/5ec5761aabe4690007f6e047/featuredImage.jpg",cono Trek
+http://tecnotv.club/cono/pluto.php?c=5ec5761aabe4690007f6e047
 #EXTINF:-1 group-title="BIG BROTHER BRASIL" tvg-logo="https://capricho.abril.com.br/wp-content/uploads/2019/10/big-brother-brasil.png?w=620",[COLOR green]//////////BIG BROTHER BRASIL//////////[/COLOR]
 http://23.23.1.1
 #EXTINF:-1 ,AQUECIMENTO BBB 2021
@@ -12737,14 +13081,6 @@ http://tv.factoryiptv.com:80/jurema10/jurema10/36902
 http://tv.factoryiptv.com:80/jurema10/jurema10/36903
 #EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://i.imgur.com/8d0cM31.png",Premiere 6 HD
 http://tv.factoryiptv.com:80/jurema10/jurema10/36906
-#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Sexy Hot
-http://tv.factoryiptv.com:80/jurema10/jurema10/37009
-#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Venus
-http://tv.factoryiptv.com:80/jurema10/jurema10/37026
-#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Sextreme
-http://tv.factoryiptv.com:80/jurema10/jurema10/37047
-#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Playboy TV
-http://tv.factoryiptv.com:80/jurema10/jurema10/37061
 #EXTINF:-1 group-title="Canais | 24 Horas Infantil" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/e/e7/Galinha_Pintadinha.png/255px-Galinha_Pintadinha.png",Galinha Pintadinha [24h]
 http://tv.factoryiptv.com:80/jurema10/jurema10/39570
 #EXTINF:-1 group-title="Canais | 24 Horas Infantil" tvg-logo="http://1.bp.blogspot.com/-ksg1L-EuEJ0/UxfPcWiYZNI/AAAAAAAABi0/PFDR7T8OY2c/s1600/turma-da-monica.png",Turma da Monica [24h]
@@ -12821,10 +13157,6 @@ http://tv.factoryiptv.com:80/jurema10/jurema10/40074
 http://tv.factoryiptv.com:80/jurema10/jurema10/40120
 #EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a21e5d497fe0f1fc302afd7f02082730.jpg",TV Câmara
 http://tv.factoryiptv.com:80/jurema10/jurema10/40189
-#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Jasmin TV
-http://tv.factoryiptv.com:80/jurema10/jurema10/40305
-#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Playboy TV HD
-http://tv.factoryiptv.com:80/jurema10/jurema10/40749
 #EXTINF:-1 group-title="Canais | Filmes e Series" tvg-logo="http://wp.tvmap.com.br/Images/ch/608.jpg",Film&Arts
 http://tv.factoryiptv.com:80/jurema10/jurema10/41374
 #EXTINF:-1 group-title="Canais | Full HD" tvg-logo="https://skyassineonline.com.br/img/channels/lg-295-canal-disney-junior-hd.png",Disney Junior FHD
@@ -12843,30 +13175,6 @@ http://tv.factoryiptv.com:80/jurema10/jurema10/42572
 http://tv.factoryiptv.com:80/jurema10/jurema10/42577
 #EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="https://www.nos.pt/particulares/televisao/canais/PublishingImages/alteracoes-canais-1agosto/medium_amc.jpg",AMC FHD [ALT]
 http://tv.factoryiptv.com:80/jurema10/jurema10/50636
-#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] PLAYBOY H265
-http://tv.factoryiptv.com:80/jurema10/jurema10/51258
-#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] ADULTO 1
-http://tv.factoryiptv.com:80/jurema10/jurema10/52276
-#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] ADULTO 2
-http://tv.factoryiptv.com:80/jurema10/jurema10/52278
-#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] ADULTO 3
-http://tv.factoryiptv.com:80/jurema10/jurema10/52279
-#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] ADULTO 4
-http://tv.factoryiptv.com:80/jurema10/jurema10/52280
-#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] ADULTO 5
-http://tv.factoryiptv.com:80/jurema10/jurema10/52281
-#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] ADULTO 7
-http://tv.factoryiptv.com:80/jurema10/jurema10/52282
-#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] ADULTO 8
-http://tv.factoryiptv.com:80/jurema10/jurema10/52283
-#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] ADULTO 9
-http://tv.factoryiptv.com:80/jurema10/jurema10/52284
-#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] ADULTO 10
-http://tv.factoryiptv.com:80/jurema10/jurema10/52285
-#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Miami TV Latina
-http://tv.factoryiptv.com:80/jurema10/jurema10/56406
-#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Jasmin HD
-http://tv.factoryiptv.com:80/jurema10/jurema10/56409
 #EXTINF:-1 group-title="Canais | 24 Horas Infantil" tvg-logo="https://is.gd/9CYvO4",NARUTO 24HS
 http://tv.factoryiptv.com:80/jurema10/jurema10/56465
 #EXTINF:-1 group-title="Canais | 24 Horas Variados" tvg-logo="https://is.gd/4eYbcQ",Todo Mundo Odeia o Chris
@@ -12877,26 +13185,6 @@ http://tv.factoryiptv.com:80/jurema10/jurema10/56468
 http://tv.factoryiptv.com:80/jurema10/jurema10/56470
 #EXTINF:-1 group-title="Canais | 24 Horas Infantil" tvg-logo="https://is.gd/y2yCIi",Incrível Hulk 24HS
 http://tv.factoryiptv.com:80/jurema10/jurema10/56623
-#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] ADULTO 11
-http://tv.factoryiptv.com:80/jurema10/jurema10/57091
-#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] ADULTO 12
-http://tv.factoryiptv.com:80/jurema10/jurema10/57092
-#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] ADULTO 13
-http://tv.factoryiptv.com:80/jurema10/jurema10/57095
-#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] ADULTO 14
-http://tv.factoryiptv.com:80/jurema10/jurema10/57097
-#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] ADULTO 15
-http://tv.factoryiptv.com:80/jurema10/jurema10/57098
-#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] ADULTO 16
-http://tv.factoryiptv.com:80/jurema10/jurema10/57099
-#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] ADULTO 17
-http://tv.factoryiptv.com:80/jurema10/jurema10/57100
-#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] ADULTO 18
-http://tv.factoryiptv.com:80/jurema10/jurema10/57101
-#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] ADULTO 19
-http://tv.factoryiptv.com:80/jurema10/jurema10/57102
-#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Adulto 20
-http://tv.factoryiptv.com:80/jurema10/jurema10/57113
 #EXTINF:-1 group-title="Canais | 24 Horas Variados" tvg-logo="https://is.gd/OHxlFJ",Homens de Preto 24HS
 http://tv.factoryiptv.com:80/jurema10/jurema10/57186
 #EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-senado-logo.png",TV Senado
@@ -13063,22 +13351,6 @@ http://tv.factoryiptv.com:80/jurema10/jurema10/62392
 http://tv.factoryiptv.com:80/jurema10/jurema10/62537
 #EXTINF:-1 group-title="Canais | 24 Horas Variados" tvg-logo="https://media.fstatic.com/CggA48sYIhqvq4tJOpnfqDCm2_4=/fit-in/290x478/smart/media/movies/covers/2015/07/apenas-um-show-1a-temporada_t45103.jpg",Apenas Um Show 24h
 http://tv.factoryiptv.com:80/jurema10/jurema10/62538
-#EXTINF:-1 group-title="Canais | Adultos [4K]" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Adulto 01 [4K]
-http://tv.factoryiptv.com:80/jurema10/jurema10/62617
-#EXTINF:-1 group-title="Canais | Adultos [4K]" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Adulto 02 [4K]
-http://tv.factoryiptv.com:80/jurema10/jurema10/62618
-#EXTINF:-1 group-title="Canais | Adultos [4K]" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Adulto 03 [4K]
-http://tv.factoryiptv.com:80/jurema10/jurema10/62619
-#EXTINF:-1 group-title="Canais | Adultos [4K]" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Adulto 04 [4K]
-http://tv.factoryiptv.com:80/jurema10/jurema10/62622
-#EXTINF:-1 group-title="Canais | Adultos [4K]" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Adulto 05 [4K]
-http://tv.factoryiptv.com:80/jurema10/jurema10/62623
-#EXTINF:-1 group-title="Canais | Adultos [4K]" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Adulto 06 [4K]
-http://tv.factoryiptv.com:80/jurema10/jurema10/62624
-#EXTINF:-1 group-title="Canais | Adultos [4K]" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Adulto 07 [4K]
-http://tv.factoryiptv.com:80/jurema10/jurema10/62625
-#EXTINF:-1 group-title="Canais | Adultos [4K]" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Adulto 08 [4K]
-http://tv.factoryiptv.com:80/jurema10/jurema10/62626
 #EXTINF:-1 group-title="Canais | 24 Horas Variados" tvg-logo="https://media.fstatic.com/sbhbB-vEyG2AM-awvq4TVBup5Bc=/fit-in/290x478/smart/media/movies/covers/2016/05/a-historia-de-deus_t204844.jpg",A historia de Deus com Morgan Freeman 1 24h
 http://tv.factoryiptv.com:80/jurema10/jurema10/62695
 #EXTINF:-1 group-title="Canais | 24 Horas Variados" tvg-logo="https://cinepop.com.br/wp-content/uploads/2018/11/hill-house-cinepop-750x380.jpg",A Maldicao da Residencia 24h
@@ -13209,7 +13481,7 @@ http://tv.factoryiptv.com:80/jurema10/jurema10/62823
 http://tv.factoryiptv.com:80/jurema10/jurema10/62825
 #EXTINF:-1 group-title="Canais | H.265 [01]" tvg-logo="https://i.imgur.com/xGzpPfe.jpg",WOOHOO H265
 http://tv.factoryiptv.com:80/jurema10/jurema10/62827
-#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] VENUS H265
+
 http://tv.factoryiptv.com:80/jurema10/jurema10/62828
 #EXTINF:-1 group-title="Canais | H.265 [01]" tvg-logo="https://i.imgur.com/xGzpPfe.jpg",FOX LIFE H265
 http://tv.factoryiptv.com:80/jurema10/jurema10/62829
@@ -13223,12 +13495,6 @@ http://tv.factoryiptv.com:80/jurema10/jurema10/62832
 http://tv.factoryiptv.com:80/jurema10/jurema10/62833
 #EXTINF:-1 group-title="Canais | H.265 [01]" tvg-logo="https://i.imgur.com/xGzpPfe.jpg",FUTURA H265
 http://tv.factoryiptv.com:80/jurema10/jurema10/62834
-#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] SEXTREME H265
-http://tv.factoryiptv.com:80/jurema10/jurema10/62835
-#EXTINF:-1 group-title="Canais | H.265 [01]" tvg-logo="https://i.imgur.com/xGzpPfe.jpg",FX H265
-http://tv.factoryiptv.com:80/jurema10/jurema10/62836
-#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] SEX HOT H265
-http://tv.factoryiptv.com:80/jurema10/jurema10/62837
 #EXTINF:-1 group-title="Canais | H.265 [01]" tvg-logo="https://i.imgur.com/xGzpPfe.jpg",SBT H265
 http://tv.factoryiptv.com:80/jurema10/jurema10/62838
 #EXTINF:-1 group-title="Canais | H.265 [01]" tvg-logo="https://i.imgur.com/xGzpPfe.jpg",RECORDTV H265
@@ -13495,23 +13761,7 @@ http://tv.factoryiptv.com:80/jurema10/jurema10/63072
 http://tv.factoryiptv.com:80/jurema10/jurema10/63073
 #EXTINF:-1 group-title="Canais | 24 Horas Infantil" tvg-logo="https://i.imgur.com/4KO0VLa.jpg",Patrulha Canina 24HS
 http://tv.factoryiptv.com:80/jurema10/jurema10/63074
-#EXTINF:-1 group-title="Canais | Adultos [4K]" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Adulto 09 [4K]
-http://tv.factoryiptv.com:80/jurema10/jurema10/63076
-#EXTINF:-1 group-title="Canais | Adultos [4K]" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Adulto 10 [4K]
-http://tv.factoryiptv.com:80/jurema10/jurema10/63078
-#EXTINF:-1 group-title="Canais | Adultos [4K]" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Adulto 11 [4K]
-http://tv.factoryiptv.com:80/jurema10/jurema10/63079
-#EXTINF:-1 group-title="Canais | Adultos [4K]" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Adulto 12 [4K]
-http://tv.factoryiptv.com:80/jurema10/jurema10/63080
-#EXTINF:-1 group-title="Canais | Adultos [4K]" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Adulto 13 [4K]
-http://tv.factoryiptv.com:80/jurema10/jurema10/63081
-#EXTINF:-1 group-title="Canais | Adultos [4K]" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Adulto 14 [4K]
-http://tv.factoryiptv.com:80/jurema10/jurema10/63082
-#EXTINF:-1 group-title="Canais | Adultos [4K]" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Adulto 15 [4k]
-http://tv.factoryiptv.com:80/jurema10/jurema10/63083
-#EXTINF:-1 group-title="Canais | Adultos [4K]" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Adulto 16  [4K]
-http://tv.factoryiptv.com:80/jurema10/jurema10/63084
-#EXTINF:-1 group-title="Canais | Stand Up" tvg-logo="https://centerstage-theater.com/wp-content/uploads/sites/4/2019/05/stand-up-comedy-neon-sign.jpg",Stand Up [20]
+
 http://tv.factoryiptv.com:80/jurema10/jurema10/63087
 #EXTINF:-1 group-title="Canais | Stand Up" tvg-logo="https://centerstage-theater.com/wp-content/uploads/sites/4/2019/05/stand-up-comedy-neon-sign.jpg",Stand Up [21]
 http://tv.factoryiptv.com:80/jurema10/jurema10/63088
@@ -13539,76 +13789,6 @@ http://tv.factoryiptv.com:80/jurema10/jurema10/63113
 http://tv.factoryiptv.com:80/jurema10/jurema10/63115
 #EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/hWeZFjv.jpg",DAZN 04 HD (A)
 http://tv.factoryiptv.com:80/jurema10/jurema10/63116
-#EXTINF:-1 group-title="Filmes | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Filme 01
-http://tv.factoryiptv.com:80/jurema10/jurema10/63119
-#EXTINF:-1 group-title="Filmes | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Filme 02
-http://tv.factoryiptv.com:80/jurema10/jurema10/63120
-#EXTINF:-1 group-title="Filmes | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Filme 03
-http://tv.factoryiptv.com:80/jurema10/jurema10/63121
-#EXTINF:-1 group-title="Filmes | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Filme 04
-http://tv.factoryiptv.com:80/jurema10/jurema10/63122
-#EXTINF:-1 group-title="Filmes | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Filme 05
-http://tv.factoryiptv.com:80/jurema10/jurema10/63123
-#EXTINF:-1 group-title="Filmes | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Filme 06
-http://tv.factoryiptv.com:80/jurema10/jurema10/63124
-#EXTINF:-1 group-title="Filmes | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Filme 07
-http://tv.factoryiptv.com:80/jurema10/jurema10/63125
-#EXTINF:-1 group-title="Filmes | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Filme 08
-http://tv.factoryiptv.com:80/jurema10/jurema10/63126
-#EXTINF:-1 group-title="Filmes | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Filme 09
-http://tv.factoryiptv.com:80/jurema10/jurema10/63127
-#EXTINF:-1 group-title="Filmes | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Filme 10
-http://tv.factoryiptv.com:80/jurema10/jurema10/63128
-#EXTINF:-1 group-title="Filmes | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Filme 11
-http://tv.factoryiptv.com:80/jurema10/jurema10/63129
-#EXTINF:-1 group-title="Filmes | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Filme 12
-http://tv.factoryiptv.com:80/jurema10/jurema10/63130
-#EXTINF:-1 group-title="Filmes | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Filme 13
-http://tv.factoryiptv.com:80/jurema10/jurema10/63131
-#EXTINF:-1 group-title="Filmes | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Filme 14
-http://tv.factoryiptv.com:80/jurema10/jurema10/63132
-#EXTINF:-1 group-title="Filmes | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Filme 15
-http://tv.factoryiptv.com:80/jurema10/jurema10/63133
-#EXTINF:-1 group-title="Filmes | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Filme 16
-http://tv.factoryiptv.com:80/jurema10/jurema10/63134
-#EXTINF:-1 group-title="Filmes | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Filme 17
-http://tv.factoryiptv.com:80/jurema10/jurema10/63135
-#EXTINF:-1 group-title="Filmes | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Filme 18
-http://tv.factoryiptv.com:80/jurema10/jurema10/63136
-#EXTINF:-1 group-title="Filmes | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Filme 19
-http://tv.factoryiptv.com:80/jurema10/jurema10/63137
-#EXTINF:-1 group-title="Filmes | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Filme 20
-http://tv.factoryiptv.com:80/jurema10/jurema10/63138
-#EXTINF:-1 group-title="Filmes | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Filme 21
-http://tv.factoryiptv.com:80/jurema10/jurema10/63139
-#EXTINF:-1 group-title="Filmes | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Filme 22
-http://tv.factoryiptv.com:80/jurema10/jurema10/63140
-#EXTINF:-1 group-title="Filmes | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Filme 23
-http://tv.factoryiptv.com:80/jurema10/jurema10/63141
-#EXTINF:-1 group-title="Filmes | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Filme 24
-http://tv.factoryiptv.com:80/jurema10/jurema10/63142
-#EXTINF:-1 group-title="Filmes | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Filme 25
-http://tv.factoryiptv.com:80/jurema10/jurema10/63143
-#EXTINF:-1 group-title="Filmes | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Filme 26
-http://tv.factoryiptv.com:80/jurema10/jurema10/63144
-#EXTINF:-1 group-title="Filmes | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Filme 27
-http://tv.factoryiptv.com:80/jurema10/jurema10/63145
-#EXTINF:-1 group-title="Filmes | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Filme 28
-http://tv.factoryiptv.com:80/jurema10/jurema10/63146
-#EXTINF:-1 group-title="Filmes | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Filme 29
-http://tv.factoryiptv.com:80/jurema10/jurema10/63147
-#EXTINF:-1 group-title="Filmes | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Filme 30
-http://tv.factoryiptv.com:80/jurema10/jurema10/63148
-#EXTINF:-1 group-title="Filmes | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Filme 31
-http://tv.factoryiptv.com:80/jurema10/jurema10/63149
-#EXTINF:-1 group-title="Filmes | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Filme 32
-http://tv.factoryiptv.com:80/jurema10/jurema10/63150
-#EXTINF:-1 group-title="Filmes | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Filme 33
-http://tv.factoryiptv.com:80/jurema10/jurema10/63151
-#EXTINF:-1 group-title="Filmes | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Filme 34
-http://tv.factoryiptv.com:80/jurema10/jurema10/63152
-#EXTINF:-1 group-title="Filmes | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Filme 35
-http://tv.factoryiptv.com:80/jurema10/jurema10/63153
 #EXTINF:-1 group-title="Canais | 24 Horas Infantil" tvg-logo="https://i.imgur.com/y7laK0E.jpg",SIMPSONS 24
 http://tv.factoryiptv.com:80/jurema10/jurema10/63174
 #EXTINF:-1 group-title="Canais | 24 Horas Infantil" tvg-logo="https://fanart.tv/fanart/tv/76711/hdtvlogo/jackie-chan-adventures-555d4e58ca744.png",Jack-Chan 24hs
@@ -13773,26 +13953,6 @@ http://tv.factoryiptv.com:80/jurema10/jurema10/63313
 http://tv.factoryiptv.com:80/jurema10/jurema10/63314
 #EXTINF:-1 group-title="Canais | Dual Audio" tvg-logo="http://i.imgur.com/GaQZSu6.png",FX | Dual Audio
 http://tv.factoryiptv.com:80/jurema10/jurema10/63316
-#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] BRASILEIRINHAS 01
-http://tv.factoryiptv.com:80/jurema10/jurema10/63355
-#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] BRASILEIRINHAS 02
-http://tv.factoryiptv.com:80/jurema10/jurema10/63356
-#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] BRASILEIRINHAS 03
-http://tv.factoryiptv.com:80/jurema10/jurema10/63357
-#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] BRASILEIRINHAS 04
-http://tv.factoryiptv.com:80/jurema10/jurema10/63358
-#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] BRASILEIRINHAS 05
-http://tv.factoryiptv.com:80/jurema10/jurema10/63359
-#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] BRASILEIRINHAS 06
-http://tv.factoryiptv.com:80/jurema10/jurema10/63360
-#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] BRASILEIRINHAS 07
-http://tv.factoryiptv.com:80/jurema10/jurema10/63361
-#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] BRASILEIRINHAS 08
-http://tv.factoryiptv.com:80/jurema10/jurema10/63362
-#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] BRASILEIRINHAS 09
-http://tv.factoryiptv.com:80/jurema10/jurema10/63363
-#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] BRASILEIRINHAS 10
-http://tv.factoryiptv.com:80/jurema10/jurema10/63364
 #EXTINF:-1 group-title="Canais | 24 Horas Infantil" tvg-logo="https://i.imgur.com/F1ZB2uD.png",Liga da Justica 24HS
 http://tv.factoryiptv.com:80/jurema10/jurema10/63381
 #EXTINF:-1 group-title="Canais | 24 Horas Infantil" tvg-logo="https://i.imgur.com/LFlLaOH.png",Bita e os Animais 24HS
@@ -13939,40 +14099,6 @@ http://tv.factoryiptv.com:80/jurema10/jurema10/63695
 http://tv.factoryiptv.com:80/jurema10/jurema10/63696
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://i.imgur.com/6xouXln.png",Band Goiânia HD
 http://tv.factoryiptv.com:80/jurema10/jurema10/63697
-#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] VIVID Red
-http://tv.factoryiptv.com:80/jurema10/jurema10/63699
-#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Shalun TV
-http://tv.factoryiptv.com:80/jurema10/jurema10/63700
-#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] SEXT6SENSO
-http://tv.factoryiptv.com:80/jurema10/jurema10/63701
-#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] SCT
-http://tv.factoryiptv.com:80/jurema10/jurema10/63702
-#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] RUSNOCH
-http://tv.factoryiptv.com:80/jurema10/jurema10/63703
-#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] REDLIGHT
-http://tv.factoryiptv.com:80/jurema10/jurema10/63704
-#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Private
-http://tv.factoryiptv.com:80/jurema10/jurema10/63705
-#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Pink-O
-http://tv.factoryiptv.com:80/jurema10/jurema10/63706
-#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] PentHouse Quickies
-http://tv.factoryiptv.com:80/jurema10/jurema10/63707
-#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] PentHouse Black
-http://tv.factoryiptv.com:80/jurema10/jurema10/63708
-#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Passion
-http://tv.factoryiptv.com:80/jurema10/jurema10/63709
-#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] EROXX
-http://tv.factoryiptv.com:80/jurema10/jurema10/63710
-#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Dorcel TV
-http://tv.factoryiptv.com:80/jurema10/jurema10/63711
-#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] CENTOXCENTO
-http://tv.factoryiptv.com:80/jurema10/jurema10/63712
-#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Candy
-http://tv.factoryiptv.com:80/jurema10/jurema10/63713
-#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Brazzers Europe
-http://tv.factoryiptv.com:80/jurema10/jurema10/63714
-#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Blue Hustler
-http://tv.factoryiptv.com:80/jurema10/jurema10/63715
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://i.imgur.com/1Zb1lr8.png",RecordTV Belém
 http://tv.factoryiptv.com:80/jurema10/jurema10/63716
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://i.imgur.com/1Zb1lr8.png",RecordTV Goias
@@ -14091,8 +14217,6 @@ http://tv.factoryiptv.com:80/jurema10/jurema10/63778
 http://tv.factoryiptv.com:80/jurema10/jurema10/63779
 #EXTINF:-1 group-title="Canais | Full HD" tvg-logo="https://prnt.sc/twv5hi",Rede Gospel FHD
 http://tv.factoryiptv.com:80/jurema10/jurema10/63781
-#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Sextream HD
-http://tv.factoryiptv.com:80/jurema10/jurema10/63782
 #EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Shoptime_logo.svg/1280px-Shoptime_logo.svg.png",Shoptime HD
 http://tv.factoryiptv.com:80/jurema10/jurema10/63783
 #EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png",Sic TV
@@ -14113,8 +14237,6 @@ http://tv.factoryiptv.com:80/jurema10/jurema10/64378
 http://tv.factoryiptv.com:80/jurema10/jurema10/64379
 #EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://i.imgur.com/bYUGfOo.png",FoxSports [4K]
 http://tv.factoryiptv.com:80/jurema10/jurema10/64380
-#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Porno 24H
-http://tv.factoryiptv.com:80/jurema10/jurema10/64381
 #EXTINF:-1 group-title="Canais | Shows" tvg-logo="https://i.imgur.com/kblGYAL.png",[SHOW] 3 horas de Alok
 http://tv.factoryiptv.com:80/jurema10/jurema10/64444
 #EXTINF:-1 group-title="Canais | Shows" tvg-logo="https://i.imgur.com/kblGYAL.png",[SHOW] 3 HORAS DAS MAIS TOCADAS SERTANEJO
@@ -14453,24 +14575,12 @@ http://tv.factoryiptv.com:80/jurema10/jurema10/69171
 http://tv.factoryiptv.com:80/jurema10/jurema10/69172
 #EXTINF:-1 group-title="Canais | Cine MP" tvg-logo="https://i.imgur.com/fiBjafV.png",Cine MP Terror 04
 http://tv.factoryiptv.com:80/jurema10/jurema10/69173
-#EXTINF:-1 group-title="Canais | Adultos [4K]" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Adulto 17 [4K]
-http://tv.factoryiptv.com:80/jurema10/jurema10/69330
-#EXTINF:-1 group-title="Canais | Adultos [4K]" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Adulto 18 [4K]
-http://tv.factoryiptv.com:80/jurema10/jurema10/69331
-#EXTINF:-1 group-title="Canais | Adultos [4K]" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Adulto 19 [4K]
-http://tv.factoryiptv.com:80/jurema10/jurema10/69332
-#EXTINF:-1 group-title="Canais | Adultos [4K]" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Adulto 20 [4K]
-http://tv.factoryiptv.com:80/jurema10/jurema10/69333
 #EXTINF:-1 group-title="Canais | 24 Horas Infantil" tvg-logo="https://img.elo7.com.br/product/zoom/1888F38/painel-2x1-power-ranger-megaforce.jpg",Power Ranger 24HS
 http://tv.factoryiptv.com:80/jurema10/jurema10/69335
 #EXTINF:-1 group-title="Canais | Legendados" tvg-logo="https://i.imgur.com/ANiatwo.png",Fox Premium 1 LEG
 http://tv.factoryiptv.com:80/jurema10/jurema10/69336
 #EXTINF:-1 group-title="Canais | Legendados" tvg-logo="https://i.imgur.com/WgobCjU.png",Fox Premium 2 LEG
 http://tv.factoryiptv.com:80/jurema10/jurema10/69337
-#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Adulto 21
-http://tv.factoryiptv.com:80/jurema10/jurema10/69517
-#EXTINF:-1 group-title="Canais | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Adulto 22
-http://tv.factoryiptv.com:80/jurema10/jurema10/69518
 #EXTINF:-1 group-title="Canais | Stand Up" tvg-logo="https://centerstage-theater.com/wp-content/uploads/sites/4/2019/05/stand-up-comedy-neon-sign.jpg",Stand Up [25]
 http://tv.factoryiptv.com:80/jurema10/jurema10/69580
 #EXTINF:-1 group-title="Canais | Stand Up" tvg-logo="https://centerstage-theater.com/wp-content/uploads/sites/4/2019/05/stand-up-comedy-neon-sign.jpg",Stand Up [26]
@@ -14659,26 +14769,6 @@ http://tv.factoryiptv.com:80/jurema10/jurema10/72814
 http://tv.factoryiptv.com:80/jurema10/jurema10/72815
 #EXTINF:-1 group-title="Globos | Regionais" tvg-logo="http://i.imgur.com/ozxkJhG.png",Globo Goiânia FHD
 http://tv.factoryiptv.com:80/jurema10/jurema10/72816
-#EXTINF:-1 group-title="Filmes | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Filme 36
-http://tv.factoryiptv.com:80/jurema10/jurema10/72861
-#EXTINF:-1 group-title="Filmes | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Filme 37
-http://tv.factoryiptv.com:80/jurema10/jurema10/72862
-#EXTINF:-1 group-title="Filmes | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Filme 38
-http://tv.factoryiptv.com:80/jurema10/jurema10/72864
-#EXTINF:-1 group-title="Filmes | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Filme 39
-http://tv.factoryiptv.com:80/jurema10/jurema10/72865
-#EXTINF:-1 group-title="Filmes | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Filme 40
-http://tv.factoryiptv.com:80/jurema10/jurema10/72866
-#EXTINF:-1 group-title="Filmes | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Filme 41
-http://tv.factoryiptv.com:80/jurema10/jurema10/72867
-#EXTINF:-1 group-title="Filmes | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Filme 42
-http://tv.factoryiptv.com:80/jurema10/jurema10/72868
-#EXTINF:-1 group-title="Filmes | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Filme 43
-http://tv.factoryiptv.com:80/jurema10/jurema10/72869
-#EXTINF:-1 group-title="Filmes | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Filme 44
-http://tv.factoryiptv.com:80/jurema10/jurema10/72870
-#EXTINF:-1 group-title="Filmes | Adultos" tvg-logo="https://i.imgur.com/27nxhGn.png",[XX] Filme 45
-http://tv.factoryiptv.com:80/jurema10/jurema10/72871
 #EXTINF:-1 group-title="Globos | Regionais" tvg-logo="http://i.imgur.com/ozxkJhG.png",Globo Salvador
 http://tv.factoryiptv.com:80/jurema10/jurema10/72888
 #EXTINF:-1 group-title="Globos | Regionais" tvg-logo="https://i.imgur.com/ozxkJhG.png",Globo Salvador HD
