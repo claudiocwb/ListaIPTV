@@ -5677,6 +5677,61 @@ http://tv.factoryiptv.com:80/jurema10/jurema10/37037
 http://fonteangelusiptv.com:25461/c42fae920747/c42fae92/178576
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tcm.png",TCM SD ALT
 http://fonteangelusiptv.com:25461/c42fae920747/c42fae92/178577
+#EXTM3U
+#EXTINF:-1 ,AMC
+http://rec2.distv.net:80/plinio/123/223
+#EXTINF:-1 ,BIS
+http://rec2.distv.net:80/plinio/123/120
+#EXTINF:-1 ,BOOMERANG
+http://rec2.distv.net:80/plinio/123/121
+#EXTINF:-1 ,CULTURA
+http://rec2.distv.net:80/plinio/123/128
+#EXTINF:-1 ,CURTA
+http://rec2.distv.net:80/plinio/123/129
+#EXTINF:-1 ,DAZN
+http://rec2.distv.net:80/plinio/123/226
+#EXTINF:-1 ,DISCOVERY CHANNEL
+http://rec2.distv.net:80/plinio/123/130
+#EXTINF:-1 ,DISCOVERY WORLD
+http://rec2.distv.net:80/plinio/123/137
+#EXTINF:-1 ,DISNEY CHANNEL
+http://rec2.distv.net:80/plinio/123/138
+#EXTINF:-1 ,ESPN BRASIL
+http://rec2.distv.net:80/plinio/123/144
+#EXTINF:-1 ,ESPN EXTRA
+http://rec2.distv.net:80/plinio/123/145
+#EXTINF:-1 ,FISH TV
+http://rec2.distv.net:80/plinio/123/146
+#EXTINF:-1 ,FOOD NETWORK
+http://rec2.distv.net:80/plinio/123/147
+#EXTINF:-1 ,FUTURA
+http://rec2.distv.net:80/plinio/123/228
+#EXTINF:-1 ,GLOBO NATAL HD
+http://rec2.distv.net:80/plinio/123/7
+#EXTINF:-1 ,GLOOBINHO
+http://rec2.distv.net:80/plinio/123/215
+#EXTINF:-1 ,HBO SIGNATURE
+http://rec2.distv.net:80/plinio/123/162
+#EXTINF:-1 ,HBO XTREME
+http://rec2.distv.net:80/plinio/123/163
+#EXTINF:-1 ,MAIS GLOBOSAT
+http://rec2.distv.net:80/plinio/123/235
+#EXTINF:-1 ,MEGAPIX
+http://rec2.distv.net:80/plinio/123/168
+#EXTINF:-1 ,PRIME BOX BRAZIL
+http://rec2.distv.net:80/plinio/123/185
+#EXTINF:-1 ,RECORD BAHIA
+http://rec2.distv.net:80/plinio/123/23
+#EXTINF:-1 ,RECORD BRASILIA
+http://rec2.distv.net:80/plinio/123/25
+#EXTINF:-1 ,STUDIO UNIVERSAL
+http://rec2.distv.net:80/plinio/123/191
+#EXTINF:-1 ,SYFY
+http://rec2.distv.net:80/plinio/123/192
+#EXTINF:-1 ,TBS
+http://rec2.distv.net:80/plinio/123/193
+#EXTINF:-1 ,TV CIDADE-CARIRI CE
+http://rec2.distv.net:80/plinio/123/94
 #EXTINF:-1 ,CINE PIPOCA 1
 http://xcui.vitvabc.xyz:8880/12345/54321/20889
 #EXTINF:-1 ,CINE PIPOCA 2
