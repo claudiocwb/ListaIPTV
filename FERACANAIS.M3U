@@ -13,6 +13,24 @@ http://23.23.1.1
 CANAIS ABERTOS
 
 
+BBB
+
+#EXTINF:-1 tvg-id="BBB" tvg-name="BBB" tvg-logo="https://files.nsctotal.com.br/s3fs-public/graphql-upload-files/25458514.jpg?snLKk.Ogg7Mp.jEW0GxhvlSy4pyemnOJ" group-title="BBB",MOSAICO
+https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/bbb21mosaico_6765c043_d17ca7d989ceda93719c715b45121d30fd9791d7/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiNDUuMTY2LjI0OC4xOTEiO2k6MTtzOjExNToiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg4LjAuNDMyNC4xNDYgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxMjU5NDYwMTt9
+
+
+
+
+
+BBB
+
+#EXTINF:-1 tvg-id="BBB" tvg-name="BBB" tvg-logo="https://files.nsctotal.com.br/s3fs-public/graphql-upload-files/25458514.jpg?snLKk.Ogg7Mp.jEW0GxhvlSy4pyemnOJ" group-title="BBB",ACOMPANHE A CASA
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/bbb21.m3u8?mu3zAQc9HC3GbwJq=Zzwg7MwONPmtTdlkMSj57Q&3U1G7qaTxrPbalZnEx=1612611759
+
+
+
+
+
 BAND
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://bit.ly/3aC3Qtk" group-title="ABERTOS",BAND
@@ -467,6 +485,66 @@ VIVA
 
 #EXTINF:-1 tvg-id="VIVA" tvg-name="VIVA" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/viva.png" group-title="VARIEDADES",VIVA
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/viva.m3u8?mu3zAQc9HC3GbwJq=tbtT6IhKRjFgz-069AtTxQ&3U1G7qaTxrPbalZnEx=1612606355
+
+
+FISH TV
+
+#EXTINF:-1 tvg-id="FISH TV" tvg-name="FISH TV" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/fishtv.png" group-title="VARIEDADES",FISH TV
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/fishtv.m3u8?mu3zAQc9HC3GbwJq=kJcckYWTUGtbptc5FB3AWQ&3U1G7qaTxrPbalZnEx=1612608227
+
+
+
+ESPORTES
+
+BAND SPORTS
+
+#EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/bandsports.png" group-title="ESPORTES",BAND SPORTS
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/bandsports.m3u8?mu3zAQc9HC3GbwJq=d2OIIgMQybKydSD2J6D7uw&3U1G7qaTxrPbalZnEx=1612612337
+
+
+
+COMBATE
+
+#EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE" tvg-logo="https://t2.tudocdn.net/335200?w=646&h=284" group-title="ESPORTES",COMBATE
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/combate.m3u8?mu3zAQc9HC3GbwJq=fKVdfNoJ34orrjl2884iMg&3U1G7qaTxrPbalZnEx=1612613266
+
+
+ESPN
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/espn.png" group-title="ESPORTES",ESPN
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/espn.m3u8?mu3zAQc9HC3GbwJq=r3MaaxwOsYLOazXkhfgedw&3U1G7qaTxrPbalZnEx=1612612513
+
+
+
+ESPN BRASIL
+
+#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/espnbrasil.png" group-title="ESPORTES",ESPN BRASIL
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/espnbrasil_2a459380_344661e062e2ec165a4ece9f4189463151576485/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiNDUuMTY2LjI0OC4xOTEiO2k6MTtzOjExNToiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg4LjAuNDMyNC4xNDYgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxMjU5ODMzMTt9
+
+
+
+ESPN2
+
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/12/espn2.png" group-title="ESPORTES",ESPN 2
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/espn2.m3u8?mu3zAQc9HC3GbwJq=MrILN3zn3ZFkkZ6_-wjt6A&3U1G7qaTxrPbalZnEx=1612612918
+
+
+ESPN EXTRA
+
+#EXTINF:-1 tvg-id="ESPN EXTRA" tvg-name="ESPN EXTRA" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/espn.pnghttps://aovivo.gratis/wp-content/uploads/2019/12/espnextra.png" group-title="ESPORTES",ESPN EXTRA
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/espnextra.m3u8?mu3zAQc9HC3GbwJq=sY6ERD0N6ECtRT-t5BYPCA&3U1G7qaTxrPbalZnEx=1612613195
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
