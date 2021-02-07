@@ -3,10 +3,15 @@
 
 CANAIS BRASILEIROS
 
-
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/09/34/3d/09343d16ea4888d95790a36ec321d104.jpg" group-title="CANAIS DO BRASIL", [COLOR green]//////////CANAIS EM PORTUGUÊS BR//////////[/COLOR]
 http://23.23.1.1
 
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/09/34/3d/09343d16ea4888d95790a36ec321d104.jpg" group-title="CANAIS DO BRASIL", [COLOR white]///CANAIS abertos///[/COLOR]
+http://23.23.1.1
 
 CANAIS ABERTOS
 
@@ -94,6 +99,19 @@ https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/globosp_cfe21c68_8fad452de0e2
 http://tvbrasil.site:25461/free/free/237
 
 #################################################################################
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/09/34/3d/09343d16ea4888d95790a36ec321d104.jpg" group-title="CANAIS DOCUMENTARIOS", [COLOR white]///DOCUMENTARIOS///[/COLOR]
+http://23.23.1.1
+
+
+
+
+
+
+
 
 DOCUMENTÁRIOS
 
@@ -210,6 +228,12 @@ http://tvbrasil.site:25461/free/free/482
 
 #EXTINF:-1 tvg-id="TLC ALT" tvg-name="TLC ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/tlchd.png" group-title="DOCUMENTARIOS",TLC ALT
 http://tvbrasil.site:25461/free/free/484
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/09/34/3d/09343d16ea4888d95790a36ec321d104.jpg" group-title="CANAIS FILMES", [COLOR white]///FILMES///[/COLOR]
+http://23.23.1.1
 
 
 FILMES
@@ -524,6 +548,11 @@ http://tvbrasil.site:25461/free/free/516
 
 #################################################################################
 
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/09/34/3d/09343d16ea4888d95790a36ec321d104.jpg" group-title="CANAIS VARIEDADES", [COLOR white]///CANAIS VARIEDADES///[/COLOR]
+http://23.23.1.1
+
+
 VARIEDADES
 
 
@@ -661,6 +690,13 @@ http://tvbrasil.site:25461/free/free/1405
 
 EXTINF:-1 tvg-id="WOOHOO ALT" tvg-name="WOOHOO ALT" tvg-logo="https://www.claro.com.br/imagem/woohoo-1509145461390.jpg" group-title="VARIEDADES",WOOHOO ALT
 http://tvbrasil.site:25461/free/free/1402
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/09/34/3d/09343d16ea4888d95790a36ec321d104.jpg" group-title="CANAIS ESPORTES", [COLOR white]///CANAIS ESPORTES///[/COLOR]
+http://23.23.1.1
+
 
 
 ##################################### ESPORTES #######################################
@@ -834,6 +870,15 @@ http://tvbrasil.site:25461/free/free/447
 #EXTINF:-1 tvg-id="SPORT TV3 ALT" tvg-name="SPORT TV3 ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/sportv3.png" group-title="ESPORTES",SPORT TV3 ALT
 http://tvbrasil.site:25461/free/free/448
 
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/09/34/3d/09343d16ea4888d95790a36ec321d104.jpg" group-title="CANAIS INFANTIS", [COLOR white]///CANAIS INFANTIS///[/COLOR]
+http://23.23.1.1
+
+
+
+
 #################################### INFANTIS ###########################################
 INFANTIS
 
@@ -968,6 +1013,12 @@ http://tvbrasil.site:25461/free/free/1448
 http://tvbrasil.site:25461/free/free/1446
 
 
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/09/34/3d/09343d16ea4888d95790a36ec321d104.jpg" group-title="CANAIS PORTUGAL", [COLOR RED]///CANAIS PORTUGAL///[/COLOR]
+http://23.23.1.1
+
+
+
 PORTO CANAL
 
 #EXTINF:-1 tvg-id="PORTO CANAL" tvg-name="PORTO CANAL" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2015/12/image0031.png" group-title="CANAIS PORTUGAL",PORTO CANAL
@@ -1035,6 +1086,11 @@ SPORT TV 5
 
 #EXTINF:-1 tvg-id="SPORT TV 4" tvg-name="SPORT TV 5" tvg-logo="https://www.thesportsdb.com/images/media/logo/uvpqvr1470410094.png" group-title="CANAIS PORTUGAL",SPORT TV 5
 https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/09/34/3d/09343d16ea4888d95790a36ec321d104.jpg" group-title="CANAIS BASQUETE", [COLOR white]///CANAIS BASQUETE///[/COLOR]
+http://23.23.1.1
 
 
 
