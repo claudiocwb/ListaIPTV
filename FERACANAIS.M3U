@@ -1,1148 +1,211 @@
 #EXTM3U
-
-
-CANAIS BRASILEIROS
-
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/09/34/3d/09343d16ea4888d95790a36ec321d104.jpg" group-title="CANAIS DO BRASIL", [COLOR green]//////////CANAIS EM PORTUGUÊS BR//////////[/COLOR]
-http://23.23.1.1
-
-
-
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/09/34/3d/09343d16ea4888d95790a36ec321d104.jpg" group-title="CANAIS DO BRASIL", [COLOR red]///CANAIS abertos///[/COLOR]
-http://23.23.1.1
-
-CANAIS ABERTOS
-
-
-
-BBB
-
-
-#EXTINF:-1 tvg-id="A CASA" tvg-name="A CASA" tvg-logo="https://files.nsctotal.com.br/s3fs-public/graphql-upload-files/25458514.jpg?snLKk.Ogg7Mp.jEW0GxhvlSy4pyemnOJ" group-title="BBB",A CASA
-http://tvbrasil.site:25461/free/free/29
-
-#EXTINF:-1 tvg-id="CONFESSIONARIO" tvg-name="CONFESSIONARIO" tvg-logo="https://files.nsctotal.com.br/s3fs-public/graphql-upload-files/25458514.jpg?snLKk.Ogg7Mp.jEW0GxhvlSy4pyemnOJ" group-title="BBB",CONFESSIONARIO
-http://tvbrasil.site:25461/free/free/31
-
-#EXTINF:-1 tvg-id="QUARTO CORDEL" tvg-name="QUARTO CORDEL" tvg-logo="https://files.nsctotal.com.br/s3fs-public/graphql-upload-files/25458514.jpg?snLKk.Ogg7Mp.jEW0GxhvlSy4pyemnOJ" group-title="BBB",QUARTO CORDEL
-http://tvbrasil.site:25461/free/free/33
-
-#EXTINF:-1 tvg-id="QUARTO COLORIDO" tvg-name="QUARTO COLORIDO" tvg-logo="https://files.nsctotal.com.br/s3fs-public/graphql-upload-files/25458514.jpg?snLKk.Ogg7Mp.jEW0GxhvlSy4pyemnOJ" group-title="BBB",QUARTO COLORIDO
-http://tvbrasil.site:25461/free/free/35
-
-#EXTINF:-1 tvg-id="CHUVEIRO" tvg-name="CHUVEIRO" tvg-logo="https://files.nsctotal.com.br/s3fs-public/graphql-upload-files/25458514.jpg?snLKk.Ogg7Mp.jEW0GxhvlSy4pyemnOJ" group-title="BBB",CHUVEIRO
-http://tvbrasil.site:25461/free/free/37
-
-#EXTINF:-1 tvg-id="COZINHA" tvg-name="COZINHA" tvg-logo="https://files.nsctotal.com.br/s3fs-public/graphql-upload-files/25458514.jpg?snLKk.Ogg7Mp.jEW0GxhvlSy4pyemnOJ" group-title="BBB",COZINHA
-http://tvbrasil.site:25461/free/free/39
-
-#EXTINF:-1 tvg-id="SALA DE ESTAR" tvg-name="SALA DE ESTAR" tvg-logo="https://files.nsctotal.com.br/s3fs-public/graphql-upload-files/25458514.jpg?snLKk.Ogg7Mp.jEW0GxhvlSy4pyemnOJ" group-title="BBB",SALA DE ESTAR
-http://tvbrasil.site:25461/free/free/41
-
-#EXTINF:-1 tvg-id="PISCINA" tvg-name="PISCINA" tvg-logo="https://files.nsctotal.com.br/s3fs-public/graphql-upload-files/25458514.jpg?snLKk.Ogg7Mp.jEW0GxhvlSy4pyemnOJ" group-title="BBB",PISCINA
-http://tvbrasil.site:25461/free/free/43
-
-#EXTINF:-1 tvg-id="JARDIM" tvg-name="JARDIM" tvg-logo="https://files.nsctotal.com.br/s3fs-public/graphql-upload-files/25458514.jpg?snLKk.Ogg7Mp.jEW0GxhvlSy4pyemnOJ" group-title="BBB",JARDIM
-http://tvbrasil.site:25461/free/free/45
-
-#EXTINF:-1 tvg-id="ACADEMIA" tvg-name="ACADEMIA" tvg-logo="https://files.nsctotal.com.br/s3fs-public/graphql-upload-files/25458514.jpg?snLKk.Ogg7Mp.jEW0GxhvlSy4pyemnOJ" group-title="BBB",ACADEMIA
-http://tvbrasil.site:25461/free/free/47
-
-#EXTINF:-1 tvg-id="A CASA 2" tvg-name="A CASA 2" tvg-logo="https://files.nsctotal.com.br/s3fs-public/graphql-upload-files/25458514.jpg?snLKk.Ogg7Mp.jEW0GxhvlSy4pyemnOJ" group-title="BBB",A CASA 2
-http://tvbrasil.site:25461/free/free/49
-
-BAND
-
-#EXTINF:-1 tvg-id="BAND SP" tvg-name="BAND SP" tvg-logo="https://bit.ly/3aC3Qtk" group-title="ABERTOS",BAND SP
-http://tvbrasil.site:25461/free/free/23
-
-
-#EXTINF:-1 tvg-id="BAND SP" tvg-name="BAND SP" tvg-logo="https://bit.ly/3aC3Qtk" group-title="ABERTOS",BAND SP
-http://tvbrasil.site:25461/free/free/730
-
-SBT
-
-#EXTINF:-1 tvg-id="SBT SP" tvg-name="SBT SP" tvg-logo="https://bit.ly/3axiKB9" group-title="ABERTOS",SBT SP
-http://tvbrasil.site:25461/free/free/1261
-
-#EXTINF:-1 tvg-id="SBT RJ" tvg-name="SBT RJ" tvg-logo="https://bit.ly/3axiKB9" group-title="ABERTOS",SBT RJ
-http://tvbrasil.site:25461/free/free/1254
-
-#EXTINF:-1 tvg-id="SBT PR" tvg-name="SBT PR" tvg-logo="https://bit.ly/3axiKB9" group-title="ABERTOS",SBT PR
-http://tvbrasil.site:25461/free/free/1252
-
-
-RECORD
-
-#EXTINF:-1 tvg-id="RECORD" tvg-name="RECORD" tvg-logo="https://bit.ly/2YH2IPB" group-title="ABERTOS",RECORD
-https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_480_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-id="RECORD ALT" tvg-name="RECORD ALT" tvg-logo="https://bit.ly/2YH2IPB" group-title="ABERTOS",RECORD ALT
-http://tvbrasil.site:25461/free/free/1222
-
-
-CULTURA
-
-#EXTINF:-1 tvg-id="CULTURA PR" tvg-name="CULTURA PR" tvg-logo="https://bit.ly/3cAaC5I" group-title="ABERTOS",CULTURA PR
-https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w501974440.m3u8
-
-
-
-GLOBO
-
-#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO" tvg-logo="http://s2.glbimg.com/KV5eehME-_BD7QEL-W06_2swk4U=/s.glbimg.com/og/rg/f/original/2014/04/03/vemai_marca_1.jpg" group-title="ABERTOS",GLOBO
-https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/globosp_cfe21c68_8fad452de0e2b0ffcef341a7bc385d13b9d3a1f8/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiNDUuMTY2LjI0OC4xOTEiO2k6MTtzOjExNToiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg4LjAuNDMyNC4xNDYgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxMjU3MzA2MTt9
-
-#EXTINF:-1 tvg-id="GLOBO ALT" tvg-name="GLOBO ALT" tvg-logo="http://s2.glbimg.com/KV5eehME-_BD7QEL-W06_2swk4U=/s.glbimg.com/og/rg/f/original/2014/04/03/vemai_marca_1.jpg" group-title="ABERTOS",GLOBO ALT
-http://tvbrasil.site:25461/free/free/237
-
-#################################################################################
-
-
-
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/09/34/3d/09343d16ea4888d95790a36ec321d104.jpg" group-title="CANAIS DOCUMENTARIOS", [COLOR red]///DOCUMENTARIOS///[/COLOR]
-http://23.23.1.1
-
-
-
-
-
-
-
-
-DOCUMENTÁRIOS
-
-
-ANIMAL PLANET
-
-#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET" tvg-logo="https://bit.ly/3jfNtXm" group-title="DOCUMENTARIOS",ANIMAL PLANET
-http://tvbrasil.site:25461/free/free/7
-
-
-#EXTINF:-1 tvg-id="ANIMAL PLANET ALT" tvg-name="ANIMAL PLANET ALT" tvg-logo="https://bit.ly/3jfNtXm" group-title="DOCUMENTARIOS",ANIMAL PLANET ALT
-http://tvbrasil.site:25461/free/free/9
-
-
-DISCOVERY CHANNEL
-
-#EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/discovery.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL
-http://tvbrasil.site:25461/free/free/105
-
-#EXTINF:-1 tvg-id="DISCOVERY CHANNEL ALT" tvg-name="DISCOVERY CHANNEL ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/discovery.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL ALT
-http://tvbrasil.site:25461/free/free/107
-
-
-
-NAT GEO WILD
-
-#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="NAT GEO WILD" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/natgeo.png" group-title="DOCUMENTARIOS",NAT GEO WILD
-http://tvbrasil.site:25461/free/free/347
-
-#EXTINF:-1 tvg-id="NAT GEO WILD ALT" tvg-name="NAT GEO WILD ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/natgeo.png" group-title="DOCUMENTARIOS",NAT GEO WILD ALT
-http://tvbrasil.site:25461/free/free/349
-
-
-NATIONAL GEOGRAPHIC
-
-#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/natgeochannel.png" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC
-http://tvbrasil.site:25461/free/free/350
-
-#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC ALT" tvg-name="NATIONAL GEOGRAPHIC ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/natgeochannel.png" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC ALT
-http://tvbrasil.site:25461/free/free/352
-
-
-DISCOVERY HOME AND HEALTH
-
-#EXTINF:-1 tvg-id="DISCOVERY HOME AND HEALTH" tvg-name="DISCOVERY HOME AND HEALTH" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/discoveryhomehealth.png" group-title="DOCUMENTARIOS",DISCOVERY HOME AND HEALTH
-http://tvbrasil.site:25461/free/free/108
-
-#EXTINF:-1 tvg-id="DISCOVERY HOME AND HEALTH ALT" tvg-name="DISCOVERY HOME AND HEALTH ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/discoveryhomehealth.png" group-title="DOCUMENTARIOS",DISCOVERY HOME AND HEALTH ALT
-http://tvbrasil.site:25461/free/free/109
-
-
-DISCOVERY SCIENCE
-
-#EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/discoveryscience.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE
-http://tvbrasil.site:25461/free/free/849
-
-#EXTINF:-1 tvg-id="DISCOVERY SCIENCE ALT" tvg-name="DISCOVERY SCIENCE ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/discoveryscience.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE ALT
-http://tvbrasil.site:25461/free/free/116
-
-DISCOVERY THEATER
-
-#EXTINF:-1 tvg-id="DISCOVERY THEATER" tvg-name="DISCOVERY THEATER" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/theaterhd.png" group-title="FILMES",DISCOVERY THEATER
-http://tvbrasil.site:25461/free/free/852
-
-#EXTINF:-1 tvg-id="DISCOVERY THEATER ALT" tvg-name="DISCOVERY THEATER ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/theaterhd.png" group-title="FILMES",DISCOVERY THEATER ALT
-http://tvbrasil.site:25461/free/free/119
-
-DISCOVERY TURBO
-
-#EXTINF:-1 tvg-id="DISCOVERY TURBO" tvg-name="DISCOVERY TURBO" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/discoveryturbo.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO
-http://tvbrasil.site:25461/free/free/855
-
-#EXTINF:-1 tvg-id="DISCOVERY TURBO ALT" tvg-name="DISCOVERY TURBO ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/discoveryturbo.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO ALT
-http://tvbrasil.site:25461/free/free/857
-
-DISCOVERY WORLD
-
-#EXTINF:-1 tvg-id="DISCOVERY WORLD" tvg-name="DISCOVERY WORLD" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/discoveryworld.png" group-title="DOCUMENTARIOS",DISCOVERY WORLD
-http://tvbrasil.site:25461/free/free/859
-
-#EXTINF:-1 tvg-id="DISCOVERY WORLD ALT" tvg-name="DISCOVERY WORLD ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/discoveryworld.png" group-title="DOCUMENTARIOS",DISCOVERY WORLD ALT
-http://tvbrasil.site:25461/free/free/861
-
-HISTORY CHANNEL
-
-#EXTINF:-1 tvg-id="HISTORY CHANNEL" tvg-name="HISTORY CHANNEL" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/history.png" group-title="DOCUMENTARIOS",HISTORY CHANNEL
-http://tvbrasil.site:25461/free/free/1076
-
-#EXTINF:-1 tvg-id="HISTORY CHANNEL ALT" tvg-name="HISTORY CHANNEL ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/history.png" group-title="DOCUMENTARIOS",HISTORY CHANNEL ALT
-#EXTINF:-1 tvg-id="HISTORY CHANNEL" tvg-name="HISTORY CHANNEL" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/history.png" group-title="DOCUMENTARIOS",HISTORY CHANNEL
-
-
-HISTORY 2
-
-#EXTINF:-1 tvg-id="HISTORY 2" tvg-name="HISTORY 2" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/h2.png" group-title="DOCUMENTARIOS",HISTORY 2
-http://tvbrasil.site:25461/free/free/1077
-
-#EXTINF:-1 tvg-id="HISTORY 2 ALT" tvg-name="HISTORY 2 ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/h2.png" group-title="DOCUMENTARIOS",HISTORY 2 ALT
-http://tvbrasil.site:25461/free/free/290
-
-INVESTIGAÇÃO DISCOVERY
-
-#EXTINF:-1 tvg-id="INVESTIGAÇÃO DISCOVERY" tvg-name="INVESTIGAÇÃO DISCOVERY" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/id.png" group-title="DOCUMENTARIOS",INVESTIGAÇÃO DISCOVERY
-http://tvbrasil.site:25461/free/free/321
-
-#EXTINF:-1 tvg-id="INVESTIGAÇÃO DISCOVERY ALT" tvg-name="INVESTIGAÇÃO DISCOVERY ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/id.png" group-title="DOCUMENTARIOS",INVESTIGAÇÃO DISCOVERY ALT
-http://tvbrasil.site:25461/free/free/323
-
-
-TLC
-
-#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/tlchd.png" group-title="DOCUMENTARIOS",TLC
-http://tvbrasil.site:25461/free/free/482
-
-#EXTINF:-1 tvg-id="TLC ALT" tvg-name="TLC ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/tlchd.png" group-title="DOCUMENTARIOS",TLC ALT
-http://tvbrasil.site:25461/free/free/484
-
-
-
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/09/34/3d/09343d16ea4888d95790a36ec321d104.jpg" group-title="CANAIS FILMES", [COLOR red]///FILMES///[/COLOR]
-http://23.23.1.1
-
-
-FILMES
-
-
-AMC
-
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/amc.png" group-title="FILMES",AMC
-http://tvbrasil.site:25461/free/free/4
-
-#EXTINF:-1 tvg-id="AMC ALT" tvg-name="AMC ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/amc.png" group-title="FILMES",AMC ALT
-http://tvbrasil.site:25461/free/free/6
-
-
-A&E
-
-#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/ae.png" group-title="FILMES",A&E
-http://tvbrasil.site:25461/free/free/1
-
-#EXTINF:-1 tvg-id="A&E ALT" tvg-name="A&E ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/ae.png" group-title="FILMES",A&E ALT
-http://tvbrasil.site:25461/free/free/3
-
-AxN
-
-#EXTINF:-1 tvg-id="AxN" tvg-name="AxN" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/axn.png" group-title="FILMES",AxN
-http://tvbrasil.site:25461/free/free/14
-
-#EXTINF:-1 tvg-id="AxN ALT" tvg-name="AxN ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/axn.png" group-title="FILMES",AxN ALT
-http://tvbrasil.site:25461/free/free/16
-
-CANAL BRASIL
-
-#EXTINF:-1 tvg-id="CANAL BRASIL" tvg-name="CANAL BRASIL" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/canalbrasil.png" group-title="FILMES",CANAL BRASIL
-http://tvbrasil.site:25461/free/free/59
-
-#EXTINF:-1 tvg-id="CANAL BRASIL ALT" tvg-name="CANAL BRASIL ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/canalbrasil.png" group-title="FILMES",CANAL BRASIL ALT
-http://tvbrasil.site:25461/free/free/58
-
-CINEMAX
-
-#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/cinemax.png" group-title="FILMES",CINEMAX
-http://tvbrasil.site:25461/free/free/68
-
-#EXTINF:-1 tvg-id="CINEMAX ALT" tvg-name="CINEMAX ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/cinemax.png" group-title="FILMES",CINEMAX ALT
-http://tvbrasil.site:25461/free/free/70
-
-FOX
-
-#EXTINF:-1 tvg-id="FOX" tvg-name="FOX" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/fox.png" group-title="FILMES",FOX
-http://tvbrasil.site:25461/free/free/171
-
-#EXTINF:-1 tvg-id="FOX ALT" tvg-name="FOX ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/fox.png" group-title="FILMES",FOX ALT
-http://tvbrasil.site:25461/free/free/173
-
-
-FOX LIFE
-
-#EXTINF:-1 tvg-id="FOX LIFE" tvg-name="FOX LIFE" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/foxlife.png" group-title="FILMES",FOX LIFE
-http://tvbrasil.site:25461/free/free/174
-
-#EXTINF:-1 tvg-id="FOX LIFE ALT" tvg-name="FOX LIFE ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/foxlife.png" group-title="FILMES",FOX LIFE ALT
-http://tvbrasil.site:25461/free/free/176
-
-
-FOX PREMIUM 1
-
-#EXTINF:-1 tvg-id="FOX PREMIUM 1" tvg-name="FOX PREMIUM 1" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/foxpremium1.png" group-title="FILMES",FOX PREMIUM 1
-http://tvbrasil.site:25461/free/free/180
-
-#EXTINF:-1 tvg-id="FOX PREMIUM 1 ALT" tvg-name="FOX PREMIUM 1 ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/foxpremium1.png" group-title="FILMES",FOX PREMIUM 1 ALT
-http://tvbrasil.site:25461/free/free/182
-
-
-FOX PREMIUM 2
-
-#EXTINF:-1 tvg-id="FOX PREMIUM 2" tvg-name="FOX PREMIUM 2" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/foxpremium2.png" group-title="FILMES",FOX PREMIUM 2
-http://tvbrasil.site:25461/free/free/183
-
-#EXTINF:-1 tvg-id="FOX PREMIUM 2 ALT" tvg-name="FOX PREMIUM 2 ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/foxpremium2.png" group-title="FILMES",FOX PREMIUM 2 ALT
-http://tvbrasil.site:25461/free/free/185
-
-
-FX
-
-#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/fx.png" group-title="FILMES",FX
-http://tvbrasil.site:25461/free/free/194
-
-#EXTINF:-1 tvg-id="FX ALT" tvg-name="FX ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/fx.png" group-title="FILMES",FX ALT
-http://tvbrasil.site:25461/free/free/196
-
-HBO
-
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/hbo.png" group-title="FILMES",HBO
-http://tvbrasil.site:25461/free/free/293
-
-#EXTINF:-1 tvg-id="HBO ALT" tvg-name="HBO ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/hbo.png" group-title="FILMES",HBO ALT
-http://tvbrasil.site:25461/free/free/292
-
-
-HBO 2
-
-#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/hbo2hd.png" group-title="FILMES",HBO 2
-http://tvbrasil.site:25461/free/free/296
-
-#EXTINF:-1 tvg-id="HBO 2 ALT" tvg-name="HBO 2 ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/hbo2hd.png" group-title="FILMES",HBO 2 ALT
-http://tvbrasil.site:25461/free/free/295
-
-HBO FAMILY
-
-#EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="HBO FAMILY" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/hbofamily.png" group-title="FILMES",HBO FAMILY
-http://tvbrasil.site:25461/free/free/299
-
-#EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="HBO FAMILY" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/hbofamily.png" group-title="FILMES",HBO FAMILY
-http://tvbrasil.site:25461/free/free/298
-
-
-HBO MUNDI
-
-#EXTINF:-1 tvg-id="HBO MUNDI" tvg-name="HBO MUNDI" tvg-logo="https://aovivo.gratis/wp-content/uploads/2020/05/hbomundib.png" group-title="FILMES",HBO MUNDI
-http://tvbrasil.site:25461/free/free/302
-
-#EXTINF:-1 tvg-id="HBO MUNDI ALT" tvg-name="HBO MUNDI ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2020/05/hbomundib.png" group-title="FILMES",HBO MUNDI ALT
-http://tvbrasil.site:25461/free/free/301
-
-
-HBO PLUS
-
-#EXTINF:-1 tvg-id="HBO PLUS" tvg-name="HBO PLUS" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/hboplus.png" group-title="FILMES",HBO PLUS
-http://tvbrasil.site:25461/free/free/305
-
-#EXTINF:-1 tvg-id="HBO PLUS ALT" tvg-name="HBO PLUS ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/hboplus.png" group-title="FILMES",HBO PLUS ALT
-http://tvbrasil.site:25461/free/free/304
-
-
-HBO POP
-
-#EXTINF:-1 tvg-id="HBO POP" tvg-name="HBO POP" tvg-logo="https://aovivo.gratis/wp-content/uploads/2020/05/hbopopb.png" group-title="FILMES",HBO POP
-http://tvbrasil.site:25461/free/free/308
-
-#EXTINF:-1 tvg-id="HBO POP ALT" tvg-name="HBO POP ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2020/05/hbopopb.png" group-title="FILMES",HBO POP ALT
-http://tvbrasil.site:25461/free/free/307
-
-HBO SIGNATURE
-
-#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/hbosignature.png" group-title="FILMES",HBO SIGNATURE
-http://tvbrasil.site:25461/free/free/311
-
-#EXTINF:-1 tvg-id="HBO SIGNATURE ALT" tvg-name="HBO SIGNATURE ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/hbosignature.png" group-title="FILMES",HBO SIGNATURE ALT
-http://tvbrasil.site:25461/free/free/310
-
-
-HBO EXTREME
-
-#EXTINF:-1 tvg-id="HBO EXTREME" tvg-name="HBO EXTREME" tvg-logo="https://aovivo.gratis/wp-content/uploads/2020/05/hboxtremeb.png" group-title="FILMES",HBO EXTREME
-http://tvbrasil.site:25461/free/free/314
-
-#EXTINF:-1 tvg-id="HBO EXTREME ALT" tvg-name="HBO EXTREME ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2020/05/hboxtremeb.png" group-title="FILMES",HBO EXTREME ALT
-http://tvbrasil.site:25461/free/free/313
-
-MEGAPIX
-
-#EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/megapix.png" group-title="FILMES",MEGAPIX
-http://tvbrasil.site:25461/free/free/332
-
-#EXTINF:-1 tvg-id="MEGAPIX ALT" tvg-name="MEGAPIX ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/megapix.png" group-title="FILMES",MEGAPIX ALT
-http://tvbrasil.site:25461/free/free/334
-
-
-PARAMOUNT CHANNEL
-
-#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL" tvg-name="PARAMOUNT CHANNEL" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/paramount.png" group-title="FILMES",PARAMOUNT CHANNEL
-http://tvbrasil.site:25461/free/free/364
-
-#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL ALT" tvg-name="PARAMOUNT CHANNEL ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/paramount.png" group-title="FILMES",PARAMOUNT CHANNEL ALT
-http://tvbrasil.site:25461/free/free/366
-
-SONY
-
-#EXTINF:-1 tvg-id="SONY" tvg-name="SONY" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/sony.png" group-title="FILMES",SONY
-http://tvbrasil.site:25461/free/free/434
-
-#EXTINF:-1 tvg-id="SONY ALT" tvg-name="SONY ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/sony.png" group-title="FILMES",SONY ALT
-http://tvbrasil.site:25461/free/free/436
-
-SPACE
-
-#EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/space.png" group-title="FILMES",SPACE
-http://tvbrasil.site:25461/free/free/439
-
-#EXTINF:-1 tvg-id="SPACE ALT" tvg-name="SPACE ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/space.png" group-title="FILMES",SPACE ALT
-http://tvbrasil.site:25461/free/free/438
-
-
-
-STUDIO UNIVERSAL
-
-#EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/studiouniversal.png" group-title="FILMES",STUDIO UNIVERSAL
-http://tvbrasil.site:25461/free/free/449
-
-#EXTINF:-1 tvg-id="STUDIO UNIVERSAL ALT" tvg-name="STUDIO UNIVERSAL ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/studiouniversal.png" group-title="FILMES",STUDIO UNIVERSAL ALT
-http://tvbrasil.site:25461/free/free/451
-
-
-SYFY
-
-#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/syfy.png" group-title="FILMES",SYFY
-http://tvbrasil.site:25461/free/free/452
-
-#EXTINF:-1 tvg-id="SYFY ALT" tvg-name="SYFY ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/syfy.png" group-title="FILMES",SYFY ALT
-http://tvbrasil.site:25461/free/free/454
-
-TBS
-
-#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/tbs.png" group-title="FILMES",TBS
-http://tvbrasil.site:25461/free/free/455
-
-#EXTINF:-1 tvg-id="TBS ALT" tvg-name="TBS ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/tbs.png" group-title="FILMES",TBS ALT
-http://tvbrasil.site:25461/free/free/457
-
-
-TCM
-
-#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://www.temporalcerebral.com.br/wp-content/uploads/2015/12/redesign-novo-logo-canal-tcm-turner-classic-movies-1.png" group-title="FILMES",TCM
-http://tvbrasil.site:25461/free/free/458
-
-#EXTINF:-1 tvg-id="TCM ALT" tvg-name="TCM ALT" tvg-logo="https://www.temporalcerebral.com.br/wp-content/uploads/2015/12/redesign-novo-logo-canal-tcm-turner-classic-movies-1.png" group-title="FILMES",TCM ALT
-http://tvbrasil.site:25461/free/free/460
-
-
-TELE CINE ACTION
-
-#EXTINF:-1 tvg-id="TELE CINE ACTION" tvg-name="TELE CINE ACTION" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/tcactionhd.png" group-title="FILMES",TELE CINE ACTION
-http://tvbrasil.site:25461/free/free/461
-
-#EXTINF:-1 tvg-id="TELE CINE ACTION ALT" tvg-name="TELE CINE ACTION ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/tcactionhd.png" group-title="FILMES",TELE CINE ACTION ALT
-http://tvbrasil.site:25461/free/free/463
-
-TELE CINE CULT
-
-#EXTINF:-1 tvg-id="TELE CINE CULT" tvg-name="TELE CINE CULT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/tccult.png" group-title="FILMES",TELE CINE CULT
-http://tvbrasil.site:25461/free/free/464
-
-#EXTINF:-1 tvg-id="TELE CINE CULT ALT" tvg-name="TELE CINE CULT ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/tccult.png" group-title="FILMES",TELE CINE CULT ALT
-http://tvbrasil.site:25461/free/free/466
-
-
-TELE CINE FUN
-
-#EXTINF:-1 tvg-id="TELE CINE FUN" tvg-name="TELE CINE FUN" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/tcfun.png" group-title="FILMES",TELE CINE FUN
-http://tvbrasil.site:25461/free/free/467
-
-#EXTINF:-1 tvg-id="TELE CINE FUN ALT" tvg-name="TELE CINE FUN ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/tcfun.png" group-title="FILMES",TELE CINE FUN ALT
-http://tvbrasil.site:25461/free/free/469
-
-TELE CINE PIPOCA
-
-#EXTINF:-1 tvg-id="TELE CINE PIPOCA" tvg-name="TELE CINE PIPOCA" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/tcpipoca.png" group-title="FILMES",TELE CINE PIPOCA
-http://tvbrasil.site:25461/free/free/470
-
-#EXTINF:-1 tvg-id="TELE CINE PIPOCA ALT" tvg-name="TELE CINE PIPOCA ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/tcpipoca.png" group-title="FILMES",TELE CINE PIPOCA ALT
-http://tvbrasil.site:25461/free/free/472
-
-TELE CINE PREMIUM
-
-#EXTINF:-1 tvg-id="TELE CINE PREMIUM" tvg-name="TELE CINE PREMIUM" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/tcpremium.png" group-title="FILMES",TELE CINE PREMIUM
-http://tvbrasil.site:25461/free/free/473
-
-#EXTINF:-1 tvg-id="TELE CINE PREMIUM ALT" tvg-name="TELE CINE PREMIUM ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/tcpremium.png" group-title="FILMES",TELE CINE PREMIUM ALT
-http://tvbrasil.site:25461/free/free/475
-
-TELE CINE TOUCH
-
-#EXTINF:-1 tvg-id="TELE CINE TOUCH" tvg-name="TELE CINE TOUCH" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/tctouch.png" group-title="FILMES",TELE CINE TOUCH
-http://tvbrasil.site:25461/free/free/476
-
-#EXTINF:-1 tvg-id="TELE CINE TOUCH ALT" tvg-name="TELE CINE TOUCH ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/tctouch.png" group-title="FILMES",TELE CINE TOUCH ALT
-http://tvbrasil.site:25461/free/free/478
-
-TNT
-
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/tnt.png" group-title="FILMES",TNT
-http://tvbrasil.site:25461/free/free/486
-
-#EXTINF:-1 tvg-id="TNT ALT" tvg-name="TNT ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/tnt.png" group-title="FILMES",TNT ALT
-http://tvbrasil.site:25461/free/free/487
-
-TNT SERIES
-
-#EXTINF:-1 tvg-id="TNT SERIES" tvg-name="TNT SERIES" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/tntseries.png" group-title="FILMES",TNT SERIES
-http://tvbrasil.site:25461/free/free/489
-
-#EXTINF:-1 tvg-id="TNT SERIES ALT" tvg-name="TNT SERIES ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/tntseries.png" group-title="FILMES",TNT SERIES ALT
-http://tvbrasil.site:25461/free/free/490
-
-
-UNIVERSAL CHANNEL
-
-#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/universalchannel.png" group-title="FILMES",UNIVERSAL CHANNEL
-http://tvbrasil.site:25461/free/free/503
-
-#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL ALT" tvg-name="UNIVERSAL CHANNEL ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/universalchannel.png" group-title="FILMES",UNIVERSAL CHANNEL ALT
-http://tvbrasil.site:25461/free/free/505
-
-
-WARNER CHANNEL
-
-#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/warner.png" group-title="FILMES",WARNER CHANNEL
-http://tvbrasil.site:25461/free/free/514
-
-#EXTINF:-1 tvg-id="WARNER CHANNEL ALT" tvg-name="WARNER CHANNEL ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/warner.png" group-title="FILMES",WARNER CHANNEL ALT
-http://tvbrasil.site:25461/free/free/516
-
-#################################################################################
-
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/09/34/3d/09343d16ea4888d95790a36ec321d104.jpg" group-title="CANAIS VARIEDADES", [COLOR red]///CANAIS VARIEDADES///[/COLOR]
-http://23.23.1.1
-
-
-VARIEDADES
-
-
-ARTE 1
-
-#EXTINF:-1 tvg-id="ARTE 1" tvg-name="ARTE 1" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/arte1.png" group-title="VARIEDADES",ARTE 1
-http://tvbrasil.site:25461/free/free/11
-
-#EXTINF:-1 tvg-id="ARTE 1 ALT" tvg-name="ARTE 1 ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/arte1.png" group-title="VARIEDADES",ARTE 1 ALT
-http://tvbrasil.site:25461/free/free/13
-
-BIS
-
-#EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="https://i1.wp.com/naoseinada.com.br/wp-content/uploads/2017/10/canal-bis.png?fit=788%2C415&ssl=1" group-title="VARIEDADES",BIS
-http://tvbrasil.site:25461/free/free/53
-
-#EXTINF:-1 tvg-id="BIS ALT" tvg-name="BIS ALT" tvg-logo="https://i1.wp.com/naoseinada.com.br/wp-content/uploads/2017/10/canal-bis.png?fit=788%2C415&ssl=1" group-title="VARIEDADES",BIS ALT
-http://tvbrasil.site:25461/free/free/52
-
-CANÇÃO NOVA
-
-#EXTINF:-1 tvg-id="CANCAO NOVA" tvg-name="CANCAO NOVA" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/cancaonova.png" group-title="VARIEDADES",CANCAO NOVA
-http://tvbrasil.site:25461/free/free/52
-
-#EXTINF:-1 tvg-id="CANCAO NOVA ALT" tvg-name="CANCAO NOVA ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/cancaonova.png" group-title="VARIEDADES",CANCAO NOVA ALT
-http://tvbrasil.site:25461/free/free/776
-
-
-COMEDY CENTRAL
-
-#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="COMEDY CENTRAL" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/comedycentral.png" group-title="VARIEDADES",COMEDY CENTRAL
-http://tvbrasil.site:25461/free/free/811
-
-#EXTINF:-1 tvg-id="COMEDY CENTRAL ALT" tvg-name="COMEDY CENTRAL ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/comedycentral.png" group-title="VARIEDADES",COMEDY CENTRAL ALT
-http://tvbrasil.site:25461/free/free/810
-
-CURTA
-
-#EXTINF:-1 tvg-id="CURTA" tvg-name="CURTA" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/canalcurta.png" group-title="VARIEDADES",CURTA
-http://tvbrasil.site:25461/free/free/828
-
-#EXTINF:-1 tvg-id="CURTA ALT" tvg-name="CURTA ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/canalcurta.png" group-title="VARIEDADES",CURTA ALT
-http://tvbrasil.site:25461/free/free/96
-
-E!
-
-#EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/e.png" group-title="VARIEDADES",E!
-http://tvbrasil.site:25461/free/free/135
-
-#EXTINF:-1 tvg-id="E! ALT" tvg-name="E! ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/e.png" group-title="VARIEDADES",E! ALT
-http://tvbrasil.site:25461/free/free/137
-
-
-FOOD NETWORK
-
-#EXTINF:-1 tvg-id="FOOD NETWORK" tvg-name="FOOD NETWORK" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/foodnetwork.png" group-title="VARIEDADES",FOOD NETWORK
-http://tvbrasil.site:25461/free/free/170
-
-#EXTINF:-1 tvg-id="FOOD NETWORK ALT" tvg-name="FOOD NETWORK ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/foodnetwork.png" group-title="VARIEDADES",FOOD NETWORK ALT
-http://tvbrasil.site:25461/free/free/168
-
-
-GNT
-
-#EXTINF:-1 tvg-id="GNT" tvg-name="GNT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/gnt.png" group-title="VARIEDADES",GNT
-http://tvbrasil.site:25461/free/free/286
-
-#EXTINF:-1 tvg-id="GNT ALT" tvg-name="GNT ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/gnt.png" group-title="VARIEDADES",GNT ALT
-http://tvbrasil.site:25461/free/free/287
-
-GLOBOSAT
-
-#EXTINF:-1 tvg-id="GLOBOSAT" tvg-name="GLOBOSAT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/globosat.png" group-title="VARIEDADES",GLOBOSAT
-http://tvbrasil.site:25461/free/free/287
-
-#EXTINF:-1 tvg-id="GLOBOSAT ALT" tvg-name="GLOBOSAT ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/globosat.png" group-title="VARIEDADES",GLOBOSAT ALT
-http://tvbrasil.site:25461/free/free/1019
-
-
-LIFETIME
-
-#EXTINF:-1 tvg-id="LIFETIME" tvg-name="LIFETIME" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/lifetime.png" group-title="VARIEDADES",LIFETIME
-http://tvbrasil.site:25461/free/free/1092
-
-#EXTINF:-1 tvg-id="LIFETIME ALT" tvg-name="LIFETIME ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/lifetime.png" group-title="VARIEDADES",LIFETIME ALT
-http://tvbrasil.site:25461/free/free/1093
-
-
-MULTI SHOW
-
-#EXTINF:-1 tvg-id="MULTI SHOW" tvg-name="MULTI SHOW" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/multishow.png" group-title="VARIEDADES",MULTI SHOW
-http://tvbrasil.site:25461/free/free/1117
-
-#EXTINF:-1 tvg-id="MULTI SHOW ALT" tvg-name="MULTI SHOW ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/multishow.png" group-title="VARIEDADES",MULTI SHOW ALT
-http://tvbrasil.site:25461/free/free/1119
-
-MTV
-
-#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/mtv.png" group-title="VARIEDADES",MTV
-http://tvbrasil.site:25461/free/free/1115
-
-#EXTINF:-1 tvg-id="MTV ALT" tvg-name="MTV ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/mtv.png" group-title="VARIEDADES",MTV ALT
-http://tvbrasil.site:25461/free/free/1116
-
-
-OFF
-
-#EXTINF:-1 tvg-id="OFF" tvg-name="OFF" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/canaloff.png" group-title="VARIEDADES",OFF
-http://tvbrasil.site:25461/free/free/1154
-
-#EXTINF:-1 tvg-id="OFF ALT" tvg-name="OFF ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/canaloff.png" group-title="VARIEDADES",OFF ALT
-http://tvbrasil.site:25461/free/free/1151
-
-VIVA
-
-#EXTINF:-1 tvg-id="VIVA" tvg-name="VIVA" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/viva.png" group-title="VARIEDADES",VIVA
-http://tvbrasil.site:25461/free/free/1397
-
-#EXTINF:-1 tvg-id="VIVA ALT" tvg-name="VIVA ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/viva.png" group-title="VARIEDADES",VIVA ALT
-http://tvbrasil.site:25461/free/free/1396
-
-FISH TV
-
-#EXTINF:-1 tvg-id="FISH TV" tvg-name="FISH TV" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/fishtv.png" group-title="VARIEDADES",FISH TV
-http://tvbrasil.site:25461/free/free/909
-
-#EXTINF:-1 tvg-id="FISH TV ALT" tvg-name="FISH TV ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/fishtv.png" group-title="VARIEDADES",FISH TV ALT
-http://tvbrasil.site:25461/free/free/164
-
-
-WOOHOO
-
-EXTINF:-1 tvg-id="WOOHOO" tvg-name="WOOHOO" tvg-logo="https://www.claro.com.br/imagem/woohoo-1509145461390.jpg" group-title="VARIEDADES",WOOHOO
-http://tvbrasil.site:25461/free/free/1405
-
-EXTINF:-1 tvg-id="WOOHOO ALT" tvg-name="WOOHOO ALT" tvg-logo="https://www.claro.com.br/imagem/woohoo-1509145461390.jpg" group-title="VARIEDADES",WOOHOO ALT
-http://tvbrasil.site:25461/free/free/1402
-
-
-
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/09/34/3d/09343d16ea4888d95790a36ec321d104.jpg" group-title="CANAIS ESPORTES", [COLOR red]///CANAIS ESPORTES///[/COLOR]
-http://23.23.1.1
-
-
-
-##################################### ESPORTES #######################################
-
-
-
-
-BAND SPORTS
-
-#EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/bandsports.png" group-title="ESPORTES",BAND SPORTS
-http://tvbrasil.site:25461/free/free/28
-
-#EXTINF:-1 tvg-id="BAND SPORTS ALT" tvg-name="BAND SPORTS ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/bandsports.png" group-title="ESPORTES",BAND SPORTS ALT
-http://tvbrasil.site:25461/free/free/732
-
-
-COMBATE
-
-#EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE" tvg-logo="https://t2.tudocdn.net/335200?w=646&h=284" group-title="ESPORTES",COMBATE
-http://tvbrasil.site:25461/free/free/804
-
-#EXTINF:-1 tvg-id="COMBATE ALT" tvg-name="COMBATE ALT" tvg-logo="https://t2.tudocdn.net/335200?w=646&h=284" group-title="ESPORTES",COMBATE ALT
-http://tvbrasil.site:25461/free/free/807
-
-
-ESPN
-
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/espn.png" group-title="ESPORTES",ESPN
-http://tvbrasil.site:25461/free/free/888
-
-#EXTINF:-1 tvg-id="ESPN ALT" tvg-name="ESPN ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/espn.png" group-title="ESPORTES",ESPN ALT
-http://tvbrasil.site:25461/free/free/151
-
-
-ESPN BRASIL
-
-#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/espnbrasil.png" group-title="ESPORTES",ESPN BRASIL
-http://tvbrasil.site:25461/free/free/157
-
-#EXTINF:-1 tvg-id="ESPN BRASIL alt" tvg-name="ESPN BRASIL ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/espnbrasil.png" group-title="ESPORTES",ESPN BRASIL ALT
-http://tvbrasil.site:25461/free/free/158
-
-
-ESPN2
-
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/12/espn2.png" group-title="ESPORTES",ESPN 2
-http://tvbrasil.site:25461/free/free/154
-
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/12/espn2.png" group-title="ESPORTES",ESPN 2
-http://tvbrasil.site:25461/free/free/155
-
-
-ESPN EXTRA
-
-#EXTINF:-1 tvg-id="ESPN EXTRA" tvg-name="ESPN EXTRA" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/espn.png" group-title="ESPORTES",ESPN EXTRA
-http://tvbrasil.site:25461/free/free/160
-
-#EXTINF:-1 tvg-id="ESPN EXTRA ALT" tvg-name="ESPN EXTRA ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/espn.png" group-title="ESPORTES",ESPN EXTRA ALT
-http://tvbrasil.site:25461/free/free/161
-
-FOX SPORTS
-
-#EXTINF:-1 tvg-id="FOX SPORTS" tvg-name="FOX SPORTS" tvg-logo="https://img2.gratispng.com/20180716/cp/kisspng-fox-sports-networks-sportsouth-television-fox-action-movies-logo-5b4d3b5b1d82e3.8392568615317881231209.jpg" group-title="ESPORTES",FOX SPORTS
-http://tvbrasil.site:25461/free/free/191
-
-#EXTINF:-1 tvg-id="FOX SPORTS ALT" tvg-name="FOX SPORTS ALT" tvg-logo="https://img2.gratispng.com/20180716/cp/kisspng-fox-sports-networks-sportsouth-television-fox-action-movies-logo-5b4d3b5b1d82e3.8392568615317881231209.jpg" group-title="ESPORTES",FOX SPORTS ALT
-
-FOX SPORTS 2
-
-#EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-name="FOX SPORTS 2" tvg-logo="https://img2.gratispng.com/20180618/ww/kisspng-fox-sports-1-ultimate-fighting-championship-fox-sp-fox-sports-sun-5b280c22b1f711.230795081529351202729.jpg" group-title="ESPORTES",FOX SPORTS 2
-http://tvbrasil.site:25461/free/free/189
-
-#EXTINF:-1 tvg-id="FOX SPORTS 2 ALT" tvg-name="FOX SPORTS 2 ALT" tvg-logo="https://img2.gratispng.com/20180618/ww/kisspng-fox-sports-1-ultimate-fighting-championship-fox-sp-fox-sports-sun-5b280c22b1f711.230795081529351202729.jpg" group-title="ESPORTES",FOX SPORTS 2 ALT
-http://tvbrasil.site:25461/free/free/187
-
-
-PREMIER FC
-
-#EXTINF:-1 tvg-id="PREMIER FC" tvg-name="PREMIER FC" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/premiereclubes.png" group-title="ESPORTES",PREMIER FC
-http://tvbrasil.site:25461/free/free/393
-
-#EXTINF:-1 tvg-id="PREMIER FC ALT" tvg-name="PREMIER FC ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/premiereclubes.png" group-title="ESPORTES",PREMIER FC ALT
-http://tvbrasil.site:25461/free/free/394
-
-
-PREMIER 2
-
-#EXTINF:-1 tvg-id="PREMIER 2" tvg-name="PREMIER 2" tvg-logo="https://www.claro.com.br/imagem/premiere-2-1509144914337.jpg" group-title="ESPORTES",PREMIER 2
-http://tvbrasil.site:25461/free/free/373
-
-#EXTINF:-1 tvg-id="PREMIER 2 ALT" tvg-name="PREMIER 2 ALT" tvg-logo="https://www.claro.com.br/imagem/premiere-2-1509144914337.jpg" group-title="ESPORTES",PREMIER 2 ALT
-http://tvbrasil.site:25461/free/free/374
-
-
-PREMIER 3
-
-#EXTINF:-1 tvg-id="PREMIER 3" tvg-name="PREMIER 3" tvg-logo="https://futebolplayhd.com/imagens-futebol/f73d77346f52e03b5654d65fc4aba890.jpg" group-title="ESPORTES",PREMIER 3
-http://tvbrasil.site:25461/free/free/374
-
-#EXTINF:-1 tvg-id="PREMIER 3 ALT" tvg-name="PREMIER 3 ALT" tvg-logo="https://futebolplayhd.com/imagens-futebol/f73d77346f52e03b5654d65fc4aba890.jpg" group-title="ESPORTES",PREMIER 3 ALT
-http://tvbrasil.site:25461/free/free/377
-
-PREMIER FC 4
-
-#EXTINF:-1 tvg-id="PREMIER 4" tvg-name="PREMIER 4" tvg-logo="https://futebolplayhd.com/imagens-futebol/13f2564bb1a5fc57cf2f3afd4ffdb666.jpg" group-title="ESPORTES",PREMIER 4
-http://tvbrasil.site:25461/free/free/379
-
-#EXTINF:-1 tvg-id="PREMIER 4 ALT" tvg-name="PREMIER 4 ALT" tvg-logo="https://futebolplayhd.com/imagens-futebol/13f2564bb1a5fc57cf2f3afd4ffdb666.jpg" group-title="ESPORTES",PREMIER 4 ALT
-http://tvbrasil.site:25461/free/free/380
-
-
-PREMIER FC 5
-
-#EXTINF:-1 tvg-id="PREMIER 5" tvg-name="PREMIER 5" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/premiere5.png" group-title="ESPORTES",PREMIER 5
-http://tvbrasil.site:25461/free/free/382
-
-#EXTINF:-1 tvg-id="PREMIER 5 ALT" tvg-name="PREMIER 5 ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/premiere5.png" group-title="ESPORTES",PREMIER 5 ALT
-http://tvbrasil.site:25461/free/free/383
-
-
-PREMIER FC 6
-
-#EXTINF:-1 tvg-id="PREMIER 6" tvg-name="PREMIER 6" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/premiere6.png" group-title="ESPORTES",PREMIER 6
-http://tvbrasil.site:25461/free/free/384
-
-#EXTINF:-1 tvg-id="PREMIER 6 ALT" tvg-name="PREMIER 6 ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/premiere6.png" group-title="ESPORTES",PREMIER 6 ALT
-http://tvbrasil.site:25461/free/free/385
-
-
-PREMIER 7
-
-#EXTINF:-1 tvg-id="PREMIER 7" tvg-name="PREMIER 7" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/premiere7.png" group-title="ESPORTES",PREMIER 7
-http://tvbrasil.site:25461/free/free/386
-
-#EXTINF:-1 tvg-id="PREMIER 7 ALT" tvg-name="PREMIER 7 ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/premiere7.png" group-title="ESPORTES",PREMIER 7 ALT
-http://tvbrasil.site:25461/free/free/387
-
-PREMIER 8
-
-
-#EXTINF:-1 tvg-id="PREMIER 8" tvg-name="PREMIER 8" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/premiere7.png" group-title="ESPORTES",PREMIER 8
-http://tvbrasil.site:25461/free/free/389
-
-
-#EXTINF:-1 tvg-id="PREMIER 8 ALT" tvg-name="PREMIER 8 ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/premiere7.png" group-title="ESPORTES",PREMIER 8 ALT
-http://tvbrasil.site:25461/free/free/388
-
-
-SPORT TV
-
-#EXTINF:-1 tvg-id="SPORT TV" tvg-name="SPORT TV" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/sportv.png" group-title="ESPORTES",SPORT TV
-http://tvbrasil.site:25461/free/free/441
-
-#EXTINF:-1 tvg-id="SPORT TV ALT" tvg-name="SPORT TV ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/sportv.png" group-title="ESPORTES",SPORT TV ALT
-http://tvbrasil.site:25461/free/free/442
-
-
-SPORT TV2
-
-#EXTINF:-1 tvg-id="SPORT TV2" tvg-name="SPORT TV2" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/sportv2.png" group-title="ESPORTES",SPORT TV2
-http://tvbrasil.site:25461/free/free/444
-
-#EXTINF:-1 tvg-id="SPORT TV2 ALT" tvg-name="SPORT TV2 ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/sportv2.png" group-title="ESPORTES",SPORT TV2 ALT
-http://tvbrasil.site:25461/free/free/445
-
-SPORT TV3
-
-#EXTINF:-1 tvg-id="SPORT TV3" tvg-name="SPORT TV2" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/sportv3.png" group-title="ESPORTES",SPORT TV3
-http://tvbrasil.site:25461/free/free/447
-
-#EXTINF:-1 tvg-id="SPORT TV3 ALT" tvg-name="SPORT TV3 ALT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/sportv3.png" group-title="ESPORTES",SPORT TV3 ALT
-http://tvbrasil.site:25461/free/free/448
-
-
-
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/09/34/3d/09343d16ea4888d95790a36ec321d104.jpg" group-title="CANAIS INFANTIS", [COLOR red]///CANAIS INFANTIS///[/COLOR]
-http://23.23.1.1
-
-
-
-
-#################################### INFANTIS ###########################################
-INFANTIS
-
-
-#EXTINF:-1 tvg-id="BOOMERANG" tvg-name="BOOMERANG" tvg-logo="https://www.claro.com.br/imagem/logo-boomerang-1509138450010.jpg" group-title="INFANTIS",BOOMERANG
-http://tvbrasil.site:25461/free/free/56
-
-
-#EXTINF:-1 tvg-id="BOOMERANG ALT" tvg-name="BOOMERANG ALT" tvg-logo="https://www.claro.com.br/imagem/logo-boomerang-1509138450010.jpg" group-title="INFANTIS",BOOMERANG ALT
-http://tvbrasil.site:25461/free/free/54
-
-
-BABY TV
-
-#EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://www.claro.com.br/imagem/logo-baby-tv-1509147666958.jpg" group-title="INFANTIS",BABY TV
-http://tvbrasil.site:25461/free/free/19
-
-
-#EXTINF:-1 tvg-id="BABY TV ALT" tvg-name="BABY TV ALT" tvg-logo="https://www.claro.com.br/imagem/logo-baby-tv-1509147666958.jpg" group-title="INFANTIS",BABY TV ALT
-http://tvbrasil.site:25461/free/free/17
-
-
-CARTOON NETWORK
-
-#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/1200px-Cartoon_Network_2004_logo.svg.png" group-title="INFANTIS",CARTOON NETWORK
-http://tvbrasil.site:25461/free/free/64
-
-
-#EXTINF:-1 tvg-id="CARTOON NETWORK ALT" tvg-name="CARTOON NETWORK ALT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/1200px-Cartoon_Network_2004_logo.svg.png" group-title="INFANTIS",CARTOON NETWORK ALT
-http://tvbrasil.site:25461/free/free/62
-
-DISCOVERY KIDS
-
-#EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS" tvg-logo="https://www.claro.com.br/imagem/discovery-kids-1509144677726.jpg" group-title="INFANTIS",DISCOVERY KIDS
-http://tvbrasil.site:25461/free/free/848
-
-#EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS" tvg-logo="https://www.claro.com.br/imagem/discovery-kids-1509144677726.jpg" group-title="INFANTIS",DISCOVERY KIDS
-http://tvbrasil.site:25461/free/free/845
-
-
-DISNEY CHANNEL
-
-#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL" tvg-logo="https://www.claro.com.br/imagem/disney-channel-1509144683939.jpg" group-title="INFANTIS",DISNEY CHANNEL
-http://tvbrasil.site:25461/free/free/127
-
-#EXTINF:-1 tvg-id="DISNEY CHANNEL ALT" tvg-name="DISNEY CHANNEL ALT" tvg-logo="https://www.claro.com.br/imagem/disney-channel-1509144683939.jpg" group-title="INFANTIS",DISNEY CHANNEL ALT
-http://tvbrasil.site:25461/free/free/128
-
-
-DISNEY JR
-
-#EXTINF:-1 tvg-id="DISNEY JR" tvg-name="DISNEY JR" tvg-logo="https://www.claro.com.br/imagem/logo-disney-junior-1509147549489.jpg" group-title="INFANTIS",DISNEY JR
-http://tvbrasil.site:25461/free/free/130
-
-#EXTINF:-1 tvg-id="DISNEY JR ALT" tvg-name="DISNEY JR ALT" tvg-logo="https://www.claro.com.br/imagem/logo-disney-junior-1509147549489.jpg" group-title="INFANTIS",DISNEY JR ALT
-http://tvbrasil.site:25461/free/free/131
-
-DISNEY XD
-
-#EXTINF:-1 tvg-id="DISNEY XD" tvg-name="DISNEY XD" tvg-logo="https://www.claro.com.br/imagem/disney-xd-1509144684657.jpg" group-title="INFANTIS",DISNEY XD
-http://tvbrasil.site:25461/free/free/133
-
-#EXTINF:-1 tvg-id="DISNEY XD ALT" tvg-name="DISNEY XD ALT" tvg-logo="https://www.claro.com.br/imagem/disney-xd-1509144684657.jpg" group-title="INFANTIS",DISNEY XD ALT
-http://tvbrasil.site:25461/free/free/134
-
-
-GLOOB
-
-#EXTINF:-1 tvg-id="GLOOB" tvg-name="GLOOB" tvg-logo="https://www.claro.com.br/imagem/gloob-1509144692703.jpg" group-title="INFANTIS",GLOOB
-http://tvbrasil.site:25461/free/free/281
-
-
-#EXTINF:-1 tvg-id="GLOOB ALT" tvg-name="GLOOB ALT" tvg-logo="https://www.claro.com.br/imagem/gloob-1509144692703.jpg" group-title="INFANTIS",GLOOB ALT
-http://tvbrasil.site:25461/free/free/282
-
-
-GLOOBINHO
-
-#EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="GLOOBINHO" tvg-logo="https://www.claro.com.br/imagem/img-logo-gloobinho-1509150018489.jpg" group-title="INFANTIS",GLOOBINHO
-http://tvbrasil.site:25461/free/free/283
-
-#EXTINF:-1 tvg-id="GLOOBINHO ALT" tvg-name="GLOOBINHO ALT" tvg-logo="https://www.claro.com.br/imagem/img-logo-gloobinho-1509150018489.jpg" group-title="INFANTIS",GLOOBINHO ALT
-http://tvbrasil.site:25461/free/free/284
-
-
-NICKELODEON
-
-#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://www.claro.com.br/imagem/canal-nickelodeon-1509138451094.jpg" group-title="INFANTIS",NICKELODEON
-http://tvbrasil.site:25461/free/free/1145
-
-
-#EXTINF:-1 tvg-id="NICKELODEON ALT" tvg-name="NICKELODEON ALT" tvg-logo="https://www.claro.com.br/imagem/canal-nickelodeon-1509138451094.jpg" group-title="INFANTIS",NICKELODEON ALT
-http://tvbrasil.site:25461/free/free/1142
-
-
-
-NICK JR
-
-#EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR" tvg-logo="https://www.claro.com.br/imagem/logo-nick-jr-1509138451206.jpg" group-title="INFANTIS",NICK JR
-http://tvbrasil.site:25461/free/free/1141
-
-#EXTINF:-1 tvg-id="NICK JR ALT" tvg-name="NICK JR ALT" tvg-logo="https://www.claro.com.br/imagem/logo-nick-jr-1509138451206.jpg" group-title="INFANTIS",NICK JR ALT
-http://tvbrasil.site:25461/free/free/1138
-
-
-
-TV RATIMBUM
-
-#EXTINF:-1 tvg-id="TV RATIMBUM" tvg-name="TV RATIMBUM" tvg-logo="https://www.claro.com.br//imagem/logo-tv-ra-tim-bum-1509147619370.jpg" group-title="INFANTIS",TV RATIMBUM
-http://tvbrasil.site:25461/free/free/1376
-
-
-#EXTINF:-1 tvg-id="TV RATIMBUM ALT" tvg-name="TV RATIMBUM ALT" tvg-logo="https://www.claro.com.br//imagem/logo-tv-ra-tim-bum-1509147619370.jpg" group-title="INFANTIS",TV RATIMBUM ALT
-http://tvbrasil.site:25461/free/free/1375
-
-
-TOONCAST
-
-#EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST" tvg-logo="https://www.claro.com.br/imagem/logo-tooncast-1509145175220.jpg" group-title="INFANTIS",TOONCAST
-http://tvbrasil.site:25461/free/free/1352
-
-#EXTINF:-1 tvg-id="TOONCAST ALT" tvg-name="TOONCAST ALT" tvg-logo="https://www.claro.com.br/imagem/logo-tooncast-1509145175220.jpg" group-title="INFANTIS",TOONCAST ALT
-http://tvbrasil.site:25461/free/free/1350
-
-
-ZOOMOO
-
-#EXTINF:-1 tvg-id="ZOOMOO" tvg-name="ZOOMOO" tvg-logo="https://www.claro.com.br/imagem/zoo-moo-kids-1509144762543.jpg" group-title="INFANTIS",ZOOMOO
-http://tvbrasil.site:25461/free/free/1448
-
-#EXTINF:-1 tvg-id="ZOOMOO" tvg-name="ZOOMOO" tvg-logo="https://www.claro.com.br/imagem/zoo-moo-kids-1509144762543.jpg" group-title="INFANTIS",ZOOMOO
-http://tvbrasil.site:25461/free/free/1446
-
-
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/09/34/3d/09343d16ea4888d95790a36ec321d104.jpg" group-title="CANAIS PORTUGAL", [COLOR red]///CANAIS PORTUGAL///[/COLOR]
-http://23.23.1.1
-
-
-
-PORTO CANAL
-
-#EXTINF:-1 tvg-id="PORTO CANAL" tvg-name="PORTO CANAL" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2015/12/image0031.png" group-title="CANAIS PORTUGAL",PORTO CANAL
-https://streamer-a03.videos.sapo.pt/live/portocanal/chunklist_w784780612.m3u8
-
-
-RTP 3
-
-#EXTINF:-1 tvg-id="RTP 3" tvg-name="RTP 3" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/28545_38014_27812.jpg?amp;w=270" group-title="CANAIS PORTUGAL",RTP 3
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/chunklist_b1290000_DVR_slpt.m3u8
-
-
-TVI REALITY
-
-#EXTINF:-1 tvg-id="TVI REALITY" tvg-name="TVI REALITY" tvg-logo="https://gtuga.com/wp-content/uploads/2020/05/bck_tvireality.jpg?amp;w=270" group-title="CANAIS PORTUGAL",TVI REALITY
-https://video-auth6.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8
-
-
-RDP AFRICA
-
-#EXTINF:-1 tvg-id="RDP AFRICA" tvg-name="RDP AFRICA" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/xxdmfepygscd.png" group-title="CANAIS PORTUGAL",RDP AFRICA
-https://streaming-live.rtp.pt/liverepeater/rtpafrica.smil/chunklist_b640000_slpt.m3u8
-
-
-RTP MADEIRA
-
-#EXTINF:-1 tvg-id="RTP MADEIRA" tvg-name="RTP MADEIRA" tvg-logo="https://www.fundacaoip.pt/wp-content/uploads/2018/02/6a1b14a23f63c0a5a5d6c8cd87b5c318.jpeg" group-title="CANAIS PORTUGAL",RTP MADEIRA
-https://streaming-live.rtp.pt/liverepeater/rtpmadeira.smil/chunklist_b640000_slpt.m3u8
-
-
-
-RTP ACORES
-
-#EXTINF:-1 tvg-id="RTP ACORES" tvg-name="RTP ACORES" tvg-logo="https://media.rtp.pt/extra/wp-content/uploads/sites/22/2015/05/RTPA%C3%A7ores.jpg" group-title="CANAIS PORTUGAL",RTP ACORES
-https://streaming-live.rtp.pt/liverepeater/rtpacores.smil/chunklist_b640000_slpt.m3u8
-
-
-
-SPORT TV 1
-
-#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="SPORT TV 1" tvg-logo="https://consumertrends.pt/wp-content/uploads/2019/12/SportTV-vencedor-escolha-do-consumidor-2020.jpg" group-title="CANAIS PORTUGAL",SPORT TV 1
-https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
-
-
-SPORT TV 2
-
-#EXTINF:-1 tvg-id="SPORT TV 2" tvg-name="SPORT TV 2" tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyrpq1470407606.png" group-title="CANAIS PORTUGAL",SPORT TV 2
-https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
-
-
-SPORT TV 3
-
-#EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="SPORT TV 3" tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyrpq1470407606.png" group-title="CANAIS PORTUGAL",SPORT TV 3
-https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
-
-
-SPORT TV 4
-
-#EXTINF:-1 tvg-id="SPORT TV 4" tvg-name="SPORT TV 4" tvg-logo="https://www.thesportsdb.com/images/media/logo/vuytwx1470409983.png" group-title="CANAIS PORTUGAL",SPORT TV 4
-https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
-
-
-
-SPORT TV 5
-
-#EXTINF:-1 tvg-id="SPORT TV 4" tvg-name="SPORT TV 5" tvg-logo="https://www.thesportsdb.com/images/media/logo/uvpqvr1470410094.png" group-title="CANAIS PORTUGAL",SPORT TV 5
-https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
-
-
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/09/34/3d/09343d16ea4888d95790a36ec321d104.jpg" group-title="CANAIS BASQUETE", [COLOR red]///CANAIS BASQUETE///[/COLOR]
-http://23.23.1.1
-
-
-
-INDIANA PACERS X UTAH JAZZ 15
-
-#EXTINF:-1 tvg-id="INDIANA PACERS X UTAH JAZZ 15" tvg-name="INDIANA PACERS X UTAH JAZZ 15" tvg-logo="https://www.nowplayingutah.com/wp-content/uploads/sites/www.nowplayingutah.com/images/2016/09/Indiana_Pacers.jpg" group-title="BASQUETE",INDIANA PACERS X UTAH JAZZ 15
-http://galakszi.azureedge.net/hls/pacers/chunks.m3u8
-
-CHARLOTE HORNETS X WASHINGTON WIZARDS
-
-#EXTINF:-1 tvg-id="CHARLOTE HORNETS X WASHINGTON WIZARDS 15" tvg-name="INDIANA PACERS X UTAH JAZZ 15" tvg-logo="https://s.secure.espncdn.com/stitcher/sports/basketball/nba/events/401161357.png?templateId=espn.com.share.1" group-title="BASQUETE",CHARLOTE HORNETS X WASHINGTON WIZARDS 15
-http://galakszi.azureedge.net/hls/hornets/chunks.m3u8
-
-NBA
-
-#EXTINF:-1 tvg-id="NBA" tvg-name="NBA" tvg-logo="https://img.estadao.com.br/fotos/crop/1200x1200/resources/jpg/8/6/1580249564968.jpg" group-title="BASQUETE",NBA HD
-https://28awq7cp3eu98hew.ezcdn483.net:8443/hls/t08j8ufwz.m3u8?s=3ZGbfDxMcowy8usTRtW7Nw&e=1612737220
-
-New York Knicks Vs Miami Heat 
-
-#EXTINF:-1 tvg-id="New York Knicks Vs Miami Heat " tvg-name="New York Knicks Vs Miami Heat " tvg-logo="https://123burgershotbeer.com/wp-content/uploads/2016/02/NewYork-Knicks-vs-Miami-Heat.jpg" group-title="BASQUETE",New York Knicks Vs Miami Heat 
-http://galakszi.azureedge.net/hls/knicks/chunks.m3u8
-
-ESPN
-
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://img.estadao.com.br/fotos/crop/1200x1200/resources/jpg/8/6/1580249564968.jpg" group-title="BASQUETE",ESPN 
-https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8?sd=10&rebase=on
-
-
-
-ESPN ALT
-
-#EXTINF:-1 tvg-id="ESPN ALT" tvg-name="ESPN ALT" tvg-logo="https://img.estadao.com.br/fotos/crop/1200x1200/resources/jpg/8/6/1580249564968.jpg" group-title="BASQUETE",ESPN ALT
-https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8?sd=10&rebase=on
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="https://i.pinimg.com/originals/5a/dd/c1/5addc1e82aa6c332977ba591dbe19ad5.jpg",101  DALMATAS 24HS
+http://br4.2tv.me:80/live/silvio01/silvio01/17276.m3u8
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="http://sv1.ccdns.xyz:8080/images/102cdaa3328291bee704899ed22e2b5b.png",A GUARDA DO LEÃO 24HS
+http://br4.2tv.me:80/live/silvio01/silvio01/17263.m3u8
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="https://i0.wp.com/universonerd.net/portal/wp-content/uploads/2018/06/Capa-3.jpg?zoom=2.625&resize=320%2C187&ssl=1",A PANTERA COR DE ROSA 24HS
+http://br4.2tv.me:80/live/silvio01/silvio01/4229.m3u8
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="http://sv1.ccdns.xyz:8080/images/e1eb2326b5d15797f2355fa15390a54a.png",A VACA E O FRANGO 24HS
+http://br4.2tv.me:80/live/silvio01/silvio01/17264.m3u8
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="https://i.ytimg.com/vi/lBcANo4p2no/hqdefault.jpg",ALADIN 24HS
+http://br4.2tv.me:80/live/silvio01/silvio01/5952.m3u8
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="http://h.2tv.me/all.PNG",All Sports (HD)
+http://br4.2tv.me:80/live/silvio01/silvio01/4716.m3u8
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="http://sv1.ccdns.xyz:8080/images/052d3d223c4c7795733a81f4a05147e9.png",As aventuras de Jackie Chan 24h
+http://br4.2tv.me:80/live/silvio01/silvio01/930.m3u8
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="https://i.pinimg.com/originals/39/46/27/394627cc6453d1ac73e5c2eb9522438b.jpg",AS MENINAS SUPERPODEROSAS 24HS
+http://br4.2tv.me:80/live/silvio01/silvio01/17265.m3u8
+#EXTINF:-1 group-title="BAND" tvg-logo="https://app.neoweb.tv/assets/img/tv2/band.png",BAND RJ (FHD)
+http://br4.2tv.me:80/live/silvio01/silvio01/4718.m3u8
+#EXTINF:-1 group-title="BBB 2021" tvg-logo="https://firecash.com.br/wp-content/uploads/2021/01/BBB-2021.png",BBB CAM 1 (HD)
+http://br4.2tv.me:80/live/silvio01/silvio01/25406.m3u8
+#EXTINF:-1 group-title="BBB 2021" tvg-logo="https://firecash.com.br/wp-content/uploads/2021/01/BBB-2021.png",BBB CAM 2 (HD)
+http://br4.2tv.me:80/live/silvio01/silvio01/25407.m3u8
+#EXTINF:-1 group-title="BBB 2021" tvg-logo="https://firecash.com.br/wp-content/uploads/2021/01/BBB-2021.png",BBB CAM 3 (HD)
+http://br4.2tv.me:80/live/silvio01/silvio01/25408.m3u8
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="https://a-static.mlcdn.com.br/574x431/painel-de-festa-ben-10-03-colormyhome/colormyhome/333/097e2063dd9226adac80e06e263a1ec2.jpg",BEN 10 24HS
+http://br4.2tv.me:80/live/silvio01/silvio01/5920.m3u8
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="http://sv1.ccdns.xyz:8080/images/929feaca9dab989aac42dec03bcfbeca.jpg",Bob Esponja 24h
+http://br4.2tv.me:80/live/silvio01/silvio01/920.m3u8
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="https://i.pinimg.com/474x/10/54/8f/10548f5f2481d9d053ba7a332021d3a2--pamuk-prenses-birthday-snow-white.jpg",BRANCA DE NEVE 24HS
+http://br4.2tv.me:80/live/silvio01/silvio01/17271.m3u8
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="http://sv1.ccdns.xyz:8080/images/d1d15716dfcb74c214a2c2726c0753ed.png",CAVALEIRO DO ZODIACO 24HS
+http://br4.2tv.me:80/live/silvio01/silvio01/5922.m3u8
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0050f27791c72bd68a096db4c3d42fae.png",CEAK TV ESPIRITA (SD)
+http://br4.2tv.me:80/live/silvio01/silvio01/17580.m3u8
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0050f27791c72bd68a096db4c3d42fae.png",CEAK TV SP ESPIRITA (SD)
+http://br4.2tv.me:80/live/silvio01/silvio01/17581.m3u8
+#EXTINF:-1 group-title="CINE NEOTURBO" tvg-logo="https://www.uninassau.edu.br/sites/mauriciodenassau.edu.br/files/fields/imagemLateral/noticias/2019/02/cinema-desconto-programas-fidelidade.jpg",CINE NEO 01
+http://br4.2tv.me:80/live/silvio01/silvio01/13128.m3u8
+#EXTINF:-1 group-title="CINE NEOTURBO" tvg-logo="https://www.uninassau.edu.br/sites/mauriciodenassau.edu.br/files/fields/imagemLateral/noticias/2019/02/cinema-desconto-programas-fidelidade.jpg",CINE NEO 02
+http://br4.2tv.me:80/live/silvio01/silvio01/13129.m3u8
+#EXTINF:-1 group-title="CINE NEOTURBO" tvg-logo="https://www.uninassau.edu.br/sites/mauriciodenassau.edu.br/files/fields/imagemLateral/noticias/2019/02/cinema-desconto-programas-fidelidade.jpg",CINE NEO 03
+http://br4.2tv.me:80/live/silvio01/silvio01/13130.m3u8
+#EXTINF:-1 group-title="CINE NEOTURBO" tvg-logo="https://www.uninassau.edu.br/sites/mauriciodenassau.edu.br/files/fields/imagemLateral/noticias/2019/02/cinema-desconto-programas-fidelidade.jpg",CINE NEO 04
+http://br4.2tv.me:80/live/silvio01/silvio01/13131.m3u8
+#EXTINF:-1 group-title="CINE NEOTURBO" tvg-logo="https://www.uninassau.edu.br/sites/mauriciodenassau.edu.br/files/fields/imagemLateral/noticias/2019/02/cinema-desconto-programas-fidelidade.jpg",CINE NEO 05
+http://br4.2tv.me:80/live/silvio01/silvio01/13132.m3u8
+#EXTINF:-1 group-title="CINE NEOTURBO" tvg-logo="https://www.uninassau.edu.br/sites/mauriciodenassau.edu.br/files/fields/imagemLateral/noticias/2019/02/cinema-desconto-programas-fidelidade.jpg",CINE NEO 06
+http://br4.2tv.me:80/live/silvio01/silvio01/13133.m3u8
+#EXTINF:-1 group-title="CINE NEOTURBO" tvg-logo="https://www.uninassau.edu.br/sites/mauriciodenassau.edu.br/files/fields/imagemLateral/noticias/2019/02/cinema-desconto-programas-fidelidade.jpg",CINE NEO 07
+http://br4.2tv.me:80/live/silvio01/silvio01/13134.m3u8
+#EXTINF:-1 group-title="CINE NEOTURBO" tvg-logo="https://www.uninassau.edu.br/sites/mauriciodenassau.edu.br/files/fields/imagemLateral/noticias/2019/02/cinema-desconto-programas-fidelidade.jpg",CINE NEO 08
+http://br4.2tv.me:80/live/silvio01/silvio01/13135.m3u8
+#EXTINF:-1 group-title="CINE NEOTURBO" tvg-logo="https://www.uninassau.edu.br/sites/mauriciodenassau.edu.br/files/fields/imagemLateral/noticias/2019/02/cinema-desconto-programas-fidelidade.jpg",CINE NEO 09
+http://br4.2tv.me:80/live/silvio01/silvio01/13136.m3u8
+#EXTINF:-1 group-title="CINE NEOTURBO" tvg-logo="https://i.pinimg.com/originals/0d/bc/36/0dbc36855c5b7c3ea27a514b3d897df3.jpg",CINE NEOTURBO TERROR
+http://br4.2tv.me:80/live/silvio01/silvio01/13139.m3u8
+#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://pbs.twimg.com/profile_images/2583554872/s7c23bso0t4dawky6wk9_400x400.jpeg",CINE SKY  8  (HD)
+http://br4.2tv.me:80/live/silvio01/silvio01/10366.m3u8
+#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://pbs.twimg.com/profile_images/2583554872/s7c23bso0t4dawky6wk9_400x400.jpeg",CINE SKY 10 (HD)
+http://br4.2tv.me:80/live/silvio01/silvio01/10358.m3u8
+#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://pbs.twimg.com/profile_images/2583554872/s7c23bso0t4dawky6wk9_400x400.jpeg",CINE SKY 9 (HD)
+http://br4.2tv.me:80/live/silvio01/silvio01/10367.m3u8
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1559178329194.png",DAZN (HD)
+http://br4.2tv.me:80/live/silvio01/silvio01/17000.m3u8
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="https://ucsfm.com.br/wp-content/uploads/2018/11/SITE-20-11-M-19-800x445.jpg",DE VOLTA PARA O FUTURO 24HS
+http://br4.2tv.me:80/live/silvio01/silvio01/17261.m3u8
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="http://sv1.ccdns.xyz:8080/images/f821c90e4f0ecc5ac464584bcf7de79f.png",DENNIS O PIMENTINHA 24HS
+http://br4.2tv.me:80/live/silvio01/silvio01/17277.m3u8
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="https://static3.tcdn.com.br/img/editor/up/408990/doraaventureiraemacacobotas.png",DORA A AVENTUREIRA 24HS
+http://br4.2tv.me:80/live/silvio01/silvio01/17278.m3u8
+#EXTINF:-1 group-title="MÚSICA E ENTRETENIMENTO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1559180449282.png",E! (HD)
+http://br4.2tv.me:80/live/silvio01/silvio01/96.m3u8
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://s3.amazonaws.com/static.prod.eiplus.com.br/media/CACHE/images/canal/thumb_logo_nov/23458887255b5c400a08239bcd44cdd8.png",EI PLUS (HD)
+http://br4.2tv.me:80/live/silvio01/silvio01/4177.m3u8
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTaYAFpSk4ZO9ITjC4Sp1fgPUk04uUuqhGRfA&usqp=CAU",FACEBOOK WATCH 1 (HD)
+http://br4.2tv.me:80/live/silvio01/silvio01/19402.m3u8
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTaYAFpSk4ZO9ITjC4Sp1fgPUk04uUuqhGRfA&usqp=CAU",FACEBOOK WATCH 2 (HD)
+http://br4.2tv.me:80/live/silvio01/silvio01/19401.m3u8
+#EXTINF:-1 group-title="CANAIS LEGENDADOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/foxp-2.png",FOX PREMIUM 2 (SD) LEGENDADO
+http://br4.2tv.me:80/live/silvio01/silvio01/17478.m3u8
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="https://www.eironons.com/assets/images/casperthefriendlyghostlogocharactermoviet-shirtiron-ontransferdecalcmctfg4-1.jpg",GASPARZINHO 24HS
+http://br4.2tv.me:80/live/silvio01/silvio01/17268.m3u8
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",Globo Brasília (SD)
+http://br4.2tv.me:80/live/silvio01/silvio01/152.m3u8
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1568792268261.png",GLOBO EPTV VARGINHA (FHD)
+http://br4.2tv.me:80/live/silvio01/silvio01/19343.m3u8
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1568792268261.png",GLOBO EPTV VARGINHA (HD)
+http://br4.2tv.me:80/live/silvio01/silvio01/19388.m3u8
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO FLORIANÓPOLIS (SD)
+http://br4.2tv.me:80/live/silvio01/silvio01/4087.m3u8
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1568792268261.png",GLOBO GLOBO RIO GRANDE (FHD)
+http://br4.2tv.me:80/live/silvio01/silvio01/19347.m3u8
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",Globo Inter TV DOS VALES (FHD)
+http://br4.2tv.me:80/live/silvio01/silvio01/4089.m3u8
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",Globo Inter TV DOS VALES (HD)
+http://br4.2tv.me:80/live/silvio01/silvio01/23696.m3u8
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO INTER TV SERRA MAR (FHD)
+http://br4.2tv.me:80/live/silvio01/silvio01/18104.m3u8
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO INTER TV SERRA MAR (HD)
+http://br4.2tv.me:80/live/silvio01/silvio01/18105.m3u8
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO PARANA (FHD)
+http://br4.2tv.me:80/live/silvio01/silvio01/4066.m3u8
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO RBS TV SANTA MARIA (SD)
+http://br4.2tv.me:80/live/silvio01/silvio01/18108.m3u8
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO S. J. DOS CAMPOS (SD)
+http://br4.2tv.me:80/live/silvio01/silvio01/17324.m3u8
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1568792268261.png",GLOBO TV DIARIO MOGI (HD)
+http://br4.2tv.me:80/live/silvio01/silvio01/19391.m3u8
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/1568792268261.png",GLOBO TV FRONTEIRA (HD)
+http://br4.2tv.me:80/live/silvio01/silvio01/19387.m3u8
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png",GLOBO TV SANTA CATARINA (FHD)
+http://br4.2tv.me:80/live/silvio01/silvio01/19344.m3u8
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="https://3.bp.blogspot.com/-a5vv9JaAgJY/XXguJfYWkhI/AAAAAAAABxs/krPlomniL9ATKV0WYPGnBQ5FroGh5fF0gCLcBGAsYHQ/s320/Screenshot_2019-09-10-20-12-37.png",GOSTEI GOSPEL TV  SP (SD)
+http://br4.2tv.me:80/live/silvio01/silvio01/12879.m3u8
+#EXTINF:-1 group-title="CANAIS LEGENDADOS" tvg-logo="https://www.tigo.com.co/sites/tigounecorp/files/fragmentos/general_tarjeta_informacion/Mubdi.jpg",HBO MUNDI (SD) LEGENDADO
+http://br4.2tv.me:80/live/silvio01/silvio01/17499.m3u8
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="https://www.khuxwiki.com/w/images/5/5e/KH_III_Hercules_6%E2%98%85_KHUX.png",HERCULES 24HS
+http://br4.2tv.me:80/live/silvio01/silvio01/17275.m3u8
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="https://cdn.imgbin.com/25/20/19/imgbin-gibby-carly-shay-sam-puckett-icarly-television-show-icarly-nYtERfZNvabZ4awgRaWV4p2cN.jpg",ICARLY 24HS
+http://br4.2tv.me:80/live/silvio01/silvio01/17266.m3u8
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="https://www.tacticaltoolsusa.com/karatekid/images/The-Karate-Kid-Logo-2--Large-.png",KARATE KID 24HS
+http://br4.2tv.me:80/live/silvio01/silvio01/17274.m3u8
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="https://i0.statig.com.br/bancodeimagens/7r/7p/rn/7r7prnlebxf6liufm7z48h6qc.jpg",Kenan e Kel 24h
+http://br4.2tv.me:80/live/silvio01/silvio01/931.m3u8
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="https://1.bp.blogspot.com/-OPbVsGeWKUw/Wo7kNWUi8pI/AAAAAAAAOjc/iRhbnYxwTXk7JLSOcDMM8VPUa7xb4RsUgCLcBGAs/s1600/young-justice-season-three.jpg",LIGA DA JUSTIÇA 24HS
+http://br4.2tv.me:80/live/silvio01/silvio01/4232.m3u8
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="https://gartic.com.br/imgs/mural/me/mercure/ligeirinho-p-s-p-untitled.png",LIGEIRINHO 24HS
+http://br4.2tv.me:80/live/silvio01/silvio01/17270.m3u8
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="https://i.pinimg.com/originals/e7/42/09/e742093e2043fdf214ecf1a9a031277c.jpg",Manda Chuva 24h
+http://br4.2tv.me:80/live/silvio01/silvio01/933.m3u8
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="https://i.ytimg.com/vi/tyHj0OxckSc/hqdefault.jpg",MUNDO BITA 24HS
+http://br4.2tv.me:80/live/silvio01/silvio01/5937.m3u8
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png",NICK (FHD)
+http://br4.2tv.me:80/live/silvio01/silvio01/4724.m3u8
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png",Nick (HD)
+http://br4.2tv.me:80/live/silvio01/silvio01/4714.m3u8
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png",Nick (SD)
+http://br4.2tv.me:80/live/silvio01/silvio01/4715.m3u8
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="https://img.ibxk.com.br/2017/01/23/23201929771429.jpg?w=1040",O Show do Ze Colmeia 24HS
+http://br4.2tv.me:80/live/silvio01/silvio01/5940.m3u8
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="https://3.bp.blogspot.com/-UpCKJiWl_ao/Urw1WB1LkvI/AAAAAAAAbXM/z172b3_e9IY/s1600/the+flintstones.jpg",OS FLINTSTONES 24HS
+http://br4.2tv.me:80/live/silvio01/silvio01/4235.m3u8
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="https://catalogobrasil.mattel.com/news/wp-content/uploads/2018/07/1.png",OS JOVENS TITANS EM AÇÃO 24HS
+http://br4.2tv.me:80/live/silvio01/silvio01/17269.m3u8
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="https://www.animeserie.com/product_images/o/109/Os_Valentes_Cowboys_de_Moo_Mesa__43282_zoom.jpg",OS VALENTES COWBOYS 24HS
+http://br4.2tv.me:80/live/silvio01/silvio01/17272.m3u8
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSHjUTtor_AbTCZiKeohWyU_FJjoUfGMTTp1nqsfWUGiUaPXDCa",REAL MADRID TV (HD)
+http://br4.2tv.me:80/live/silvio01/silvio01/4195.m3u8
+#EXTINF:-1 group-title="RECORD" tvg-logo="https://app.neoweb.tv/assets/img/tv2/record.png",RECORD BRASILIA (SD)
+http://br4.2tv.me:80/live/silvio01/silvio01/3884.m3u8
+#EXTINF:-1 group-title="RECORD" tvg-logo="https://app.neoweb.tv/assets/img/tv2/record.png",Record ES (FHD)
+http://br4.2tv.me:80/live/silvio01/silvio01/4725.m3u8
+#EXTINF:-1 group-title="RECORD" tvg-logo="https://app.neoweb.tv/assets/img/tv2/record.png",Record ES (HD)
+http://br4.2tv.me:80/live/silvio01/silvio01/22509.m3u8
+#EXTINF:-1 group-title="RECORD" tvg-logo="https://app.neoweb.tv/assets/img/tv2/record.png",Record Goiânia (FHD)
+http://br4.2tv.me:80/live/silvio01/silvio01/4726.m3u8
+#EXTINF:-1 group-title="RECORD" tvg-logo="https://app.neoweb.tv/assets/img/tv2/record.png",Record Goiânia (HD)
+http://br4.2tv.me:80/live/silvio01/silvio01/321.m3u8
+#EXTINF:-1 group-title="RECORD" tvg-logo="https://app.neoweb.tv/assets/img/tv2/record.png",Record Goiânia (SD)
+http://br4.2tv.me:80/live/silvio01/silvio01/4081.m3u8
+#EXTINF:-1 group-title="RECORD" tvg-logo="https://app.neoweb.tv/assets/img/tv2/record.png",RECORD MANAUS (HD)
+http://br4.2tv.me:80/live/silvio01/silvio01/4945.m3u8
+#EXTINF:-1 group-title="RECORD" tvg-logo="https://app.neoweb.tv/assets/img/tv2/record.png",Record MG (SD)
+http://br4.2tv.me:80/live/silvio01/silvio01/3898.m3u8
+#EXTINF:-1 group-title="RECORD" tvg-logo="https://app.neoweb.tv/assets/img/tv2/record.png",RECORD SP (HD)
+http://br4.2tv.me:80/live/silvio01/silvio01/869.m3u8
+#EXTINF:-1 group-title="RECORD" tvg-logo="https://app.neoweb.tv/assets/img/tv2/record.png",RECORD SP (SD)
+http://br4.2tv.me:80/live/silvio01/silvio01/870.m3u8
+#EXTINF:-1 group-title="RECORD" tvg-logo="https://app.neoweb.tv/assets/img/tv2/record.png",RECORD TV ITAPOAN (HD)
+http://br4.2tv.me:80/live/silvio01/silvio01/4941.m3u8
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5rBvWLihwEQVltuxcKkwbjNBunwzVWwrrY-OinYcDfgz1vcE1",REDE BRASIL (SD)
+http://br4.2tv.me:80/live/silvio01/silvio01/5954.m3u8
+#EXTINF:-1 group-title="SBT" tvg-logo="https://app.neoweb.tv/assets/img/tv2/sbt.png",SBT BRASILIA (FHD)
+http://br4.2tv.me:80/live/silvio01/silvio01/17048.m3u8
+#EXTINF:-1 group-title="SBT" tvg-logo="https://app.neoweb.tv/assets/img/tv2/sbt.png",SBT ES (HD)
+http://br4.2tv.me:80/live/silvio01/silvio01/17044.m3u8
+#EXTINF:-1 group-title="SBT" tvg-logo="https://app.neoweb.tv/assets/img/tv2/sbt.png",SBT GO (SD)
+http://br4.2tv.me:80/live/silvio01/silvio01/17047.m3u8
+#EXTINF:-1 group-title="SBT" tvg-logo="https://app.neoweb.tv/assets/img/tv2/sbt.png",SBT Piauí (HD)
+http://br4.2tv.me:80/live/silvio01/silvio01/17045.m3u8
+#EXTINF:-1 group-title="SBT" tvg-logo="https://app.neoweb.tv/assets/img/tv2/sbt.png",SBT PR (FHD)
+http://br4.2tv.me:80/live/silvio01/silvio01/4729.m3u8
+#EXTINF:-1 group-title="SBT" tvg-logo="https://app.neoweb.tv/assets/img/tv2/sbt.png",SBT PR (HD)
+http://br4.2tv.me:80/live/silvio01/silvio01/4080.m3u8
+#EXTINF:-1 group-title="SBT" tvg-logo="https://app.neoweb.tv/assets/img/tv2/sbt.png",SBT RJ (FHD)
+http://br4.2tv.me:80/live/silvio01/silvio01/4730.m3u8
+#EXTINF:-1 group-title="SBT" tvg-logo="https://www.maxmilhas.com.br/blog/wp-content/uploads/2015/11/logo-TV-Alterosa-770x450.png",SBT TV ALTEROSA (HD)
+http://br4.2tv.me:80/live/silvio01/silvio01/23698.m3u8
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="https://www.proibidoler.com/wp-content/uploads/2019/05/scooby-doo-na-ilha-dos-zumbis-1998-04.jpg",SCOOBY DOO  24HS
+http://br4.2tv.me:80/live/silvio01/silvio01/4239.m3u8
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="https://4.bp.blogspot.com/-Pa_jVh8DHXY/Tmgf1LTxvNI/AAAAAAAACIM/DQ4nMJaGao8/s1600/Super%2BChoque.png",SUPER CHOQUE 24HS
+http://br4.2tv.me:80/live/silvio01/silvio01/17273.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tru-tv_m.png",TRU TV (HD)
+http://br4.2tv.me:80/live/silvio01/silvio01/18144.m3u8
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tru-tv_m.png",TRU TV (SD)
+http://br4.2tv.me:80/live/silvio01/silvio01/18145.m3u8
+#EXTINF:-1 group-title="24 HORAS" tvg-logo="https://i.ytimg.com/vi/5hkwgWw4uUc/hqdefault.jpg",Turma do Pateta 24HS
+http://br4.2tv.me:80/live/silvio01/silvio01/5946.m3u8
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://i.pinimg.com/originals/a5/51/d7/a551d7b3cc8df71268f90bf5ae5fe3f8.jpg",TV BRASIL (SD)
+http://br4.2tv.me:80/live/silvio01/silvio01/19357.m3u8
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/96/Tvglobinho_logo.jpg",TV Globinho (FHD)
+http://br4.2tv.me:80/live/silvio01/silvio01/4162.m3u8
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/96/Tvglobinho_logo.jpg",TV Globinho (SD)
+http://br4.2tv.me:80/live/silvio01/silvio01/4188.m3u8
+#EXTINF:-1 group-title="ABERTOS" tvg-logo="https://seeklogo.com/images/T/TV_RIO_DOCE-logo-7632087C39-seeklogo.com.gif",TV RIO DOCE (SD)
+http://br4.2tv.me:80/live/silvio01/silvio01/23699.m3u8
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/whoo.png",WOOHOO (FHD)
+http://br4.2tv.me:80/live/silvio01/silvio01/19342.m3u8
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/whoo.png",Woohoo (HD)
+http://br4.2tv.me:80/live/silvio01/silvio01/442.m3u8
