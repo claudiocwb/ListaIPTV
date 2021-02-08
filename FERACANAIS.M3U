@@ -1,4 +1,33 @@
 #EXTM3U
+
+#EXTINF:-1,BBB HD
+http://tvbrasil.site:25461/free/free/717
+#EXTINF:-1,BBB SD
+http://tvbrasil.site:25461/free/free/718
+#EXTINF:-1,BBB PRINCIPAL
+http://tvbrasil.site:25461/free/free/719
+#EXTINF:-1,BBB CAM 11
+http://tvbrasil.site:25461/free/free/720
+#EXTINF:-1,BBB CAM 10
+http://tvbrasil.site:25461/free/free/721
+#EXTINF:-1,BBB CAM 9
+http://tvbrasil.site:25461/free/free/722
+#EXTINF:-1,BBB CAM 8
+http://tvbrasil.site:25461/free/free/723
+#EXTINF:-1,BBB CAM 7
+http://tvbrasil.site:25461/free/free/724
+#EXTINF:-1,BBB CAM 6
+http://tvbrasil.site:25461/free/free/725
+#EXTINF:-1,BBB CAM 5
+http://tvbrasil.site:25461/free/free/726
+#EXTINF:-1,BBB CAM 4
+http://tvbrasil.site:25461/free/free/727
+#EXTINF:-1,BBB CAM 3
+http://tvbrasil.site:25461/free/free/728
+#EXTINF:-1,BBB CAM 2
+http://tvbrasil.site:25461/free/free/729
+#EXTINF:-1,BBB CAM 1
+http://tvbrasil.site:25461/free/free/730
 #EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/aee.png",A&E (HD)
 http://br4.2tv.me:80/live/silvio01/silvio01/2.m3u8
 #EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://app.neoweb.tv/assets/img/tv2/amc.png",AMC (HD)
