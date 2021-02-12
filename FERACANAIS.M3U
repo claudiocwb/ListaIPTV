@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="teste projeto novo" tvg-logo="https://img.flaticon.com/icons/png/512/74/74375.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" group-title="teste projeto novo",teste projeto novo
+#EXTINF:-1 tvg-id="TESTE PROJETO NOVO" tvg-name="teste projeto novo" tvg-logo="https://img.flaticon.com/icons/png/512/74/74375.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" group-title="teste projeto novo",teste projeto novo
 plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=https://bit.ly/3aeTIrO
 
 
-#EXTINF:-1 tvg-id="" tvg-name="teste projeto novo" tvg-logo="https://img.flaticon.com/icons/png/512/74/74375.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" group-title="teste projeto novo",teste projeto novo
+#EXTINF:-1 tvg-id="TESTE PROJETO NOVO" tvg-name="teste projeto novo" tvg-logo="https://img.flaticon.com/icons/png/512/74/74375.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" group-title="teste projeto novo",teste projeto novo
 plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8?sd=10&rebase=on
 
 
