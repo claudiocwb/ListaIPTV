@@ -9,7 +9,10 @@ plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=https://p
 
 
 
+LOADING
 
+#EXTINF:-1 tvg-id="LOADING" tvg-name="LOADING" tvg-logo="https://i.ibb.co/QfpPhG4/LOGO-GLOOBINHO.png" group-title="INFANTIL",LOADING
+plugin://plugin.video.f4mTester/?name=[COLOR green][B]feracanais[/B][/COLOR]&streamtype=HLSRETRY&amp;url=https://akamai2-br.cdn.booyah.live/hls/1000029/34850987_1080.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="0 BBB 21 DIGITAL" tvg-logo="https://i.ibb.co/S7qrdhV/BB1221.png" group-title="BBB 2021",0 BBB 21 DIGITAL
 plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://pvsrvs.xyz:80/8N7aJE/wil456/27794
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="0 Globo RJ DIGITAL" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS | GLOBO",0 Globo RJ DIGITAL
