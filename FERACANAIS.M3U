@@ -1,18 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TESTE PROJETO NOVO" tvg-name="teste projeto novo" tvg-logo="https://img.flaticon.com/icons/png/512/74/74375.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" group-title="teste projeto novo",teste projeto novo
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=https://bit.ly/3aeTIrO
-
-
-#EXTINF:-1 tvg-id="TESTE PROJETO NOVO" tvg-name="teste projeto novo" tvg-logo="https://img.flaticon.com/icons/png/512/74/74375.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" group-title="teste projeto novo",teste projeto novo
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8?sd=10&rebase=on
-
-
 
 
 LOADING
 
 #EXTINF:-1 tvg-id="LOADING" tvg-name="LOADING" tvg-logo="https://i.ibb.co/QfpPhG4/LOGO-GLOOBINHO.png" group-title="INFANTIL",LOADING
-plugin://plugin.video.f4mTester/?name=[COLOR green][B]feracanais[/B][/COLOR]&streamtype=HLSRETRY&amp;url=https://akamai2-br.cdn.booyah.live/hls/1000029/34850987_1080.m3u8
+plugin://plugin.video.f4mTester/?name=[COLOR green][B]feracanais[/B][/COLOR]&streamtype=HLSRETRY&amp;url=https://verizon.br.cdn.booyah.live/hls/1000005/34850987_1080.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="0 BBB 21 DIGITAL" tvg-logo="https://i.ibb.co/S7qrdhV/BB1221.png" group-title="BBB 2021",0 BBB 21 DIGITAL
 plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://pvsrvs.xyz:80/8N7aJE/wil456/27794
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="0 Globo RJ DIGITAL" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS | GLOBO",0 Globo RJ DIGITAL
