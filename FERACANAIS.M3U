@@ -1,6 +1,20 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="POR FAVOR, ATUALIZE O ADDON PELO REPO VILINGS" tvg-name="POR FAVOR, ATUALIZE O ADDON PELO REPO VILINGS" tvg-logo="" group-title="INFANTIL",LOADING
+#EXTINF:-1 tvg-id="POR FAVOR, ATUALIZE O ADDON PELO REPO VILINGS" tvg-name="POR FAVOR, ATUALIZE O ADDON PELO REPO VILINGS" tvg-logo="" group-title="",
 plugin://plugin.video.f4mTester/?name=[COLOR green][B]feracanais[/B][/COLOR]&streamtype=HLSRETRY&amp;url=HTTP://VKODI.NET/REPO
 
+
+BAND
+
+#EXTINF:-1 tvg-id="teste" tvg-name="teste" tvg-logo="http://bit.ly/2LItdRX" group-title="ABERTOS",teste
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=plugin%3A%2F%2Fplugin.video.f4mTester%2F%3Fstreamtype%3DHLSRETRY%26name%3DANIMAL+PLANET+HD%0D%26url%3D%24doregex%5Bencodedurl%5D&amp;mode=17&amp;regexs=%7Bu%27encodedurl%27%3A%20%7B%27expres%27%3A%20u%22%24pyFunction%3Aurllib.quote_plus%28%27http%3A//sv1.myiptv4k.top%3A8080/live/guido123/guido123/3433.m3u8
+
+
+#EXTINF:-1 tvg-id="teste" tvg-name="teste" tvg-logo="http://bit.ly/2LItdRX" group-title="ABERTOS",teste
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=plugin%3A%2F%2Fplugin.video.f4mTester%2F%3Fstreamtype%3DHLSRETRY%26name%3DANIMAL+PLANET+HD%0D%26url%3D%24doregex%5Bencodedurl%5D&amp;mode=17&amp;regexs=%7Bu%27encodedurl%27%3A%20%7B%27expres%27%3A%20u%22%24pyFunction%3Aurllib.quote_plus%28%27http%3A//sv1.myiptv4k.top%3A8080/live/guido123/guido123/3433.m3u8)
+
+
+
+#EXTINF:-1 tvg-id="teste" tvg-name="teste" tvg-logo="http://bit.ly/2LItdRX" group-title="ABERTOS",teste
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://sv1.myiptv4k.top:8080/live/guido123/guido123/3433.m3u8
